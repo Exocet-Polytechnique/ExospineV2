@@ -6,3 +6,4 @@ fp-info-cache
 *.csv
 *.tsv
 *.xml
+_autosave-*
