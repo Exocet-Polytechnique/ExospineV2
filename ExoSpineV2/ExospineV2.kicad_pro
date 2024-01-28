@@ -352,7 +352,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "RaspberryPi-HAT.kicad_pro",
+    "filename": "ExospineV2.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -449,7 +449,9 @@
     "page_layout_descr_file": "",
     "plot_directory": "",
     "spice_adjust_passive_values": false,
+    "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
+    "spice_model_current_sheet_as_root": true,
     "spice_save_all_currents": false,
     "spice_save_all_voltages": false,
     "subpart_first_id": 65,
@@ -459,6 +461,14 @@
     [
       "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
       ""
+    ],
+    [
+      "563735d4-f01e-4d40-83f7-4d657ea17672",
+      "ExoSpineV1"
+    ],
+    [
+      "77cdc5a8-d1bc-4d35-84a1-111d7418a725",
+      "MCP3008"
     ]
   ],
   "text_variables": {}
