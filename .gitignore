@@ -2,3 +2,7 @@
 fp-info-cache
 *.lck
 *-backups/
+*-bak
+*.csv
+*.tsv
+*.xml
