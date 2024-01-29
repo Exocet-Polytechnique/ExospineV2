@@ -2090,10 +2090,10 @@
     (property "Datasheet" "~" (at 184.15 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (pin "1" (uuid 4feddbc9-6945-45a1-83d9-69cf148609ec))
     (pin "2" (uuid 5faed97e-821d-4a0c-8203-e58faef57cab))
     (pin "3" (uuid b52febeb-2ad7-478e-ac54-529515ec7888))
     (pin "4" (uuid a88b76aa-adcf-491c-ba35-2a2b33fb3a57))
-    (pin "1" (uuid 4feddbc9-6945-45a1-83d9-69cf148609ec))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -2124,6 +2124,23 @@
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR0103") (unit 1)
         )
+      )
+    )
+  )
+
+  (sheet (at 158.75 76.2) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 28ef2198-1220-4d12-a076-df1c2bc4422d)
+    (property "Sheetname" "ALimentation12-5v" (at 158.75 75.4884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Alimentation12-5v.kicad_sch" (at 158.75 80.5946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "ExospineV2"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55" (page "4"))
       )
     )
   )
