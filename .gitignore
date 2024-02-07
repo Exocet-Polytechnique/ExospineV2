@@ -28,6 +28,13 @@ fp-info-cache
 *.xml
 *.csv
 
+
+# Template2
+\#auto_saved_files\#
+*.lck
+*-backups/
+*-bak
+*.tsv
+
 # Added by user
 sym-lib-table
-.lck
