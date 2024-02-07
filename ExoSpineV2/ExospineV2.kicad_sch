@@ -2511,6 +2511,23 @@
     )
   )
 
+  (sheet (at 124.46 109.22) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 2218c4f6-43cb-43cc-aeaf-027d862041c6)
+    (property "Sheetname" "ExoSpineV1" (at 124.46 108.5084 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "ExoSpineV1.kicad_sch" (at 124.46 113.6146 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "ExospineV2"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55" (page "4"))
+      )
+    )
+  )
+
   (sheet (at 193.04 34.29) (size 13.97 12.7) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
