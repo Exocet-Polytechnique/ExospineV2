@@ -968,9 +968,6 @@
     (pin "6" (uuid 08620b69-a6be-4771-b387-6a2ca800adfc))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-          (reference "U5") (unit 1)
-        )
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/28ef2198-1220-4d12-a076-df1c2bc4422d"
           (reference "U5") (unit 1)
         )

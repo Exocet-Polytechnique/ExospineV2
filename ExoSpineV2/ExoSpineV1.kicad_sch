@@ -4448,7 +4448,7 @@
     (pin "2" (uuid 842fd158-6af9-4907-be60-38764308681c))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "J8") (unit 1)
         )
       )
@@ -4479,7 +4479,7 @@
     (pin "2" (uuid 0d496e37-6f47-4281-b4ee-911665fae5c3))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "R9") (unit 1)
         )
       )
@@ -4515,7 +4515,7 @@
     (pin "6" (uuid 671b070e-f891-46ab-a995-cc8178f420de))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "K1") (unit 1)
         )
       )
@@ -4546,7 +4546,7 @@
     (pin "2" (uuid d1bbd26f-d853-466d-98c2-8ae4348d802b))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "R6") (unit 1)
         )
       )
@@ -4581,7 +4581,7 @@
     (pin "6" (uuid 545a2686-14a4-4ea0-8069-cace50e19be1))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "Ac1") (unit 1)
         )
       )
@@ -4611,7 +4611,7 @@
     (pin "1" (uuid e9b0c488-f851-46ac-9169-91f90b26e8c3))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "#PWR03") (unit 1)
         )
       )
@@ -4642,7 +4642,7 @@
     (pin "2" (uuid 985f409d-d65c-4b9e-ab92-0b89c50a61aa))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "J13") (unit 1)
         )
       )
@@ -4673,7 +4673,7 @@
     (pin "2" (uuid ff198fe4-31b0-47b4-b510-a3bdde97d421))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "C2") (unit 1)
         )
       )
@@ -4704,7 +4704,7 @@
     (pin "2" (uuid 116950e1-64e9-4586-af68-3c33d9b057e9))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "D2") (unit 1)
         )
       )
@@ -4740,7 +4740,7 @@
     (pin "2" (uuid 1e978593-ff2c-4e42-a25b-9278f453e120))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "Battery1") (unit 1)
         )
       )
@@ -4776,7 +4776,7 @@
     (pin "2" (uuid 61339513-2f04-465f-a4a6-40ed15f570a9))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "C10") (unit 1)
         )
       )
@@ -4808,7 +4808,7 @@
     (pin "3" (uuid c0b38d6c-5eab-41a2-8ca9-c4c6120d2e9c))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "Q1") (unit 1)
         )
       )
@@ -4839,7 +4839,7 @@
     (pin "2" (uuid 0480f7c1-2b54-4556-bf39-4c2cb910432e))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "C8") (unit 1)
         )
       )
@@ -4870,7 +4870,7 @@
     (pin "2" (uuid fcb90924-4d3c-4515-8e45-60af4a1a4250))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "C5") (unit 1)
         )
       )
@@ -4901,7 +4901,7 @@
     (pin "2" (uuid 001a48a4-d5ee-43e9-ae4b-006ec3fa9315))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "J14") (unit 1)
         )
       )
@@ -4932,7 +4932,7 @@
     (pin "2" (uuid 55dbef33-3f81-4bb8-8970-54670b8019fb))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "J9") (unit 1)
         )
       )
@@ -4963,7 +4963,7 @@
     (pin "2" (uuid 6a5cb40c-79a6-4b55-97a4-29ddc0868718))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "C9") (unit 1)
         )
       )
@@ -4994,7 +4994,7 @@
     (pin "2" (uuid 56f27785-cf8a-4e5d-b941-148c33f101b2))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "R4") (unit 1)
         )
       )
@@ -5025,7 +5025,7 @@
     (pin "2" (uuid f12a61fc-39dd-48d9-a48a-9db2008990f5))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "J7") (unit 1)
         )
       )
@@ -5055,7 +5055,7 @@
     (pin "1" (uuid 171f23c3-abc0-43bb-ad9a-b06f7371e6a7))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "#PWR05") (unit 1)
         )
       )
@@ -5088,7 +5088,7 @@
     (pin "6" (uuid 5b160949-a4a4-4034-b327-9970083c4710))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "K4") (unit 1)
         )
       )
@@ -5180,7 +5180,7 @@
     (pin "S4" (uuid e4b08e41-5b73-40dd-80e6-ab444bfa3fd1))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "U1") (unit 1)
         )
       )
@@ -5211,7 +5211,7 @@
     (pin "2" (uuid c1c1d139-07ed-46ea-9b66-5b50b486ae5f))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "D1") (unit 1)
         )
       )
@@ -5252,7 +5252,7 @@
     (pin "6" (uuid 373d29dd-a230-4e77-abf0-60f6a6afb02c))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "K3") (unit 1)
         )
       )
@@ -5283,7 +5283,7 @@
     (pin "2" (uuid 40abd3ae-51f3-4076-b958-02821af2ad77))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "B1") (unit 1)
         )
       )
@@ -5319,7 +5319,7 @@
     (pin "2" (uuid 76ef7e40-07a3-4ffe-9946-b469c323482f))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "R5") (unit 1)
         )
       )
@@ -5354,7 +5354,7 @@
     (pin "3" (uuid 79510843-1b02-409e-ae45-8f7e0e82dd04))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "Pr1") (unit 1)
         )
       )
@@ -5385,7 +5385,7 @@
     (pin "2" (uuid 3618b9ba-a843-4620-849a-ee5466a595e3))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "48V_Motor1") (unit 1)
         )
       )
@@ -5421,7 +5421,7 @@
     (pin "2" (uuid 276e8246-a953-4144-872b-cbff1e3cf22d))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "F5") (unit 1)
         )
       )
@@ -5457,7 +5457,7 @@
     (pin "2" (uuid b9e69cba-b654-4667-bc6a-f83781219ef4))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "R3") (unit 1)
         )
       )
@@ -5488,7 +5488,7 @@
     (pin "2" (uuid 72fd386a-4855-4c95-b15a-c5bde5eed54e))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "C4") (unit 1)
         )
       )
@@ -5519,7 +5519,7 @@
     (pin "2" (uuid 01780c2f-3466-46ee-949f-c10e5b0ed094))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "R2") (unit 1)
         )
       )
@@ -5550,7 +5550,7 @@
     (pin "2" (uuid d52fea14-2c68-4a8c-bf77-239d75fb5234))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "J12") (unit 1)
         )
       )
@@ -5581,7 +5581,7 @@
     (pin "2" (uuid c4379879-2aab-48e9-bbcb-c6911fc840bf))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "R1") (unit 1)
         )
       )
@@ -5616,7 +5616,7 @@
     (pin "9" (uuid bfb941a7-d840-4c72-a34c-32e15e90af87))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference ".11") (unit 1)
         )
       )
@@ -5651,7 +5651,7 @@
     (pin "1" (uuid 5ea22ee9-bb25-409e-901e-1cfa8ec5acf0))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "#PWR01") (unit 1)
         )
       )
@@ -5682,7 +5682,7 @@
     (pin "2" (uuid 26e94283-0173-48e7-988b-de7c95b1c0dd))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "C1") (unit 1)
         )
       )
@@ -5717,7 +5717,7 @@
     (pin "6" (uuid 6c59c175-0fe3-45b8-bb8c-2d4fbc523e8a))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "Ac2") (unit 1)
         )
       )
@@ -5748,7 +5748,7 @@
     (pin "2" (uuid aec33019-aafd-42fa-9cc2-6b70fa583292))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "R8") (unit 1)
         )
       )
@@ -5793,7 +5793,7 @@
     (pin "9" (uuid 34c084c2-b9dc-47ae-a1d6-1af6a25646fc))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "U2") (unit 1)
         )
       )
@@ -5824,7 +5824,7 @@
     (pin "2" (uuid af59fa16-1b37-4592-93a7-7ab5264cde13))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "C6") (unit 1)
         )
       )
@@ -5855,7 +5855,7 @@
     (pin "2" (uuid adc02a89-ef86-49d7-984d-7d98e2052680))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "R7") (unit 1)
         )
       )
@@ -5886,7 +5886,7 @@
     (pin "2" (uuid 876e278b-614c-457a-aa8d-cf1a8a1aed76))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "C7") (unit 1)
         )
       )
@@ -5917,7 +5917,7 @@
     (pin "2" (uuid 8c197545-88d8-41d3-aa09-064258c87374))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "B2") (unit 1)
         )
       )
@@ -5957,7 +5957,7 @@
     (pin "3" (uuid b161fa74-8d9c-4ed9-9e1e-86c127da54ea))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "Pr2") (unit 1)
         )
       )
@@ -5987,7 +5987,7 @@
     (pin "1" (uuid 6658b654-3069-42cf-ba27-be30923c8b10))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "#PWR07") (unit 1)
         )
       )
@@ -6017,7 +6017,7 @@
     (pin "1" (uuid 8eaab576-b4cd-4b52-916e-2c210e16b844))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "#PWR02") (unit 1)
         )
       )
@@ -6049,7 +6049,7 @@
     (pin "3" (uuid 5e477869-3af1-4e26-929f-6315882a2006))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "U3") (unit 1)
         )
       )
@@ -6081,7 +6081,7 @@
     (pin "3" (uuid a587a6bb-a41d-4a51-a750-463ef77227a8))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "Q2") (unit 1)
         )
       )
@@ -6112,7 +6112,7 @@
     (pin "2" (uuid 41677d45-3fca-4279-8042-b943405a6d57))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "F1") (unit 1)
         )
       )
@@ -6150,7 +6150,7 @@
     (pin "6" (uuid 440b4817-3ba3-4baa-bc6b-33e114e0fb88))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "K7") (unit 1)
         )
       )
@@ -6181,7 +6181,7 @@
     (pin "2" (uuid 9eb427ba-24e8-4151-96b1-887cdd8c76cf))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "J2") (unit 1)
         )
       )
@@ -6213,7 +6213,7 @@
     (pin "3" (uuid ed3f152b-0d98-4d32-8cdd-5e990e7accc1))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "Q3") (unit 1)
         )
       )
@@ -6244,7 +6244,7 @@
     (pin "2" (uuid 63323eb4-85cd-46c6-be74-24dd5ebd4026))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "C3") (unit 1)
         )
       )
@@ -6285,7 +6285,7 @@
     (pin "9" (uuid 9d515f31-4f60-447e-bbc4-7154eeaf15e9))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "J6") (unit 1)
         )
       )
@@ -6326,7 +6326,7 @@
     (pin "9" (uuid 191dfb31-a211-4b06-8fb3-58ffe251dc6b))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "J5") (unit 1)
         )
       )
@@ -6361,7 +6361,7 @@
     (pin "9" (uuid 95f04e52-9c5d-4b06-b635-a1163ddff121))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference ".3") (unit 1)
         )
       )
@@ -6399,7 +6399,7 @@
     (pin "6" (uuid 15f150b3-47b1-4c84-a792-78877f0cafd5))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "K8") (unit 1)
         )
       )
@@ -6435,7 +6435,7 @@
     (pin "6" (uuid 7c223d7f-b3e6-4c15-9b1d-551d46c6c929))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "K2") (unit 1)
         )
       )
@@ -6467,7 +6467,7 @@
     (pin "3" (uuid 0564e43e-af51-4dd6-8065-a0e70c6b5d5b))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "Q5") (unit 1)
         )
       )
@@ -6499,7 +6499,7 @@
     (pin "3" (uuid f68db09a-d0ef-44fa-a42f-80c6658a5bc2))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "J4") (unit 1)
         )
       )
@@ -6529,7 +6529,7 @@
     (pin "1" (uuid 7898c3b9-0068-4771-a77e-5d06baed340a))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "#PWR04") (unit 1)
         )
       )
@@ -6560,7 +6560,7 @@
     (pin "2" (uuid 793fffbf-2f5b-4559-b927-82ac34922bfb))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "J1") (unit 1)
         )
       )
@@ -6592,7 +6592,7 @@
     (pin "3" (uuid 84be1efc-68c4-41f3-a5c8-e2bfcc403769))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "J10") (unit 1)
         )
       )
@@ -6623,7 +6623,7 @@
     (pin "2" (uuid 2444852c-837b-4666-8ee7-e98778ef97ff))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "F4") (unit 1)
         )
       )
@@ -6663,7 +6663,7 @@
     (pin "9" (uuid 141cb2eb-1f76-4406-b096-78dd9ce932bd))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "DC-DC2") (unit 1)
         )
       )
@@ -6700,7 +6700,7 @@
     (pin "3" (uuid 49af5c9e-d187-4acb-b5b7-d96d34945e9f))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "Q4") (unit 1)
         )
       )
@@ -6734,7 +6734,7 @@
     (pin "2" (uuid 60d54ec6-0a7c-4331-9b34-f45fec75c87e))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "J11") (unit 1)
         )
       )
@@ -6767,7 +6767,7 @@
     (pin "6" (uuid bdd4043c-beb1-4206-86e4-a55074d57952))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "K5") (unit 1)
         )
       )
@@ -6798,7 +6798,7 @@
     (pin "2" (uuid e6da2694-18e7-4625-b1d2-1f13c3f84ecf))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "J3") (unit 1)
         )
       )
@@ -6829,7 +6829,7 @@
     (pin "2" (uuid 074b5bdf-b6f5-497c-aa97-e2aa4ce25b8d))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "F2") (unit 1)
         )
       )
@@ -6867,7 +6867,7 @@
     (pin "6" (uuid 8ef13fe1-2711-474a-839f-b2ff15cbfdea))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "K6") (unit 1)
         )
       )
@@ -6897,7 +6897,7 @@
     (pin "1" (uuid 0ebd80c6-ea93-4154-8b8c-8f1feb7ff735))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "#PWR06") (unit 1)
         )
       )
@@ -6928,7 +6928,7 @@
     (pin "2" (uuid c5e1b2b6-309d-452a-9c47-85d6935615cf))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/563735d4-f01e-4d40-83f7-4d657ea17672"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2218c4f6-43cb-43cc-aeaf-027d862041c6"
           (reference "C11") (unit 1)
         )
       )
