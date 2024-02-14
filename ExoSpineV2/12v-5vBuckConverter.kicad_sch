@@ -934,6 +934,11 @@
     )
     (pin "1" (uuid 1e7f2aa1-1a33-4afc-917f-d1ffab5e0281))
     (instances
+      (project "ExospineV2"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9042656c-fbb6-4ad3-be09-ad4e06445cda"
+          (reference "#PWR011") (unit 1)
+        )
+      )
     )
   )
 
@@ -1013,6 +1018,11 @@
     )
     (pin "1" (uuid c81128ac-be5c-4b42-9ab5-071686555002))
     (instances
+      (project "ExospineV2"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9042656c-fbb6-4ad3-be09-ad4e06445cda"
+          (reference "#PWR021") (unit 1)
+        )
+      )
     )
   )
 
@@ -1059,6 +1069,11 @@
     )
     (pin "1" (uuid 2aaa2997-aa72-48e7-b556-c5d37a312334))
     (instances
+      (project "ExospineV2"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9042656c-fbb6-4ad3-be09-ad4e06445cda"
+          (reference "#PWR022") (unit 1)
+        )
+      )
     )
   )
 
@@ -1079,6 +1094,11 @@
     )
     (pin "1" (uuid bb7426be-e146-4eb2-9603-98297869be91))
     (instances
+      (project "ExospineV2"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9042656c-fbb6-4ad3-be09-ad4e06445cda"
+          (reference "#PWR013") (unit 1)
+        )
+      )
     )
   )
 
@@ -1203,6 +1223,11 @@
     )
     (pin "1" (uuid b3df69bf-b890-423b-9c10-39c71da4f992))
     (instances
+      (project "ExospineV2"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9042656c-fbb6-4ad3-be09-ad4e06445cda"
+          (reference "#PWR014") (unit 1)
+        )
+      )
     )
   )
 )

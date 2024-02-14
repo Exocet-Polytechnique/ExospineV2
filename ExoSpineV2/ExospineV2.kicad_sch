@@ -3363,6 +3363,14 @@
     (uuid f99cb056-fe09-460d-bb3b-51a6fbab8f05)
   )
 
+  (text_box "I2C addresses:\nADXL = 0x53\nHMC = 0x0C\nITG = 0x68\nBMP = 0x77\n"
+    (at 245.11 44.45 0) (size 10.16 6.35)
+    (stroke (width -0.0001) (type default))
+    (fill (type color) (color 255 229 191 1))
+    (effects (font (size 0.762 0.762)) (justify right top))
+    (uuid f2747faa-ce22-4398-9cbc-d864e8157ff5)
+  )
+
   (text "Actuator Feedback 1 \n" (at 209.55 217.17 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 01035e36-77f4-4ad6-bb03-dd9801e20047)
