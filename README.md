@@ -1,2 +1,2 @@
-# ExospineV2
-Une mise à jour de exospine
+# ExoSpineV2
+Version 2 of the PCB.
