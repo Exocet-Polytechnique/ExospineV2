@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "1ExoSpineLibrary")(type "KiCad")(uri "${KIPRJMOD}/1ExoSpineLibrary.kicad_sym")(options "")(descr ""))
+)
