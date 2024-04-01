@@ -4499,10 +4499,10 @@
     )
     (pin "1" (uuid a62cccfb-e1d6-44c4-9fc6-d8763c0b1624))
     (pin "2" (uuid 791e0de8-c7fe-483c-b6e0-c4ad775ae8ca))
-    (pin "6" (uuid f8362afb-4a8f-497f-81b9-495f11b7cbe9))
-    (pin "5" (uuid dd2d99bc-a36c-48cc-b4ad-ab27194650b1))
-    (pin "4" (uuid f230b9f5-a596-403c-a17f-d4c6d5ccc27f))
     (pin "3" (uuid 50364754-2386-46e2-9092-9480705ecde3))
+    (pin "4" (uuid f230b9f5-a596-403c-a17f-d4c6d5ccc27f))
+    (pin "5" (uuid dd2d99bc-a36c-48cc-b4ad-ab27194650b1))
+    (pin "6" (uuid f8362afb-4a8f-497f-81b9-495f11b7cbe9))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -5924,10 +5924,10 @@
     )
     (pin "1" (uuid 92422c04-03dd-4337-b53c-eb816a517458))
     (pin "2" (uuid d1faa6d0-ff66-42cb-81c8-79fa222e39e4))
-    (pin "6" (uuid ace02cce-1acf-445e-974d-a922f0764bae))
-    (pin "5" (uuid 67c10cae-ab44-496a-88eb-6d31bbbd6aaf))
-    (pin "4" (uuid 47a7f6e1-3f84-41f0-9bef-cec653b6843e))
     (pin "3" (uuid 048c312d-13d9-4905-bb27-223a26e3f236))
+    (pin "4" (uuid 47a7f6e1-3f84-41f0-9bef-cec653b6843e))
+    (pin "5" (uuid 67c10cae-ab44-496a-88eb-6d31bbbd6aaf))
+    (pin "6" (uuid ace02cce-1acf-445e-974d-a922f0764bae))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
