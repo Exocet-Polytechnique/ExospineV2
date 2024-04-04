@@ -3551,7 +3551,7 @@
     (property "Datasheet" "" (at 92.71 80.01 0)
       (effects (font (size 1.27 1.27)))
     )
-    (pin "1" (uuid c4a8cca2-2b39-45ae-a676-abbcbbb9291c))
+    (pin "1" (uuid af2ac93f-dd19-45f6-a65c-e5bfe917c953))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -3576,7 +3576,7 @@
     (property "Datasheet" "" (at 74.93 80.01 0)
       (effects (font (size 1.27 1.27)))
     )
-    (pin "1" (uuid 6d128834-dfd6-4792-956f-f932023802bf))
+    (pin "1" (uuid 04d83117-95fc-498a-a5f8-e98bcdb1dd0f))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -3601,46 +3601,46 @@
     (property "Datasheet" "" (at -40.64 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8d678796-43d4-427f-808d-7fd8ec169db6))
-    (pin "10" (uuid 60352f90-6662-4327-b929-2a652377970d))
-    (pin "11" (uuid bcebd85f-ba9c-4326-8583-2d16e80f86cc))
-    (pin "12" (uuid 374dda98-f237-42fb-9b1c-5ef014922323))
-    (pin "13" (uuid dc56ad3e-bf8f-4c14-9986-bfbd814e6046))
-    (pin "14" (uuid 22de7a1e-7139-424e-a08f-5637a3cbb7ec))
-    (pin "15" (uuid 99d4839a-5e23-4f38-87be-cc216cfbc92e))
-    (pin "16" (uuid bf484b5b-d704-482d-82b9-398bc4428b95))
-    (pin "17" (uuid c90bbfc0-7eb1-4380-a651-41bf50b1220f))
-    (pin "18" (uuid 03383b10-1079-4fba-8060-9f9c53c058bc))
-    (pin "19" (uuid 1924e169-9490-4063-bf3c-15acdcf52237))
-    (pin "2" (uuid ad7257c9-5993-4f44-95c6-bd7c1429758a))
-    (pin "20" (uuid fa546df5-3653-4146-846a-6308898b49a9))
-    (pin "21" (uuid 274d987a-c040-40c3-a794-43cce24b40e1))
-    (pin "22" (uuid 3f3c1a2b-a960-4f18-a1ff-e16c0bb4e8be))
-    (pin "23" (uuid d18e9ea2-3d2c-453b-94a1-b440c51fb517))
-    (pin "24" (uuid 883cea99-bf86-4a21-b74e-d9eccfe3bb11))
-    (pin "25" (uuid ee8199e5-ca85-4477-b69b-685dac4cb36f))
-    (pin "26" (uuid ae88bd49-d271-451c-b711-790ae2bc916d))
-    (pin "27" (uuid e65a58d0-66df-47c8-ba7a-9decf7b62352))
-    (pin "28" (uuid eb06b754-7921-4ced-b398-468daefd5fe1))
-    (pin "29" (uuid 41a1996f-f227-48b7-8998-5a787b954c27))
-    (pin "3" (uuid 63960b0f-1103-4a28-98e8-6366c9251923))
-    (pin "30" (uuid 0f40f8fe-41f2-45a3-bfad-404e1753e1a3))
-    (pin "31" (uuid 875dc476-7474-4fa2-b0bc-7184c49f0cce))
-    (pin "32" (uuid 2e41567c-59c4-47e5-9704-fc8ccbdf4458))
-    (pin "33" (uuid 1dcb890b-0384-4fe7-a919-40b76d67acdc))
-    (pin "34" (uuid 363e3701-da11-4161-8070-aecd7d8230aa))
-    (pin "35" (uuid cfa5c1a9-80ca-4c9f-a2f8-811b12be8c74))
-    (pin "36" (uuid 4f5db303-972a-4513-a45e-b6a6994e610f))
-    (pin "37" (uuid 18afcba7-0034-4b0e-b10c-200435c7d68d))
-    (pin "38" (uuid 392da693-2805-40a9-a609-3c755bbe5d4a))
-    (pin "39" (uuid 89e25265-707b-4a0e-b226-275188cfb9ab))
-    (pin "4" (uuid 9043cae1-a891-425f-9e97-d1c0287b6c05))
-    (pin "40" (uuid ff41b223-909f-4cd3-85fa-f2247e7770d7))
-    (pin "5" (uuid 0545cf6d-a304-4d68-a158-d3f4ce6a9e0e))
-    (pin "6" (uuid caa3e93a-7968-4106-b2ea-bd924ef0c715))
-    (pin "7" (uuid ab2f3015-05e6-4b38-b1fc-04c3e46e21e3))
-    (pin "8" (uuid 47c7060d-0fda-4147-a0fd-4f06b00f4059))
-    (pin "9" (uuid 782d2c1f-9599-409d-a3cc-c1b6fda247d8))
+    (pin "1" (uuid 8e16fd86-c48e-4cd9-8623-f5655a72187e))
+    (pin "10" (uuid 4d4c1afd-2211-4c21-81fd-962a900712eb))
+    (pin "11" (uuid 0af66377-89b0-45c9-a317-27503a52527a))
+    (pin "12" (uuid 2d9112e1-8216-48f2-88c4-4af34ed8d08c))
+    (pin "13" (uuid 41d1b9c5-f827-45ea-8e57-5acd780e4a8b))
+    (pin "14" (uuid 902b3f36-5b46-488d-b8eb-ce09b28b2e48))
+    (pin "15" (uuid 8ae4512a-2e6b-443b-b4de-7f0bd3412f0a))
+    (pin "16" (uuid 71d978b7-9988-4920-9754-5dc4322ac574))
+    (pin "17" (uuid 9e38b189-34b1-4b4c-acd8-0bd07dd7d0f7))
+    (pin "18" (uuid 2421e508-f309-4bfd-90a6-ab31a0a78e5b))
+    (pin "19" (uuid cc7caddd-f2a7-4641-984b-e89da0fbbc57))
+    (pin "2" (uuid d5d4a7bb-cde3-4754-b3ee-12bfd310bbfe))
+    (pin "20" (uuid ea7bc05e-10eb-4dbc-bb4c-da31c7a755b5))
+    (pin "21" (uuid c87e7f89-dac3-42c2-9b15-f5e549628f3d))
+    (pin "22" (uuid 822e5734-c223-4aa4-87ff-ac8e09c1adbd))
+    (pin "23" (uuid bde110e7-f102-46e8-bc38-9798da4efa93))
+    (pin "24" (uuid c1a78d9b-4393-4463-8578-012781829f1b))
+    (pin "25" (uuid 5f16e575-9764-4cf5-bba5-2da31987e007))
+    (pin "26" (uuid fd85c025-e906-41fd-9edb-89aa549b1156))
+    (pin "27" (uuid 762e5ef7-8926-425c-a96c-c98bf4945c02))
+    (pin "28" (uuid 92d8a9f5-a293-4834-82e0-433a649d30f1))
+    (pin "29" (uuid e8110dab-f2de-4727-a019-cf675c1b9f85))
+    (pin "3" (uuid aea5c84b-0aa6-4395-a2d8-af9607c7491e))
+    (pin "30" (uuid 30837b84-4b79-463b-a10e-58c18cd61332))
+    (pin "31" (uuid adeffa50-b6dc-45b2-bf0e-46c3ffa0d5da))
+    (pin "32" (uuid 5471364b-474d-4c3b-b741-2f546d9687ae))
+    (pin "33" (uuid c4de7729-b9a7-495e-a16d-7c3de947fe12))
+    (pin "34" (uuid 851aa55a-7bfc-4119-a43a-5315458a2df5))
+    (pin "35" (uuid 6c4cf204-0c45-4b3a-a6a2-6f96aedfb3fa))
+    (pin "36" (uuid 8dbbc955-38d4-4a9a-8309-68caf785c4ef))
+    (pin "37" (uuid dae51e39-10be-46c4-bd6e-7be817d096ac))
+    (pin "38" (uuid 85efc665-60a9-4f58-8235-9499c9fe3e37))
+    (pin "39" (uuid 984e83cd-b1ce-49ef-a3fc-b9fbb0e4455c))
+    (pin "4" (uuid d58f2760-84b1-40e3-b965-43bd633e637c))
+    (pin "40" (uuid 85c3ddb3-92e5-43b2-90e0-9e0f7b2390e5))
+    (pin "5" (uuid 01e55048-92e3-4410-a92f-bd508c691025))
+    (pin "6" (uuid 9a00e197-34d8-4b97-8079-3ab9206524c9))
+    (pin "7" (uuid 166af88c-b043-4bc5-b06d-0e9058e666b9))
+    (pin "8" (uuid 8a309e97-b9eb-4c39-a696-f6e4dfaefc7e))
+    (pin "9" (uuid bdc62b89-f26e-4529-8702-512a2d45b20e))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -3665,7 +3665,7 @@
     (property "Datasheet" "" (at 334.01 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 087b1acf-5b2e-4575-a114-11dbae1b26f2))
+    (pin "1" (uuid d2bc3182-610e-4d25-9da2-a854fc18fab8))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -3690,7 +3690,7 @@
     (property "Datasheet" "" (at 278.13 36.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid adb00ca4-06db-4e8d-8ad3-997f5c8d65cc))
+    (pin "1" (uuid ebd7815b-f386-44eb-8903-2486ccb73f74))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -3715,22 +3715,22 @@
     (property "Datasheet" "http://ww1.microchip.com/downloads/en/DeviceDoc/21295d.pdf" (at 82.55 148.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4cea2fd3-39da-4c7a-ae92-1b0dd0485ed1))
-    (pin "10" (uuid 52384051-e1f5-4deb-b1dc-811be1cc30d4))
-    (pin "11" (uuid 0e77103b-b7a3-48e9-9d1c-b32f4e2970cc))
-    (pin "12" (uuid c286a398-4f79-4751-87e6-c9eb8e5edd03))
-    (pin "13" (uuid 3b21fdc5-01cd-413a-a240-03e33cf461ad))
-    (pin "14" (uuid a51ce0d8-0c7a-4b08-a10b-62410e2c34c2))
-    (pin "15" (uuid 2b141498-dd81-4758-96aa-c6588dc6b66b))
-    (pin "16" (uuid 8c5f8b9e-e57e-4e07-9bd6-9365d7cbf916))
-    (pin "2" (uuid f0b7e8e2-798d-4c71-8971-61cd02579eab))
-    (pin "3" (uuid 0eab2827-2b05-4dc3-9ff9-3087a0aea7bf))
-    (pin "4" (uuid e2b06fe3-5438-42e5-a97f-abd3e61a4a5d))
-    (pin "5" (uuid 36be1878-84c9-4358-9837-85f7bb05b498))
-    (pin "6" (uuid 5fcf4c93-1ade-4b59-8913-611b302f6cab))
-    (pin "7" (uuid 3bd8bb4e-c811-4bdc-96a6-9cbb5b2016b8))
-    (pin "8" (uuid 666be8f5-ca8b-4318-8b64-6e28b4172f5b))
-    (pin "9" (uuid 4d07c2fe-d964-4275-b27c-649b6c018b34))
+    (pin "1" (uuid f4675273-50ec-4bcb-a970-b7d809802947))
+    (pin "10" (uuid b65a84d1-0844-4e68-8364-57ff6d545b23))
+    (pin "11" (uuid e45780c8-e720-493d-a90e-26059f721da2))
+    (pin "12" (uuid 2d742c40-01e9-4237-b341-cd33a08b0055))
+    (pin "13" (uuid b8f59c89-aa3e-439e-84c8-b569153b2e72))
+    (pin "14" (uuid 1771730a-5f03-4851-bc4b-2f414530b2d6))
+    (pin "15" (uuid 137c6fbd-0732-499d-9875-ee0e699acf5d))
+    (pin "16" (uuid 28ee02cf-e032-439e-80c8-1ad15b11053c))
+    (pin "2" (uuid c8d600be-ec9f-49fa-9dfc-8747b5a5b3ec))
+    (pin "3" (uuid 4cce4151-7848-4d72-8b17-ac5342f55c39))
+    (pin "4" (uuid 25f0a5a6-6427-49ce-b374-347d8edd6c65))
+    (pin "5" (uuid 76b9cac5-b6ec-448f-9cbf-2ddf82734f9a))
+    (pin "6" (uuid 716a785c-9a87-4c5f-9fd7-45222b2602bc))
+    (pin "7" (uuid 73576d34-e4c4-4243-aa0b-854e8080628e))
+    (pin "8" (uuid 63de8e45-18d4-4e9b-9056-02abbfa31225))
+    (pin "9" (uuid 470828e0-cd5e-484d-8059-84fb07a2427e))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -3758,8 +3758,8 @@
     (property "JLCPCB" "https://jlcpcb.com/partdetail/26487-0402WGF1002TCE/C25744" (at 283.21 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 283ee412-fa04-4336-a6df-079fb9a8cfce))
-    (pin "2" (uuid 4455e1ae-cb9f-4309-b7b4-34970b553f3b))
+    (pin "1" (uuid 87ab1201-4e20-4fe0-8a64-ae9c43c287be))
+    (pin "2" (uuid 32bd6aff-e9fc-46d4-ab95-a30c1c668daa))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -3784,8 +3784,8 @@
     (property "Datasheet" "~" (at 344.17 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7ca578fd-b2bd-41d3-86bc-a70822701ca6))
-    (pin "2" (uuid 5381c4a2-8465-4d6f-bd38-fe01d2b39401))
+    (pin "1" (uuid 65143edb-2be7-45f9-b0d4-4b8eefb6d4a3))
+    (pin "2" (uuid e9aaffc4-4eb6-424a-9872-96f168c3fd09))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -3810,20 +3810,20 @@
     (property "Datasheet" "http://www.ti.com/lit/gpn/sn74hc00" (at 248.92 215.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0a6519ba-fbfd-4a4a-a393-bd12acaf96fa))
-    (pin "2" (uuid 802038d1-9aac-4779-9c30-172491feb1fe))
-    (pin "3" (uuid 0b0d621a-be74-46ba-a8a9-8ecf0137fbc3))
-    (pin "4" (uuid 10d72e2c-ac07-475d-bfc6-6b2421aa4102))
-    (pin "5" (uuid 7820d5a6-8ec6-412d-8824-b4424ee6bb40))
-    (pin "6" (uuid 142cda6b-9dd5-432b-a8e1-0e7c1442b388))
-    (pin "10" (uuid 74ecf853-2443-4c5a-ad11-704f33320a09))
-    (pin "8" (uuid c36db991-d10d-4444-8be7-e2a9cf561148))
-    (pin "9" (uuid f4505fed-09e1-41f9-8d72-a8e900ad2d0e))
-    (pin "11" (uuid 48777a68-fde3-4095-bd17-a80e81742b35))
-    (pin "12" (uuid 6d9b1ac8-3529-4dc8-8c55-5b73299953ec))
-    (pin "13" (uuid 1be44cf7-44ae-4266-af37-7a5fd8da238f))
-    (pin "14" (uuid f17182c2-15ff-4ceb-bbd3-7beec36a3b52))
-    (pin "7" (uuid 002b5067-bec2-4f95-8224-43b03f330542))
+    (pin "1" (uuid 0147239e-b05d-417d-9d2b-d6ddd923c2b1))
+    (pin "2" (uuid e6afc9c4-f0ff-448a-a089-081e66852087))
+    (pin "3" (uuid 5fa02d81-ad9b-4791-b555-387987fbcbc8))
+    (pin "4" (uuid 754c9c04-cefb-417f-a258-aa35b6f35d50))
+    (pin "5" (uuid 1f53d719-61fb-4465-a1d7-3ef94e0fc177))
+    (pin "6" (uuid 7d526e11-00c0-4c00-8eea-3b3e0c979ebe))
+    (pin "10" (uuid 69d89f4b-ccfd-43db-b9d4-6623b6bbb60b))
+    (pin "8" (uuid fb48a441-3fed-458b-a35f-3f9e184a94a0))
+    (pin "9" (uuid 5ab62f6f-fe14-4580-8aa3-bbbbfc05904b))
+    (pin "11" (uuid a33c4d98-b46f-4805-8a24-aa647e58a916))
+    (pin "12" (uuid 2f9df626-3a95-4cbb-8c91-f5426993b013))
+    (pin "13" (uuid d91f23e3-a260-49ad-bc4e-174323f08b37))
+    (pin "14" (uuid c1daf655-2961-4255-a977-89c9cc0b5851))
+    (pin "7" (uuid f09b4b74-7035-4c70-81ea-dd36ccc454ae))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -3848,20 +3848,20 @@
     (property "Datasheet" "http://www.ti.com/lit/gpn/sn74hc00" (at 354.33 203.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 747a5025-f9b9-4a9b-b600-f4b1875c8ea9))
-    (pin "2" (uuid 7fb99891-0f91-44bb-914d-0722b7898594))
-    (pin "3" (uuid 38f5f061-2b7a-4dcf-bc10-eae5db15a3e7))
-    (pin "4" (uuid 10d72e2c-ac07-475d-bfc6-6b2421aa4103))
-    (pin "5" (uuid 7820d5a6-8ec6-412d-8824-b4424ee6bb41))
-    (pin "6" (uuid 142cda6b-9dd5-432b-a8e1-0e7c1442b389))
-    (pin "10" (uuid 74ecf853-2443-4c5a-ad11-704f33320a0a))
-    (pin "8" (uuid c36db991-d10d-4444-8be7-e2a9cf561149))
-    (pin "9" (uuid f4505fed-09e1-41f9-8d72-a8e900ad2d0f))
-    (pin "11" (uuid 48777a68-fde3-4095-bd17-a80e81742b36))
-    (pin "12" (uuid 6d9b1ac8-3529-4dc8-8c55-5b73299953ed))
-    (pin "13" (uuid 1be44cf7-44ae-4266-af37-7a5fd8da2390))
-    (pin "14" (uuid f17182c2-15ff-4ceb-bbd3-7beec36a3b53))
-    (pin "7" (uuid 002b5067-bec2-4f95-8224-43b03f330543))
+    (pin "1" (uuid 522a407c-8a2d-4ce3-84dd-032d65173b37))
+    (pin "2" (uuid 09cc811c-6d43-4980-8c67-e6ffd15be6c1))
+    (pin "3" (uuid e2661c64-76f8-4d71-9d13-d3d5f1a002a9))
+    (pin "4" (uuid 2f0bd6d8-5bf3-4b4a-b878-a2063c23663e))
+    (pin "5" (uuid 04b33689-54e7-4468-becd-001e42c609c9))
+    (pin "6" (uuid 6f6c7a1a-811b-43f2-8e1c-b9fa834ad96a))
+    (pin "10" (uuid 86173bb7-9e67-49d3-94ee-913f1fb940cb))
+    (pin "8" (uuid bc573815-f5cd-484b-8076-44ea687ece95))
+    (pin "9" (uuid ee8efc0a-fd69-4fcf-b86a-530e14c47bd0))
+    (pin "11" (uuid 60d40cbe-535b-468c-81b0-c1f147d5f6f8))
+    (pin "12" (uuid c12873f1-df4f-4a6f-9849-47e0ee2f4271))
+    (pin "13" (uuid 74d5ce44-ca67-46a3-8917-c3eb83d95d8f))
+    (pin "14" (uuid ce436150-0fc5-4367-92ca-910099273f39))
+    (pin "7" (uuid 9be5ee8a-edc9-43d5-86bb-7f394ed6ac31))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -3886,7 +3886,7 @@
     (property "Datasheet" "" (at 340.36 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid cd3d0bc2-43e4-4393-b0a6-1d94ce61ace2))
+    (pin "1" (uuid 75126898-0b8f-4135-ba22-df4adcc012d7))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -3911,7 +3911,7 @@
     (property "Datasheet" "" (at 295.91 163.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4603cc90-bed1-49ae-a725-ce351670632e))
+    (pin "1" (uuid 827b1b32-6eb6-467d-ae85-2413837d1db8))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -3936,7 +3936,7 @@
     (property "Datasheet" "" (at 80.01 167.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 56b15229-f7cd-40e1-a8f5-a8734f7f3900))
+    (pin "1" (uuid 7c49127f-c85d-471a-9401-9dd66195b24d))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -3961,7 +3961,7 @@
     (property "Datasheet" "" (at 238.76 163.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7abf0257-9198-439c-a7ae-8d373bda6720))
+    (pin "1" (uuid 965492f8-acc4-4231-8d7f-c6341d0ecd76))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -3986,9 +3986,9 @@
     (property "Datasheet" "~" (at 281.94 190.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid dd4b9520-8056-4602-a8fd-3c804bb9f50a))
-    (pin "2" (uuid 051db10a-5783-4307-bca4-c011af31325e))
-    (pin "3" (uuid 0b73b4a2-7d2d-4ee8-a683-4f5da0832318))
+    (pin "1" (uuid 3ca8a857-32ba-4ae4-bde2-6052b9814f08))
+    (pin "2" (uuid a895d8eb-893e-423e-a82e-629ce0b42e73))
+    (pin "3" (uuid dad07eca-c2aa-4637-b339-78e5ed18627a))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -4013,7 +4013,7 @@
     (property "Datasheet" "" (at 87.63 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5fe984f2-7b39-41b9-802b-85acd2e0b55c))
+    (pin "1" (uuid 1b041dc1-6ea9-4854-b290-58d95da7d1b9))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -4038,7 +4038,7 @@
     (property "Datasheet" "" (at 226.06 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid fb7402d6-07b6-4458-b37f-cc9ed6f6f915))
+    (pin "1" (uuid 8ec0198f-31e8-49ad-a062-19d665b392b9))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -4066,8 +4066,8 @@
     (property "JLCPCB" "https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849" (at 104.14 170.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9914f8c8-2d0e-4a14-a223-bdf6bd8bb7e8))
-    (pin "2" (uuid c29fed08-27e3-4557-b695-ce025fa2fafb))
+    (pin "1" (uuid 6177a026-dee7-4abb-b8c3-c8a166624ea0))
+    (pin "2" (uuid bf8e2ab8-e6e3-481e-af4c-bd2ab40e2de7))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -4092,7 +4092,7 @@
     (property "Datasheet" "" (at 353.06 217.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f9d8af43-a6a1-4e00-8a0c-3e5d6cee2b5d))
+    (pin "1" (uuid a6862256-2c0a-4313-858f-20a3fddbd1e7))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -4117,7 +4117,7 @@
     (property "Datasheet" "" (at 355.6 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0bf93cf9-2a59-4e71-8ce0-aee5c9fb0818))
+    (pin "1" (uuid 49b16ee0-bbe1-4bdd-9feb-8aa967d41fcf))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -4145,8 +4145,8 @@
     (property "JLCPCB" "https://jlcpcb.com/partdetail/18208-0805W8F2201T5E/C17520" (at 64.77 151.13 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 431bb778-1105-4d5a-8b3c-6645bb59d093))
-    (pin "2" (uuid 51ac0731-00d1-49a2-b804-b58f9d2ee5d5))
+    (pin "1" (uuid 05277309-d943-462a-95b1-b88d262061c9))
+    (pin "2" (uuid 68783c6b-af5e-44ca-a2e6-2290256635fb))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -4174,8 +4174,8 @@
     (property "JLCPCB" "https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849" (at 142.24 170.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 16432e62-81d8-4ad7-91c4-bc46fff6ba39))
-    (pin "2" (uuid 8f6c8d40-0487-4ecd-87f9-be0494414713))
+    (pin "1" (uuid 648ef819-ecf2-4f06-a348-4ccf029f49ca))
+    (pin "2" (uuid 6eccf735-077c-4c28-abfa-d8c7b11e9d9d))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -4200,7 +4200,7 @@
     (property "Datasheet" "" (at 80.01 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0bf782b2-24d3-47e2-8b1f-440f737ac345))
+    (pin "1" (uuid 0e870cc5-e4bb-41e5-bcb4-371b73fc3bd0))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -4225,8 +4225,8 @@
     (property "Datasheet" "~" (at 247.65 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8aac03e9-ebfc-43a0-b675-6a6d0a67e9da))
-    (pin "2" (uuid 55c7e12d-a698-4c1f-9e86-638ac09ef9a4))
+    (pin "1" (uuid 67a42d5e-5cd4-4b11-a567-5f31fa025934))
+    (pin "2" (uuid 6a82271b-217e-438a-bc70-523923967472))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -4251,7 +4251,7 @@
     (property "Datasheet" "" (at 227.33 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid af9d7491-428f-464f-8ecf-4083e93c85cc))
+    (pin "1" (uuid 4970a3f6-c251-48d1-8af1-e8652fba84ba))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -4276,7 +4276,7 @@
     (property "Datasheet" "" (at 283.21 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 65912ae0-ab11-4f64-9249-39652ee49418))
+    (pin "1" (uuid 8497a346-d893-454c-aa1e-7f8c56cc6031))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -4301,9 +4301,9 @@
     (property "Datasheet" "~" (at 302.26 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8bcdf2d0-b76f-4a68-a2bb-5cf283919cb8))
-    (pin "2" (uuid bd5e6407-4814-42ce-b84a-e50e80243414))
-    (pin "3" (uuid 1c31af1f-3edb-4435-b1b6-547180055421))
+    (pin "1" (uuid 24a72e1b-b485-4cc9-a909-0206144136b8))
+    (pin "2" (uuid be08897b-d624-47b3-bba4-af4ee561d124))
+    (pin "3" (uuid b5d83f37-7550-4bdd-b4a3-665ea62b84b9))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -4331,8 +4331,8 @@
     (property "JLCPCB" "https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849" (at 119.38 170.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b9d3ec16-d61a-44aa-93c8-ae4caab4b09b))
-    (pin "2" (uuid 38e4f090-8b46-4d29-a1e4-2b06e9467b36))
+    (pin "1" (uuid 4fa6456f-f609-4b81-aa7c-aa5aa8dad47a))
+    (pin "2" (uuid 745b4516-74a9-4546-b5aa-a145fe2bd60e))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -4357,7 +4357,7 @@
     (property "Datasheet" "" (at 365.76 186.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c1746741-0712-4cf3-aef6-a009e0b66aa1))
+    (pin "1" (uuid aa93cb15-89b1-415d-a6eb-ab4bed5a5cc2))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -4382,9 +4382,9 @@
     (property "Datasheet" "~" (at 372.11 190.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5040cf08-1efd-47d9-932a-b748ec57abce))
-    (pin "2" (uuid 33ed877e-f7d5-4b56-88de-1c815b921f2b))
-    (pin "3" (uuid ad67e709-1ea7-4b7a-9782-cf913f925cf0))
+    (pin "1" (uuid a9253f9b-9bc5-4031-bf9a-a945008dbc71))
+    (pin "2" (uuid fd751640-2bc5-45b8-94f5-2ddc66ccfb9d))
+    (pin "3" (uuid d3a1dd24-e5c6-446c-b5f9-8c4a72cb47f1))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -4409,7 +4409,7 @@
     (property "Datasheet" "" (at 234.95 214.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid fd1a310f-ff78-48f4-980b-9d85030bdc68))
+    (pin "1" (uuid a5036de9-b4dd-4a59-abd8-a9617fc074e4))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -4434,7 +4434,7 @@
     (property "Datasheet" "" (at 104.14 175.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 95819569-0765-428c-ab7a-e74b5712752b))
+    (pin "1" (uuid b534c53b-f9e8-4ae6-b86b-40e99f334444))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -4459,20 +4459,20 @@
     (property "Datasheet" "http://www.ti.com/lit/gpn/sn74hc00" (at 354.33 193.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0a6519ba-fbfd-4a4a-a393-bd12acaf96fe))
-    (pin "2" (uuid 802038d1-9aac-4779-9c30-172491feb202))
-    (pin "3" (uuid 0b0d621a-be74-46ba-a8a9-8ecf0137fbc7))
-    (pin "4" (uuid 2ff0a234-b32e-4305-83aa-c562d0d3f80d))
-    (pin "5" (uuid 9b978af5-94fe-4e8a-b279-7e17dc360205))
-    (pin "6" (uuid 71c9a71b-9712-4298-b124-fe2b727fb7ec))
-    (pin "10" (uuid 74ecf853-2443-4c5a-ad11-704f33320a0d))
-    (pin "8" (uuid c36db991-d10d-4444-8be7-e2a9cf56114c))
-    (pin "9" (uuid f4505fed-09e1-41f9-8d72-a8e900ad2d12))
-    (pin "11" (uuid 48777a68-fde3-4095-bd17-a80e81742b39))
-    (pin "12" (uuid 6d9b1ac8-3529-4dc8-8c55-5b73299953f0))
-    (pin "13" (uuid 1be44cf7-44ae-4266-af37-7a5fd8da2393))
-    (pin "14" (uuid f17182c2-15ff-4ceb-bbd3-7beec36a3b56))
-    (pin "7" (uuid 002b5067-bec2-4f95-8224-43b03f330546))
+    (pin "1" (uuid a57c20eb-51ad-4c5f-80b9-e27be533f818))
+    (pin "2" (uuid 098c0a09-3896-4631-89cd-14a655c4054e))
+    (pin "3" (uuid a29492ad-5dce-4d77-b02c-05b5a7ff8c10))
+    (pin "4" (uuid 491f44d8-9119-4cf8-aa56-ac7fb81c9f7b))
+    (pin "5" (uuid 05197e04-f705-4c98-8699-ec06f38c16a0))
+    (pin "6" (uuid aa6a0c92-eee9-48eb-98d6-5c070bc16987))
+    (pin "10" (uuid 9572495e-7ffd-44f0-b6ef-d2780b6c95a1))
+    (pin "8" (uuid 5645ceb2-edb0-44c5-9a52-c40ece661922))
+    (pin "9" (uuid eb6956ff-2386-4d08-857d-42629bc2f270))
+    (pin "11" (uuid 4b63aff0-6781-4add-9357-23096f67c895))
+    (pin "12" (uuid c0c51c8f-e82a-4fe2-992d-e6e6ac30362c))
+    (pin "13" (uuid 95bc2f67-4f97-4543-842a-1c3322d5e941))
+    (pin "14" (uuid 72f6c044-233c-456b-a27e-d519e9260dc1))
+    (pin "7" (uuid 9abce6d3-365e-4c71-a916-dd6066b359e0))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -4497,12 +4497,12 @@
     (property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/2944fa.pdf" (at 107.95 256.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a62cccfb-e1d6-44c4-9fc6-d8763c0b1624))
-    (pin "2" (uuid 791e0de8-c7fe-483c-b6e0-c4ad775ae8ca))
-    (pin "3" (uuid 50364754-2386-46e2-9092-9480705ecde3))
-    (pin "4" (uuid f230b9f5-a596-403c-a17f-d4c6d5ccc27f))
-    (pin "5" (uuid dd2d99bc-a36c-48cc-b4ad-ab27194650b1))
-    (pin "6" (uuid f8362afb-4a8f-497f-81b9-495f11b7cbe9))
+    (pin "1" (uuid 1dfbd217-2e0d-494c-880d-a940f5d209fd))
+    (pin "2" (uuid 9fb74f44-8da9-4812-b52f-9f83af507390))
+    (pin "3" (uuid 4f694b84-c92b-4b93-8439-5670725cd319))
+    (pin "4" (uuid 8bba1c90-67b5-4513-b8fc-d020780d9a01))
+    (pin "5" (uuid 618e6ffe-2b2d-4bde-bcb2-d07548fb4ced))
+    (pin "6" (uuid 51ba8812-d1cc-4252-b9b5-99c909a1bbbe))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -4527,9 +4527,9 @@
     (property "Datasheet" "~" (at 238.76 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f5ac5578-e55e-4b76-bc9b-658075b3436d))
-    (pin "2" (uuid d5217743-80f9-4dc0-b363-9a830a10a9cf))
-    (pin "3" (uuid 45311227-d944-4106-8ac7-07b420f2afe9))
+    (pin "1" (uuid 4e277879-aa90-4adb-b1fd-1d2e9e9e7fe2))
+    (pin "2" (uuid 3b30f431-7a51-40ad-9cc7-f7187cc8aeb9))
+    (pin "3" (uuid 4db81099-34a9-49b5-b35f-d502c6509dc0))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -4554,20 +4554,20 @@
     (property "Datasheet" "http://www.ti.com/lit/gpn/sn74hc00" (at 248.92 200.66 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0a6519ba-fbfd-4a4a-a393-bd12acaf96fb))
-    (pin "2" (uuid 802038d1-9aac-4779-9c30-172491feb1ff))
-    (pin "3" (uuid 0b0d621a-be74-46ba-a8a9-8ecf0137fbc4))
-    (pin "4" (uuid 10d72e2c-ac07-475d-bfc6-6b2421aa4104))
-    (pin "5" (uuid 7820d5a6-8ec6-412d-8824-b4424ee6bb42))
-    (pin "6" (uuid 142cda6b-9dd5-432b-a8e1-0e7c1442b38a))
-    (pin "10" (uuid 74ecf853-2443-4c5a-ad11-704f33320a0b))
-    (pin "8" (uuid c36db991-d10d-4444-8be7-e2a9cf56114a))
-    (pin "9" (uuid f4505fed-09e1-41f9-8d72-a8e900ad2d10))
-    (pin "11" (uuid 48777a68-fde3-4095-bd17-a80e81742b37))
-    (pin "12" (uuid 6d9b1ac8-3529-4dc8-8c55-5b73299953ee))
-    (pin "13" (uuid 1be44cf7-44ae-4266-af37-7a5fd8da2391))
-    (pin "14" (uuid f17182c2-15ff-4ceb-bbd3-7beec36a3b54))
-    (pin "7" (uuid 002b5067-bec2-4f95-8224-43b03f330544))
+    (pin "1" (uuid 0f402dc0-ca78-4143-97cc-51a991c01419))
+    (pin "2" (uuid 677dc5bc-b3b5-4727-93ea-86897133096e))
+    (pin "3" (uuid b57ad1d7-5b34-4c03-8682-8e62ddb6856e))
+    (pin "4" (uuid ddf2b64b-0de5-4b51-86b8-1b9fdf2ca221))
+    (pin "5" (uuid 0751845e-a307-4f7f-aa00-b8f398d025e8))
+    (pin "6" (uuid e3bfc60c-6b27-4fb8-8eee-0cd827a676be))
+    (pin "10" (uuid 9d4b6eb0-7ebb-48e0-a201-b96976a0e7dc))
+    (pin "8" (uuid 2ac05371-aa1e-468f-81a1-6cab66f4ce4d))
+    (pin "9" (uuid 198dd705-f59e-4941-8597-c4f5f875e14b))
+    (pin "11" (uuid 795305a0-4611-40ee-9f06-a43834a9644f))
+    (pin "12" (uuid 9e64d16f-19fc-4a0e-8c46-729cf0d554b0))
+    (pin "13" (uuid 5ef18fd7-33cf-4ccc-9d58-edbc5a1c7564))
+    (pin "14" (uuid 99c54376-2c83-4360-a309-f9767461e39d))
+    (pin "7" (uuid a69bf995-ba7c-483f-81c5-8b8d268761bb))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -4592,7 +4592,7 @@
     (property "Datasheet" "" (at 400.05 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 114ec17f-6990-4148-ad42-8208cf4ee284))
+    (pin "1" (uuid fa88320b-d4ba-42f4-b7dd-6da6109e3b71))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -4617,7 +4617,7 @@
     (property "Datasheet" "" (at 295.91 151.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a55ae463-d9b5-48db-8d49-9889be06f96d))
+    (pin "1" (uuid 4a8ea98a-da82-448a-abe5-ec9a9fc6bc5c))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -4642,7 +4642,7 @@
     (property "Datasheet" "" (at 298.45 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid beee2272-b973-4d78-9668-f69cc67743f4))
+    (pin "1" (uuid 598a9584-a31e-45ed-a0b6-af539ec46202))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -4667,7 +4667,7 @@
     (property "Datasheet" "" (at 262.89 217.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid bc0adfbc-a9cb-4338-85d1-d262defe8a2e))
+    (pin "1" (uuid 66e2e51b-d445-4324-a963-b718e33ec6c9))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -4692,9 +4692,9 @@
     (property "Datasheet" "~" (at 295.91 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7e4507dd-ceef-4340-8ba1-264af8c6efb7))
-    (pin "2" (uuid f0012462-3f6b-4589-93f9-4e9483d43313))
-    (pin "3" (uuid c03a9798-96a3-4dc4-86ae-2a7593ab95f0))
+    (pin "1" (uuid 8a7a5334-7069-460c-ab2f-8b5596da8e57))
+    (pin "2" (uuid 5999d821-4528-4126-a22e-d3c64336f552))
+    (pin "3" (uuid b9ca9185-d65b-4cb0-8b32-eda9ac0d45c6))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -4722,8 +4722,8 @@
     (property "JLCPCB" "https://jlcpcb.com/partdetail/26487-0402WGF1002TCE/C25744" (at 283.21 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 20f366e0-6bc1-47a9-bbb0-641a5fbb009f))
-    (pin "2" (uuid 328cbb16-fbdd-4c24-8cd8-cfa9ebd42c2f))
+    (pin "1" (uuid af629a12-d899-4540-945f-f7c8e7b09764))
+    (pin "2" (uuid 23e5cd2c-2c5b-4f24-a58c-24c7f4741bf3))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -4751,8 +4751,8 @@
     (property "JLCPCB" "https://jlcpcb.com/partdetail/26643-0402WGF4701TCE/C25900" (at 392.43 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6d8a1489-e442-4135-b1e6-15fe28381b53))
-    (pin "2" (uuid ab512832-e34a-4b04-bf12-11de77712d01))
+    (pin "1" (uuid eee5a417-4941-42e1-920b-bcde87b27618))
+    (pin "2" (uuid b42aaaff-27c3-4d07-8192-b43214ce340a))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -4777,7 +4777,7 @@
     (property "Datasheet" "" (at 241.3 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 391be76c-e2c9-4274-8155-5232f07ee46b))
+    (pin "1" (uuid 0883beed-d342-40c2-bcc0-75b73c6954d0))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -4802,7 +4802,7 @@
     (property "Datasheet" "" (at 241.3 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 79de9083-bd58-4417-a165-b84a48c519d0))
+    (pin "1" (uuid 84ca3dd8-eea1-4a3d-86ec-daa9ad99fad7))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -4827,9 +4827,9 @@
     (property "Datasheet" "~" (at 284.48 33.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d133cf61-ad4c-40de-9a5b-9c81b14248c2))
-    (pin "2" (uuid 3517102c-fd21-418d-995a-4b83186e8ad9))
-    (pin "3" (uuid 004295ee-4d42-4c5c-b12f-cf1f1d28865f))
+    (pin "1" (uuid 4ac3f8f6-3869-4289-9714-03325803666a))
+    (pin "2" (uuid 7b4d5c99-1d06-46f2-9b19-21baf10ac6c8))
+    (pin "3" (uuid d7f0f012-5d71-4750-9d87-f4078a3ae123))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -4854,9 +4854,9 @@
     (property "Datasheet" "~" (at 238.76 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2362e47f-8ef1-422f-a4e5-c6bbd19f3599))
-    (pin "2" (uuid 858c59e3-b860-4641-a009-4a6dbea4a835))
-    (pin "3" (uuid c5123b6f-8f84-4214-a7f5-0823093c8244))
+    (pin "1" (uuid 0da51f8c-1022-4e60-8f2f-24d5a5e0bcf6))
+    (pin "2" (uuid e915a5b6-a205-4286-b518-2b54ce9d1dba))
+    (pin "3" (uuid 468023b1-bd1f-4393-a705-eb0db44d6332))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -4881,9 +4881,9 @@
     (property "Datasheet" "~" (at 406.4 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c2eafac9-8037-4b72-8f61-5fc29d98e874))
-    (pin "2" (uuid f953e124-e569-4768-8aa0-3868df94d941))
-    (pin "3" (uuid 4806d075-bfa9-42af-986a-814c5fe4754b))
+    (pin "1" (uuid 6156eada-77a1-434b-97d0-5740431778bf))
+    (pin "2" (uuid ece2453c-d594-4c4b-a749-984c4c399dee))
+    (pin "3" (uuid 6b8cde10-8e31-4b36-8927-6bcafd08ac0a))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -4911,8 +4911,8 @@
     (property "JLCPCB" "https://jlcpcb.com/partdetail/26487-0402WGF1002TCE/C25744" (at 229.87 158.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3878b9ba-ed98-40c3-bf5e-0f9306b7523f))
-    (pin "2" (uuid 27c58418-9062-4da3-bf1b-88475fe13038))
+    (pin "1" (uuid 18c4b178-4ff9-4db3-ab8f-2cf8be96f396))
+    (pin "2" (uuid 39d78b12-0a90-4d61-9785-33eb4d13c592))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -4937,7 +4937,7 @@
     (property "Datasheet" "" (at 227.33 27.94 0)
       (effects (font (size 1.27 1.27)))
     )
-    (pin "1" (uuid 8cdda49a-7bcc-4a12-b257-dd7f99277414))
+    (pin "1" (uuid 2ee2c251-c475-4b83-aef1-04083d944bd3))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -4962,7 +4962,7 @@
     (property "Datasheet" "" (at 92.71 24.13 0)
       (effects (font (size 1.27 1.27)))
     )
-    (pin "1" (uuid 8f3dde00-9c51-44b4-ba56-04ea012b4aad))
+    (pin "1" (uuid 8e5f1540-504d-4ed9-92f2-31acab3462da))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -4987,9 +4987,9 @@
     (property "Datasheet" "~" (at 295.91 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a591b896-9998-4232-bb56-ab2c8d768c85))
-    (pin "2" (uuid 2fcd8161-93bd-4c07-aa24-f15db254004e))
-    (pin "3" (uuid 43d32811-c31b-490b-928a-ba4cb2ee3034))
+    (pin "1" (uuid 52aa5f2b-9f50-4bd2-99b2-c115825a410d))
+    (pin "2" (uuid 998ec3f6-3acb-4f34-882b-e576a9846273))
+    (pin "3" (uuid 9228bccc-390f-4d1c-9e9e-4dce82986eae))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -5017,8 +5017,8 @@
     (property "JLCPCB" "https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849" (at 149.86 170.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 01fa507a-21ba-42ca-8ddc-5de80d276ed8))
-    (pin "2" (uuid 701f59c4-3ede-4060-a0fd-8d803bb8c185))
+    (pin "1" (uuid 4bd8dcdd-52bc-4310-8b55-c98a3ce025d3))
+    (pin "2" (uuid 29a3b371-7a7a-446f-a5fb-d45abba72a40))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -5043,7 +5043,7 @@
     (property "Datasheet" "" (at 72.39 24.13 0)
       (effects (font (size 1.27 1.27)))
     )
-    (pin "1" (uuid 0d2fd35f-6fab-4ddc-bffb-747d097714f3))
+    (pin "1" (uuid f1e556c8-94e4-4a6e-be80-fd5571256e04))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -5071,8 +5071,8 @@
     (property "JLCPCB" "https://jlcpcb.com/partdetail/26487-0402WGF1002TCE/C25744" (at 226.06 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid eafa1f2a-223e-40d1-9d3a-81614821d61e))
-    (pin "2" (uuid 1c542f42-60e7-44f6-832d-6d62eb3aceab))
+    (pin "1" (uuid 43e8c7fb-c8fa-4d67-bae8-3c7aecf9f62c))
+    (pin "2" (uuid 5da3f491-0fe4-47ae-a401-ef3cc23768fa))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -5097,7 +5097,7 @@
     (property "Datasheet" "" (at 400.05 27.94 0)
       (effects (font (size 1.27 1.27)))
     )
-    (pin "1" (uuid 938b4d61-040d-4785-b37b-05201d4eb503))
+    (pin "1" (uuid 9efe7371-cd79-413c-badc-bc494042ad6e))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -5122,8 +5122,8 @@
     (property "Datasheet" "~" (at 388.62 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8c91045b-3024-4994-ac6a-d247e3ee34ce))
-    (pin "2" (uuid cc097d22-f3fd-4aff-8d38-11808240f244))
+    (pin "1" (uuid 85756f00-1c2a-4daa-89e5-61edff1f2848))
+    (pin "2" (uuid f86614ec-6e60-4ef6-970e-398fe9b9298e))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -5151,8 +5151,8 @@
     (property "JLCPCB" "https://jlcpcb.com/partdetail/26487-0402WGF1002TCE/C25744" (at 226.06 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ae049c8b-bf34-4cb3-ad5d-e56a02eb7712))
-    (pin "2" (uuid 4b8c5429-271e-435a-afbd-2c6da80441b1))
+    (pin "1" (uuid d44a00cd-2205-4c38-963d-154ab67f1a47))
+    (pin "2" (uuid d0ddf29c-e628-4813-aa6d-a19721ce793b))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -5177,20 +5177,20 @@
     (property "Datasheet" "http://www.ti.com/lit/gpn/sn74hc00" (at 264.16 203.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0a6519ba-fbfd-4a4a-a393-bd12acaf96fc))
-    (pin "2" (uuid 802038d1-9aac-4779-9c30-172491feb200))
-    (pin "3" (uuid 0b0d621a-be74-46ba-a8a9-8ecf0137fbc5))
-    (pin "4" (uuid 10d72e2c-ac07-475d-bfc6-6b2421aa4105))
-    (pin "5" (uuid 7820d5a6-8ec6-412d-8824-b4424ee6bb43))
-    (pin "6" (uuid 142cda6b-9dd5-432b-a8e1-0e7c1442b38b))
-    (pin "10" (uuid 74ecf853-2443-4c5a-ad11-704f33320a0c))
-    (pin "8" (uuid c36db991-d10d-4444-8be7-e2a9cf56114b))
-    (pin "9" (uuid f4505fed-09e1-41f9-8d72-a8e900ad2d11))
-    (pin "11" (uuid 48777a68-fde3-4095-bd17-a80e81742b38))
-    (pin "12" (uuid 6d9b1ac8-3529-4dc8-8c55-5b73299953ef))
-    (pin "13" (uuid 1be44cf7-44ae-4266-af37-7a5fd8da2392))
-    (pin "14" (uuid f17182c2-15ff-4ceb-bbd3-7beec36a3b55))
-    (pin "7" (uuid 002b5067-bec2-4f95-8224-43b03f330545))
+    (pin "1" (uuid c95d8ef3-01c1-42fc-b837-0ba418bb85fb))
+    (pin "2" (uuid 34ac9e3d-acfb-49a1-abd8-c43b0bc154a8))
+    (pin "3" (uuid f3c51480-a53c-4ae7-b001-3b7211fb5e22))
+    (pin "4" (uuid 63dce820-1077-4671-a5ad-281227e4a92a))
+    (pin "5" (uuid f2509d7d-2ff0-43cf-b5e5-8a8f8f724620))
+    (pin "6" (uuid 7945e456-1c2b-45ab-afd8-f47df5a37d2a))
+    (pin "10" (uuid 800d541d-2164-4183-88f6-982320ca75b4))
+    (pin "8" (uuid 73a8a734-210a-4980-8633-1656421c8012))
+    (pin "9" (uuid ea8e94c4-9bde-4aa9-a8d7-f42d1b02a64b))
+    (pin "11" (uuid f6786f78-db67-496f-ae69-07839c4d96e7))
+    (pin "12" (uuid 2729a170-8be8-40a3-ab0e-78d83ed511bf))
+    (pin "13" (uuid 57fbb5f9-e6e8-442a-bbb6-6ba355b82c94))
+    (pin "14" (uuid d15317b2-fd8e-4aba-aa90-379520e2fa75))
+    (pin "7" (uuid 1df22f37-d845-47e3-ac06-497555b8ce80))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -5215,7 +5215,7 @@
     (property "Datasheet" "" (at 87.63 167.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d47bb2fc-119c-4a71-8f59-ec5c9baa273e))
+    (pin "1" (uuid 027d6002-4848-4016-a6b8-aeeafc37af98))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -5240,8 +5240,8 @@
     (property "Datasheet" "~" (at 247.65 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ea42c730-3b65-4d7d-9c23-a269d9944d99))
-    (pin "2" (uuid 002fa627-0a25-4b01-af48-905ae03e0bfb))
+    (pin "1" (uuid 116a2474-ab04-45c5-937d-e8e138578f68))
+    (pin "2" (uuid e5df9046-4f74-43f9-bfce-c9e03aefbc4a))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -5269,8 +5269,8 @@
     (property "JLCPCB" "https://jlcpcb.com/partdetail/26487-0402WGF1002TCE/C25744" (at 334.01 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c4a05383-4e21-4f28-b437-ef00171e1e66))
-    (pin "2" (uuid 10dad69b-ca50-4778-8e2f-39e6124956e9))
+    (pin "1" (uuid 49a3eace-ddcf-42ec-a2d1-a96a10e210e2))
+    (pin "2" (uuid a7d2c364-b2c8-409f-a5ef-dbacc4f49e68))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -5295,7 +5295,7 @@
     (property "Datasheet" "" (at 278.13 29.21 0)
       (effects (font (size 1.27 1.27)))
     )
-    (pin "1" (uuid e115c277-d05e-44d6-95cc-6ff8dbe8dd18))
+    (pin "1" (uuid 443c05aa-d338-4b30-a3ce-7f23cf965ad0))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -5320,7 +5320,7 @@
     (property "Datasheet" "" (at 229.87 163.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid bee887a9-c301-484c-b5cc-13bca97efb1a))
+    (pin "1" (uuid 30214910-3a69-4a69-96c2-04cbe617a0c7))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -5345,7 +5345,7 @@
     (property "Datasheet" "" (at 283.21 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 73eca036-2850-4e3e-8764-a031cd61cb13))
+    (pin "1" (uuid 3ca4bd24-530a-40a5-8da7-874d82a5e652))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -5370,7 +5370,7 @@
     (property "Datasheet" "" (at 238.76 151.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9c76bd39-e245-41c9-850d-3dbce77561cc))
+    (pin "1" (uuid 39952753-c79c-4983-b24b-9af38a4ccd00))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -5395,7 +5395,7 @@
     (property "Datasheet" "" (at 325.12 214.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6f29aaeb-6bc1-4b70-855b-e36469692d1b))
+    (pin "1" (uuid d1a231ff-d4fd-4f70-905e-bc242e662383))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -5420,8 +5420,8 @@
     (property "Datasheet" "~" (at 361.95 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c2c90b77-95f4-4ff2-ada8-3db1a2069b28))
-    (pin "2" (uuid ad64db88-f25d-43f7-adb3-c3a5b7c4923a))
+    (pin "1" (uuid 17f35dc1-e782-4c0b-9aa9-7d423fa21f5f))
+    (pin "2" (uuid 2668aba9-9704-41b5-b8eb-8494f98d7f2d))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -5446,7 +5446,7 @@
     (property "Datasheet" "" (at 241.3 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ec785f88-99c3-4178-9c94-a00070e3573a))
+    (pin "1" (uuid ac91578f-51d6-4b6c-9e97-a7886bcdf515))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -5471,7 +5471,7 @@
     (property "Datasheet" "" (at 337.82 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0deaaee2-7fc2-4958-8851-2ada7375ec54))
+    (pin "1" (uuid 5b3129cb-0d1d-4617-86ff-1c58e496ca87))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -5496,7 +5496,7 @@
     (property "Datasheet" "" (at 59.69 168.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e4c8c4a1-6170-4194-8d40-e6619b796c72))
+    (pin "1" (uuid b404bd95-5cb1-4331-9b2d-c1fa48e66574))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -5521,7 +5521,7 @@
     (property "Datasheet" "" (at 298.45 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c5c27f5a-a996-490c-a83d-662f54bb21eb))
+    (pin "1" (uuid 99ac65a7-5f06-4574-bec1-5329bee5bc82))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -5546,20 +5546,20 @@
     (property "Datasheet" "http://www.ti.com/lit/gpn/sn74hc00" (at 339.09 215.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0a6519ba-fbfd-4a4a-a393-bd12acaf96fd))
-    (pin "2" (uuid 802038d1-9aac-4779-9c30-172491feb201))
-    (pin "3" (uuid 0b0d621a-be74-46ba-a8a9-8ecf0137fbc6))
-    (pin "4" (uuid 10d72e2c-ac07-475d-bfc6-6b2421aa4106))
-    (pin "5" (uuid 7820d5a6-8ec6-412d-8824-b4424ee6bb44))
-    (pin "6" (uuid 142cda6b-9dd5-432b-a8e1-0e7c1442b38c))
-    (pin "10" (uuid 74ecf853-2443-4c5a-ad11-704f33320a0e))
-    (pin "8" (uuid c36db991-d10d-4444-8be7-e2a9cf56114d))
-    (pin "9" (uuid f4505fed-09e1-41f9-8d72-a8e900ad2d13))
-    (pin "11" (uuid 48777a68-fde3-4095-bd17-a80e81742b3a))
-    (pin "12" (uuid 6d9b1ac8-3529-4dc8-8c55-5b73299953f1))
-    (pin "13" (uuid 1be44cf7-44ae-4266-af37-7a5fd8da2394))
-    (pin "14" (uuid ca08d38d-165b-4343-a350-063e50066e10))
-    (pin "7" (uuid 3afabb98-b4c8-4263-beb7-080fa6271766))
+    (pin "1" (uuid 025f9ce2-76ce-4ce1-b180-3aa715480f27))
+    (pin "2" (uuid d6e3b234-f5f2-47a2-ac23-85ad5fe43a5b))
+    (pin "3" (uuid eb78db23-f41a-40e3-ae92-da52b4fdaaa6))
+    (pin "4" (uuid 30448921-19a0-4b08-9f5b-8f7945757c93))
+    (pin "5" (uuid ba4e2882-e829-4c01-8b53-8490383b868b))
+    (pin "6" (uuid f199db9f-3ea0-46ce-a3f4-b87011b3020c))
+    (pin "10" (uuid bf209add-b592-4d0d-aee8-11cc3143b382))
+    (pin "8" (uuid 299a735c-0d4b-41a0-98ce-f3b20750e588))
+    (pin "9" (uuid 01608fd3-ca6e-465c-af22-eff740abdb8c))
+    (pin "11" (uuid 1791cf23-8e5d-41e7-bd54-79e2c6e28ad0))
+    (pin "12" (uuid 9dd68cb0-ea92-481a-ae37-41f309c97bee))
+    (pin "13" (uuid 3441d199-d923-4b6d-9c9e-da0beb25be55))
+    (pin "14" (uuid 574e3057-034a-4c25-adc8-4c4d5a045f72))
+    (pin "7" (uuid 0952d9b1-79b0-4ec8-8e9d-ede2c27b7ad8))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -5584,7 +5584,7 @@
     (property "Datasheet" "" (at 226.06 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d57ab138-a68a-42f2-858f-1fac71c506f0))
+    (pin "1" (uuid 5a35aaca-3e08-4252-894b-32809c2b1ddc))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -5609,20 +5609,20 @@
     (property "Datasheet" "http://www.ti.com/lit/gpn/sn74hc00" (at 323.85 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0a6519ba-fbfd-4a4a-a393-bd12acaf96ff))
-    (pin "2" (uuid 802038d1-9aac-4779-9c30-172491feb203))
-    (pin "3" (uuid 0b0d621a-be74-46ba-a8a9-8ecf0137fbc8))
-    (pin "4" (uuid 10d72e2c-ac07-475d-bfc6-6b2421aa4107))
-    (pin "5" (uuid 7820d5a6-8ec6-412d-8824-b4424ee6bb45))
-    (pin "6" (uuid 142cda6b-9dd5-432b-a8e1-0e7c1442b38d))
-    (pin "10" (uuid 74ecf853-2443-4c5a-ad11-704f33320a0f))
-    (pin "8" (uuid c36db991-d10d-4444-8be7-e2a9cf56114e))
-    (pin "9" (uuid f4505fed-09e1-41f9-8d72-a8e900ad2d14))
-    (pin "11" (uuid 6a497cb6-1b48-467d-9c8b-5bb355c1d4c8))
-    (pin "12" (uuid 9600acc4-da0f-43fd-b619-995951a46116))
-    (pin "13" (uuid 7fc31a13-3ae2-49cf-8af0-e811a7cd4f0b))
-    (pin "14" (uuid f17182c2-15ff-4ceb-bbd3-7beec36a3b57))
-    (pin "7" (uuid 002b5067-bec2-4f95-8224-43b03f330547))
+    (pin "1" (uuid ce3732f8-5128-42fd-94c7-cd0dae0ffe97))
+    (pin "2" (uuid 9064a28b-57cc-41ec-9263-ebdb0b36d609))
+    (pin "3" (uuid f2f40bf9-633c-4059-906e-9e4e7947c119))
+    (pin "4" (uuid 8c63829c-c61b-419a-8bca-66724ba6104e))
+    (pin "5" (uuid 5ec30047-9528-4840-a2ec-c27a4274cdfa))
+    (pin "6" (uuid bc021ffd-8d73-4ab5-bd80-1b41869056d1))
+    (pin "10" (uuid e3a668eb-dc91-443b-a2c6-44accf5c91be))
+    (pin "8" (uuid c10d1451-c86d-4cb1-8722-7b0ee5d4facf))
+    (pin "9" (uuid d577bb86-25f2-43dc-8212-cec9025682ca))
+    (pin "11" (uuid e9aec939-47ad-48d7-82d5-dc1a94b2b675))
+    (pin "12" (uuid df3cee12-755b-44d6-b9a3-6df758009095))
+    (pin "13" (uuid d0ee01f8-2a2b-49b4-a0e6-14a70174c1d9))
+    (pin "14" (uuid c1b1abd5-f989-455d-bba3-b72a7f8dd5e0))
+    (pin "7" (uuid 1847449d-e5a3-4305-93ea-1aa05d838d46))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -5647,7 +5647,7 @@
     (property "Datasheet" "" (at 241.3 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4ac0594e-9be5-4f9f-9bd5-10c170cb040d))
+    (pin "1" (uuid 856f9494-8a4d-4e6d-ab6c-7fe448cf74cc))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -5672,20 +5672,20 @@
     (property "Datasheet" "http://www.ti.com/lit/gpn/sn74hc00" (at 264.16 193.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0a6519ba-fbfd-4a4a-a393-bd12acaf9700))
-    (pin "2" (uuid 802038d1-9aac-4779-9c30-172491feb204))
-    (pin "3" (uuid 0b0d621a-be74-46ba-a8a9-8ecf0137fbc9))
-    (pin "4" (uuid 10d72e2c-ac07-475d-bfc6-6b2421aa4108))
-    (pin "5" (uuid 7820d5a6-8ec6-412d-8824-b4424ee6bb46))
-    (pin "6" (uuid 142cda6b-9dd5-432b-a8e1-0e7c1442b38e))
-    (pin "10" (uuid 74ecf853-2443-4c5a-ad11-704f33320a10))
-    (pin "8" (uuid c36db991-d10d-4444-8be7-e2a9cf56114f))
-    (pin "9" (uuid f4505fed-09e1-41f9-8d72-a8e900ad2d15))
-    (pin "11" (uuid 48777a68-fde3-4095-bd17-a80e81742b3b))
-    (pin "12" (uuid 6d9b1ac8-3529-4dc8-8c55-5b73299953f2))
-    (pin "13" (uuid 1be44cf7-44ae-4266-af37-7a5fd8da2395))
-    (pin "14" (uuid f17182c2-15ff-4ceb-bbd3-7beec36a3b58))
-    (pin "7" (uuid 002b5067-bec2-4f95-8224-43b03f330548))
+    (pin "1" (uuid 47cda614-966b-4979-99f6-fae87c5a75a0))
+    (pin "2" (uuid 5e8b90ed-2f54-4eaa-a23d-84a8df0442aa))
+    (pin "3" (uuid 5dd4f756-8786-4c14-a916-0fcb68b4d8ea))
+    (pin "4" (uuid 303fb1ef-71b5-4dba-8f94-2feca6eddd3f))
+    (pin "5" (uuid 808dcf47-61ce-490a-bcef-d133db2c56c5))
+    (pin "6" (uuid 0ca2d3e9-a2c6-454b-8bff-f8227709a09e))
+    (pin "10" (uuid e9af739d-db9a-4d38-aaea-550715b04836))
+    (pin "8" (uuid 63cf7743-0470-4fcf-80be-319653d23969))
+    (pin "9" (uuid 89d5cd1a-9eb6-4810-ae7b-fa91ddea0e80))
+    (pin "11" (uuid 995e489a-bdcb-42ea-8fa6-969fb9f594b4))
+    (pin "12" (uuid e1220344-9987-48ae-9c42-f0c2663639e7))
+    (pin "13" (uuid f997217e-3908-4d48-a2ef-9c5c85111a95))
+    (pin "14" (uuid d4737059-3b19-4d54-b0ae-10a6b044356f))
+    (pin "7" (uuid e65fe541-9351-49bd-8d84-e6c456c65d18))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -5713,8 +5713,8 @@
     (property "JLCPCB" "https://jlcpcb.com/partdetail/26487-0402WGF1002TCE/C25744" (at 287.02 158.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a809191f-fc1f-459f-bc9e-cb20175c3b76))
-    (pin "2" (uuid 6f53015d-d4c2-4301-94b5-22f154202185))
+    (pin "1" (uuid 02039231-9f48-44e4-9d4f-a65685f2e4b7))
+    (pin "2" (uuid 31d4b69c-e29f-4600-bc9c-4faa17f54869))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -5739,7 +5739,7 @@
     (property "Datasheet" "" (at 287.02 163.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6efae45c-f27a-4ba3-ab75-40e0162576c7))
+    (pin "1" (uuid ebac9dfa-47a9-413a-b025-03225f443c01))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -5764,9 +5764,9 @@
     (property "Datasheet" "~" (at 245.11 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d1970c9e-c990-41ae-a07b-6215495a1f45))
-    (pin "2" (uuid 004aac63-5a93-48aa-99e6-34ddff36f13c))
-    (pin "3" (uuid 2a36a117-7d12-4d12-bf40-8c59fb0c0ac6))
+    (pin "1" (uuid 5cd97482-389e-4e19-8f4e-ab67ada4fbd7))
+    (pin "2" (uuid 67a17685-0411-4a1b-8f8a-2a3d3b2f5a73))
+    (pin "3" (uuid 0086b43b-7f31-4866-99dc-f05515b4e83b))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -5791,7 +5791,7 @@
     (property "Datasheet" "" (at 298.45 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 949d42c9-67ea-4966-aab4-1c6820a9fa7e))
+    (pin "1" (uuid b148335e-a215-44a5-9f13-5d8a29ef482d))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -5819,8 +5819,8 @@
     (property "JLCPCB" "https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849" (at 134.62 170.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7c526d2c-3e5c-40de-b023-ddda0f574297))
-    (pin "2" (uuid cb017635-0aad-4899-ada5-502a3bf05057))
+    (pin "1" (uuid 635f06c4-6263-4b80-bb6b-3f368c7c5441))
+    (pin "2" (uuid 5676b5cb-f98c-419a-b10e-a0094f284099))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -5845,8 +5845,8 @@
     (property "Datasheet" "~" (at 304.8 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2a2b6356-5061-4ed1-a7dc-891cdb1565e0))
-    (pin "2" (uuid 8a844a50-13ce-4a2b-9859-84c0184212d9))
+    (pin "1" (uuid 77c709ea-aba4-4885-b0b1-b373325fb977))
+    (pin "2" (uuid aab272c5-0b6a-4fc5-b965-61d2cfe3c69e))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -5871,8 +5871,8 @@
     (property "Datasheet" "~" (at 304.8 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8078e680-6acf-4990-8107-0980fcc97bc1))
-    (pin "2" (uuid 95ace51d-9f20-4a52-a752-647140a922fb))
+    (pin "1" (uuid 939ef7e7-4eab-4682-bdd3-cbc02901d8c2))
+    (pin "2" (uuid 269030b4-455f-49b1-a817-86696348b703))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -5897,7 +5897,7 @@
     (property "Datasheet" "" (at 298.45 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 280d7848-d12f-4cd8-b1fd-265be9fbf8a8))
+    (pin "1" (uuid 632fd523-a87e-4c93-b74f-2252125d1eb8))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -5922,12 +5922,12 @@
     (property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/2944fa.pdf" (at 106.68 280.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 92422c04-03dd-4337-b53c-eb816a517458))
-    (pin "2" (uuid d1faa6d0-ff66-42cb-81c8-79fa222e39e4))
-    (pin "3" (uuid 048c312d-13d9-4905-bb27-223a26e3f236))
-    (pin "4" (uuid 47a7f6e1-3f84-41f0-9bef-cec653b6843e))
-    (pin "5" (uuid 67c10cae-ab44-496a-88eb-6d31bbbd6aaf))
-    (pin "6" (uuid ace02cce-1acf-445e-974d-a922f0764bae))
+    (pin "1" (uuid e1587416-8bad-4756-8d5c-8406b5f279ba))
+    (pin "2" (uuid 01ffc6f6-aa02-4751-9549-aec70d62f188))
+    (pin "3" (uuid f62edd20-adba-4f30-8715-af629f6243f8))
+    (pin "4" (uuid 19eb3d44-d878-4711-b333-b81a29469542))
+    (pin "5" (uuid baf1dd0b-e690-4901-a570-89c66c882e3d))
+    (pin "6" (uuid 84a9a513-e8a0-4882-89d7-371c3c19e8e3))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -5955,8 +5955,8 @@
     (property "JLCPCB" "https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849" (at 127 170.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 71f576cb-7ec2-4215-bf27-fb5b9949e2b0))
-    (pin "2" (uuid 2976bc7b-0eae-4883-843b-9f3416548431))
+    (pin "1" (uuid 82b4dbce-4ae8-407a-984c-2947c7f8f737))
+    (pin "2" (uuid 93954db4-5895-4af6-b780-c29569ccb2b1))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -5984,8 +5984,8 @@
     (property "JLCPCB" "https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849" (at 157.48 170.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d0ead05b-bf5c-4add-844b-f675a9baccbd))
-    (pin "2" (uuid a51b2ca2-9077-4a33-9fba-6f403f3404a3))
+    (pin "1" (uuid 6de0984d-071b-4ab4-b3c3-f3c9cbc7e478))
+    (pin "2" (uuid 628af2c2-86d3-44dd-8080-bc9e836a190b))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -6013,8 +6013,8 @@
     (property "JLCPCB" "https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849" (at 111.76 170.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a8e5fdd9-8f37-4030-8b2c-a5e982d7e57f))
-    (pin "2" (uuid 287af705-80cb-4551-a6f3-7b3bbaa5010f))
+    (pin "1" (uuid 576e738b-c60b-4edb-94e4-22b21eb2a422))
+    (pin "2" (uuid 29df2a6e-e867-40d5-8e54-bdf3151e5819))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -6042,8 +6042,8 @@
     (property "JLCPCB" "https://jlcpcb.com/partdetail/18201-0805W8F1001T5E/C17513" (at 59.69 162.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 102aa49e-77b2-4ef9-9760-93e006538e98))
-    (pin "2" (uuid c8cc2edc-88b8-467a-ba73-c50d807e5ba4))
+    (pin "1" (uuid 07b23f54-df86-4854-8c39-eaa0ce8b5eeb))
+    (pin "2" (uuid a94a681d-a1aa-44e7-80c6-029dec27f48f))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -6068,7 +6068,7 @@
     (property "Datasheet" "" (at 275.59 186.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 47bfc075-b7e0-4a18-83b8-1e4c6907a9af))
+    (pin "1" (uuid 92f8dd19-b031-47c4-b72d-746221133d4d))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -6093,20 +6093,20 @@
     (property "Datasheet" "http://www.ti.com/lit/gpn/sn74hc00" (at 233.68 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0a6519ba-fbfd-4a4a-a393-bd12acaf9701))
-    (pin "2" (uuid 802038d1-9aac-4779-9c30-172491feb205))
-    (pin "3" (uuid 0b0d621a-be74-46ba-a8a9-8ecf0137fbca))
-    (pin "4" (uuid 10d72e2c-ac07-475d-bfc6-6b2421aa4109))
-    (pin "5" (uuid 7820d5a6-8ec6-412d-8824-b4424ee6bb47))
-    (pin "6" (uuid 142cda6b-9dd5-432b-a8e1-0e7c1442b38f))
-    (pin "10" (uuid 74ecf853-2443-4c5a-ad11-704f33320a11))
-    (pin "8" (uuid c36db991-d10d-4444-8be7-e2a9cf561150))
-    (pin "9" (uuid f4505fed-09e1-41f9-8d72-a8e900ad2d16))
-    (pin "11" (uuid 48777a68-fde3-4095-bd17-a80e81742b3c))
-    (pin "12" (uuid 6d9b1ac8-3529-4dc8-8c55-5b73299953f3))
-    (pin "13" (uuid 1be44cf7-44ae-4266-af37-7a5fd8da2396))
-    (pin "14" (uuid f17182c2-15ff-4ceb-bbd3-7beec36a3b59))
-    (pin "7" (uuid 002b5067-bec2-4f95-8224-43b03f330549))
+    (pin "1" (uuid 6ab6b6f9-87b8-4610-92dd-7e7bebfcdde0))
+    (pin "2" (uuid 678fec63-34f6-4f82-80fd-7211ea44b8c2))
+    (pin "3" (uuid d26f076e-2857-4674-9f3b-2560b063b128))
+    (pin "4" (uuid f0b26ee2-fc7b-41e4-ace3-17ec5cd22e64))
+    (pin "5" (uuid 4189c0f2-bf2d-4335-9d24-ef7779ff3bbd))
+    (pin "6" (uuid 02def443-e739-4a72-81a8-3c12276a6eaa))
+    (pin "10" (uuid c9cdd9a8-ef48-43b1-8d50-4702532c1246))
+    (pin "8" (uuid aa005333-8b75-45cb-9f15-c00b2424e234))
+    (pin "9" (uuid 676678bd-1c27-42ae-9bad-e82b85c9af64))
+    (pin "11" (uuid 90f4e3ad-b146-4a4b-8a03-0f1ee69065b5))
+    (pin "12" (uuid 951dd866-52c1-47b2-bb56-3daa5ec47587))
+    (pin "13" (uuid dfb14049-8c80-425a-9ff7-0ed0b36e77f7))
+    (pin "14" (uuid 746ba2a7-1609-4dd5-a524-27bb80298027))
+    (pin "7" (uuid 1d09ba79-8fd4-46d8-b72f-e4b30f9baff9))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -6131,7 +6131,7 @@
     (property "Datasheet" "" (at 355.6 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1aa85cd7-bf91-4589-9f98-e7306a292e20))
+    (pin "1" (uuid 552a5f81-6bd8-4b46-a5f0-b9bdb76e31a6))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -6156,10 +6156,10 @@
     (property "Datasheet" "~" (at 233.68 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7b3bd765-f8f1-42f7-8ce8-2d7d67673518))
-    (pin "2" (uuid 195118ae-2201-4611-8f2a-52dd681858c1))
-    (pin "3" (uuid cbd03efa-57a0-4886-a542-31b6b43f62cf))
-    (pin "4" (uuid dc9cbc55-6b78-47b4-aaeb-3bfc824b197f))
+    (pin "1" (uuid 3845b90f-682e-4a84-a142-a8ca8e42e825))
+    (pin "2" (uuid 7d20abfe-8865-4467-870f-da13e31a2ab6))
+    (pin "3" (uuid 90ae9793-42c2-463c-b362-0bebf9d3246c))
+    (pin "4" (uuid 29d548e9-1294-4f6b-9f63-6bd52713a4e6))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -6184,20 +6184,20 @@
     (property "Datasheet" "http://www.ti.com/lit/gpn/sn74hc00" (at 339.09 200.66 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0a6519ba-fbfd-4a4a-a393-bd12acaf9702))
-    (pin "2" (uuid 802038d1-9aac-4779-9c30-172491feb206))
-    (pin "3" (uuid 0b0d621a-be74-46ba-a8a9-8ecf0137fbcb))
-    (pin "4" (uuid 10d72e2c-ac07-475d-bfc6-6b2421aa410a))
-    (pin "5" (uuid 7820d5a6-8ec6-412d-8824-b4424ee6bb48))
-    (pin "6" (uuid 142cda6b-9dd5-432b-a8e1-0e7c1442b390))
-    (pin "10" (uuid 1c84158c-29d9-48a0-ae3f-de534d495758))
-    (pin "8" (uuid 08d4dc71-965b-4b11-81e0-e334ed1645e9))
-    (pin "9" (uuid 62f3f470-3ba9-42cc-a44d-6e7d3c67227c))
-    (pin "11" (uuid 48777a68-fde3-4095-bd17-a80e81742b3d))
-    (pin "12" (uuid 6d9b1ac8-3529-4dc8-8c55-5b73299953f4))
-    (pin "13" (uuid 1be44cf7-44ae-4266-af37-7a5fd8da2397))
-    (pin "14" (uuid f17182c2-15ff-4ceb-bbd3-7beec36a3b5a))
-    (pin "7" (uuid 002b5067-bec2-4f95-8224-43b03f33054a))
+    (pin "1" (uuid 75d7e67d-4522-4b36-9688-2b7918f65f73))
+    (pin "2" (uuid 22005a19-9927-4763-828e-92176b9b75da))
+    (pin "3" (uuid d30f77fa-2cde-499e-81e6-3e404f3344d3))
+    (pin "4" (uuid 3e813200-a55d-4977-80f9-891954c251ae))
+    (pin "5" (uuid 8830de65-a7f5-4d8b-b2b1-ab7a2fca3237))
+    (pin "6" (uuid c7a616be-34d5-4171-9ac6-bd32db6a4afc))
+    (pin "10" (uuid eee1dac0-765d-4195-890a-8cf0d2e5d8fd))
+    (pin "8" (uuid 1ef08aec-25e7-40e2-ac3c-9cde90c2e0bd))
+    (pin "9" (uuid 54e72482-d9ad-4d35-a1b6-7c01016d5949))
+    (pin "11" (uuid c05f5a72-fcf8-467a-9c22-1bf7757681fd))
+    (pin "12" (uuid 11559754-ba13-4f48-b5b1-b61549f18267))
+    (pin "13" (uuid faead9c9-d35f-490c-89b0-9c37106bd3b4))
+    (pin "14" (uuid 193dbc14-4b48-44e3-a079-e90bb83e5584))
+    (pin "7" (uuid 70db8c72-f184-489a-ae58-c8373ab89972))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -6222,9 +6222,9 @@
     (property "Datasheet" "~" (at 353.06 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c7eca373-2913-49f0-a5a3-108488b209bb))
-    (pin "2" (uuid 685ae345-60c1-4483-8c6a-a964208c9c81))
-    (pin "3" (uuid adc3639d-1ee0-40fe-95a7-bfbf91d3f74f))
+    (pin "1" (uuid 82adae13-1bb6-4d63-91c4-9517f5ccd960))
+    (pin "2" (uuid 34b62f68-42ae-41d6-bc40-dd53a7fe2cf7))
+    (pin "3" (uuid 7d24723b-9666-4466-8ca4-d5df7941b376))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -6252,8 +6252,8 @@
     (property "JLCPCB" "https://jlcpcb.com/partdetail/26487-0402WGF1002TCE/C25744" (at 340.36 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 88075a99-0b27-4c57-9295-5f1c9e355e82))
-    (pin "2" (uuid 43e1c9dc-1c0a-4f9e-87be-99e93bddd99b))
+    (pin "1" (uuid 3d0539bc-5821-4629-a5b1-43fbd09fb711))
+    (pin "2" (uuid 70ae19dd-495e-4f29-8c8a-29f7a3713ea4))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -6276,23 +6276,6 @@
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55" (page "3"))
-      )
-    )
-  )
-
-  (sheet (at 484.505 294.005) (size 26.67 3.81) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 255 229 191 1.0000))
-    (uuid 2218c4f6-43cb-43cc-aeaf-027d862041c6)
-    (property "Sheetname" "ExoSpineV1" (at 484.505 293.2934 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "ExoSpineV1.kicad_sch" (at 484.505 298.3996 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (instances
-      (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55" (page "4"))
       )
     )
   )

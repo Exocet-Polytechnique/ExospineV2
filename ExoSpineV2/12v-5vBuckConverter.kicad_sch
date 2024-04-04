@@ -750,8 +750,8 @@
     (property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2208181800_FOJAN-FCC0805X226M100FT_C5137600.pdf" (at 190.5 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 855330ce-9ec5-4595-b67a-db7622d99933))
-    (pin "2" (uuid 2937cc7f-53be-4ff2-96bd-20f4419c4fb8))
+    (pin "1" (uuid 664d7340-2e92-4332-87ca-6eaed8ad8387))
+    (pin "2" (uuid 0efdccd3-a6a3-4347-84fa-56647816b57f))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9042656c-fbb6-4ad3-be09-ad4e06445cda"
@@ -776,8 +776,8 @@
     (property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2208181800_FOJAN-FCC1206B104K500DT_C5137631.pdf" (at 207.01 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0c701d19-a3a8-4ef3-b1f2-b5d78839c558))
-    (pin "2" (uuid 8ebe8b04-5629-4445-84b8-5fb56bf8de20))
+    (pin "1" (uuid e7bb51d6-8441-4c0a-bc3b-641dcb1905fe))
+    (pin "2" (uuid c76505ae-d840-4740-be25-3ab06b08fd07))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9042656c-fbb6-4ad3-be09-ad4e06445cda"
@@ -790,7 +790,7 @@
   (symbol (lib_id "Connector:Screw_Terminal_01x02") (at 46.99 85.09 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2f4d2c57-5799-4edf-8039-ac8f416c86e5)
-    (property "Reference" "J19" (at 46.99 76.2 0)
+    (property "Reference" "J35" (at 46.99 76.2 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Screw_Terminal_01x02" (at 46.99 78.74 0)
@@ -802,12 +802,12 @@
     (property "Datasheet" "~" (at 46.99 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c08dbed6-0f36-4785-85a1-726014c06ad2))
-    (pin "2" (uuid 175ea8cf-e939-48e5-97bd-e95d186b005a))
+    (pin "1" (uuid d6b2bf81-17c1-4848-9b0e-3d816650bbf1))
+    (pin "2" (uuid 402c43b7-bf9a-47ed-818a-9114bcfa7036))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9042656c-fbb6-4ad3-be09-ad4e06445cda"
-          (reference "J19") (unit 1)
+          (reference "J35") (unit 1)
         )
       )
     )
@@ -828,8 +828,8 @@
     (property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2208181800_FOJAN-FCC1206B104K500DT_C5137631.pdf" (at 105.41 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 762ff455-e4fc-4c90-a8d4-fe0c19a31393))
-    (pin "2" (uuid 2ed161b7-d8c6-4604-a1f4-820c3bf3d5fc))
+    (pin "1" (uuid 32489534-087e-4b65-8c1a-1f540b9ed24f))
+    (pin "2" (uuid 9a7fea61-ccd2-48c6-bd75-6bcce4995d13))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9042656c-fbb6-4ad3-be09-ad4e06445cda"
@@ -854,8 +854,8 @@
     (property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-TD05H3002DT_C343950.pdf" (at 160.02 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b9bc06c3-210b-41d8-af05-afa3f14624f7))
-    (pin "2" (uuid 5f1b387a-a137-427f-bce7-e13a99bcac5d))
+    (pin "1" (uuid 7799b88c-7880-4303-83f4-7a48cd5e43c9))
+    (pin "2" (uuid e01ba31f-e1fe-4ea3-aae8-7fbe0670d8a9))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9042656c-fbb6-4ad3-be09-ad4e06445cda"
@@ -880,8 +880,8 @@
     (property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1810171714_Taiyo-Yuden-TMK316BJ106ML-T_C311699.pdf" (at 88.9 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 738c8c99-6819-4501-a3d2-dc775887a3d7))
-    (pin "2" (uuid 4b23f6f8-e60a-4412-8435-5e459b4390b0))
+    (pin "1" (uuid b9a1cbfb-b4d0-43a4-8735-a3123cfdee87))
+    (pin "2" (uuid 5b94da25-0b5a-451f-8da2-2d0d8f509fac))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9042656c-fbb6-4ad3-be09-ad4e06445cda"
@@ -894,7 +894,7 @@
   (symbol (lib_id "power:+12V") (at 83.82 74.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5e79f8bc-79bb-43c7-a14c-32449950c3e9)
-    (property "Reference" "#PWR011" (at 83.82 78.74 0)
+    (property "Reference" "#PWR0101" (at 83.82 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+12V" (at 83.82 69.85 0)
@@ -906,11 +906,11 @@
     (property "Datasheet" "" (at 83.82 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1e7f2aa1-1a33-4afc-917f-d1ffab5e0281))
+    (pin "1" (uuid 25ce21fa-c9df-442c-91cb-cdbd5333b926))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9042656c-fbb6-4ad3-be09-ad4e06445cda"
-          (reference "#PWR011") (unit 1)
+          (reference "#PWR0101") (unit 1)
         )
       )
     )
@@ -919,7 +919,7 @@
   (symbol (lib_id "Regulator_Switching:TPS563200") (at 142.24 81.28 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 64dff37b-90c9-4aeb-b052-642e869294c5)
-    (property "Reference" "U5" (at 142.24 71.12 0)
+    (property "Reference" "U10" (at 142.24 71.12 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TPS564247" (at 142.24 73.66 0)
@@ -934,16 +934,16 @@
     (property "Sim.Enable" "0" (at 142.24 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d0a0014b-e159-4076-9574-7b02db6240b6))
-    (pin "2" (uuid 06ad0424-4eb5-45f1-990f-ee9694115c3e))
-    (pin "3" (uuid 2c0c9b70-8483-44f7-9144-c80b9477806c))
-    (pin "4" (uuid e63af07c-5a71-44ee-98cc-6a057f876a5a))
-    (pin "5" (uuid 45398205-4d2c-43fe-8194-1c046dad2a1d))
-    (pin "6" (uuid 08620b69-a6be-4771-b387-6a2ca800adfc))
+    (pin "1" (uuid b9c463d2-7f02-4628-a73d-cac6d501d216))
+    (pin "2" (uuid 0c4db6e1-3ad7-4d20-9ca0-77293b80d53e))
+    (pin "3" (uuid 712ba363-d4cf-4f05-bfca-2eb3955d173b))
+    (pin "4" (uuid 243935ee-8144-40c5-8d14-b6450f000027))
+    (pin "5" (uuid cfdae1da-2385-4fb3-a1ea-0bf7a38d814a))
+    (pin "6" (uuid 8ebcffe7-185b-4d7f-8d1c-c1edf87c9da6))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9042656c-fbb6-4ad3-be09-ad4e06445cda"
-          (reference "U5") (unit 1)
+          (reference "U10") (unit 1)
         )
       )
     )
@@ -964,8 +964,8 @@
     (property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1808291131_Guangdong-TOPAZ-Elec-Tech-0603B104K500CT_C167026.pdf" (at 172.72 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6582d7e6-184a-4026-bbac-444da348afba))
-    (pin "2" (uuid f16dfcc4-f285-4835-85e4-204b457e1ee4))
+    (pin "1" (uuid a9c1205b-e3c3-4003-a0e5-d45ee920d9f6))
+    (pin "2" (uuid 40652b48-a731-49cc-9aee-ea7413c7b335))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9042656c-fbb6-4ad3-be09-ad4e06445cda"
@@ -990,7 +990,7 @@
     (property "Datasheet" "" (at 60.96 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c81128ac-be5c-4b42-9ab5-071686555002))
+    (pin "1" (uuid b06ec4a6-fb51-4645-a28c-208934ac1d52))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9042656c-fbb6-4ad3-be09-ad4e06445cda"
@@ -1015,8 +1015,8 @@
     (property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_BOURNS-SDR1307A-4R7M_C2050835.pdf" (at 167.64 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a1cff7d2-1c50-4117-8b4f-0bb6536964c2))
-    (pin "2" (uuid 0c2b331b-c4df-46ff-afdc-f4d95886af29))
+    (pin "1" (uuid ca915450-1782-4905-beb5-05280c2d23a9))
+    (pin "2" (uuid 4a972f35-329a-48b3-a557-271b38a5958f))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9042656c-fbb6-4ad3-be09-ad4e06445cda"
@@ -1041,7 +1041,7 @@
     (property "Datasheet" "" (at 60.96 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2aaa2997-aa72-48e7-b556-c5d37a312334))
+    (pin "1" (uuid 4aa22270-dfda-4439-a55e-687f283befac))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9042656c-fbb6-4ad3-be09-ad4e06445cda"
@@ -1054,7 +1054,7 @@
   (symbol (lib_id "power:+5V") (at 217.17 76.2 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9f919230-efc3-4ac0-86d6-2d13a176c427)
-    (property "Reference" "#PWR013" (at 217.17 80.01 0)
+    (property "Reference" "#PWR0103" (at 217.17 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+5V" (at 217.17 71.12 0)
@@ -1066,11 +1066,11 @@
     (property "Datasheet" "" (at 217.17 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid bb7426be-e146-4eb2-9603-98297869be91))
+    (pin "1" (uuid 0a3cedbf-3c13-44bf-b6c5-73cd93e67d9a))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9042656c-fbb6-4ad3-be09-ad4e06445cda"
-          (reference "#PWR013") (unit 1)
+          (reference "#PWR0103") (unit 1)
         )
       )
     )
@@ -1091,8 +1091,8 @@
     (property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-RS-05K2323FT_C322367.pdf" (at 115.57 82.55 0)
       (effects (font (size 1.27 1.27) bold) hide)
     )
-    (pin "1" (uuid ed186e6a-4059-4ea6-a206-0a73d164daa8))
-    (pin "2" (uuid c84e6d94-7304-4c76-9825-40a615ff26ed))
+    (pin "1" (uuid 57e6cdb8-367c-4713-9415-c4d8d1ee72af))
+    (pin "2" (uuid 46a753bb-8392-4d43-a311-16800394a296))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9042656c-fbb6-4ad3-be09-ad4e06445cda"
@@ -1117,8 +1117,8 @@
     (property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2308241947_FOJAN-FRC0805F2203TS_C2907242.pdf" (at 180.34 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid feea2d76-b316-4d08-b3d9-493bc83e9b45))
-    (pin "2" (uuid 3640c24f-560a-4f6d-b6f7-24f6981ab3c5))
+    (pin "1" (uuid 2f972c97-b6fe-4f69-a1bd-3b38f4e54737))
+    (pin "2" (uuid c49dd3ec-14ed-40a3-a800-13dc1d87469a))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9042656c-fbb6-4ad3-be09-ad4e06445cda"
@@ -1143,8 +1143,8 @@
     (property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2208181800_FOJAN-FCC0805X226M100FT_C5137600.pdf" (at 198.12 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1c568886-19e0-454e-9e6a-5aca9e0e3207))
-    (pin "2" (uuid f7901c8a-2d1a-4f2c-b26f-e409ec1ba098))
+    (pin "1" (uuid 274a676d-466b-4f71-9fa0-eb3e07b142d6))
+    (pin "2" (uuid 12dcbdcf-acda-4313-a291-d18b5c26bb2e))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9042656c-fbb6-4ad3-be09-ad4e06445cda"
@@ -1169,8 +1169,8 @@
     (property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-TD05H3002DT_C343950.pdf" (at 115.57 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 070ea6d6-97c7-408e-b295-5f9947d8e618))
-    (pin "2" (uuid c98c3bfb-ad13-48d1-a11c-a5093e8acfc6))
+    (pin "1" (uuid 1187dbdd-323c-49cc-b6ea-704879aed820))
+    (pin "2" (uuid 3fa087a8-6d28-497b-a691-13746d24cc7a))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9042656c-fbb6-4ad3-be09-ad4e06445cda"
@@ -1183,7 +1183,7 @@
   (symbol (lib_id "power:GND") (at 134.62 99.06 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f2a43159-2df7-4da8-937a-6761f1b118d7)
-    (property "Reference" "#PWR014" (at 134.62 105.41 0)
+    (property "Reference" "#PWR0102" (at 134.62 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 134.62 104.14 0)
@@ -1195,11 +1195,11 @@
     (property "Datasheet" "" (at 134.62 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b3df69bf-b890-423b-9c10-39c71da4f992))
+    (pin "1" (uuid 60f5cc77-526b-4920-8b69-f9e9c0a9bd15))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9042656c-fbb6-4ad3-be09-ad4e06445cda"
-          (reference "#PWR014") (unit 1)
+          (reference "#PWR0102") (unit 1)
         )
       )
     )
@@ -1220,8 +1220,8 @@
     (property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-TD05H3002DT_C343950.pdf" (at 180.34 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9ee02d14-50c6-45df-a7c3-882e842a21bd))
-    (pin "2" (uuid 2bedea50-b44b-445c-a02e-140ff71e0229))
+    (pin "1" (uuid fd961e71-3c56-4bce-b8ec-02c791af0be9))
+    (pin "2" (uuid 12f4e935-1f40-4516-a643-bb469c187d4f))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9042656c-fbb6-4ad3-be09-ad4e06445cda"

@@ -901,7 +901,7 @@
     (property "Datasheet" "" (at 95.25 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b6a16bd2-6599-4845-ab74-4b1f62841327))
+    (pin "1" (uuid fa5a85fc-bf95-44d5-94d5-63b65fdfce78))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/20814431-03eb-459e-9e71-9431fed06066"
@@ -926,7 +926,7 @@
     (property "Datasheet" "" (at 95.25 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6383a4c1-76a3-4d7f-a24e-32ae694062ac))
+    (pin "1" (uuid 7e6b15c9-2a7c-4350-bc6c-7c344a25ddd0))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/20814431-03eb-459e-9e71-9431fed06066"
@@ -954,8 +954,8 @@
     (property "JLCPCB" "https://jlcpcb.com/partdetail/2062-CL21B103KBANNNC/C1710" (at 132.08 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 33d63698-c0c3-4a38-b7d5-6c3eb24d4e64))
-    (pin "2" (uuid 17624743-b079-47b0-80e0-16ac2bb8a3ea))
+    (pin "1" (uuid c4d71fce-1423-497a-bd8c-42b331c4a651))
+    (pin "2" (uuid 78cd833c-1a3f-4880-a58e-b904eb5ad810))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/20814431-03eb-459e-9e71-9431fed06066"
@@ -980,7 +980,7 @@
     (property "Datasheet" "" (at 147.32 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0f70b05e-838f-4229-b894-cbb65a82c7d6))
+    (pin "1" (uuid 81391042-83bc-41c1-a9da-169d37ea32fb))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/20814431-03eb-459e-9e71-9431fed06066"
@@ -1005,10 +1005,10 @@
     (property "Datasheet" "~" (at 238.76 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3d2c3436-a326-4973-9626-8f25e309c79a))
-    (pin "2" (uuid 3556e6fa-bc25-4509-ab1a-aeea8605e5a7))
-    (pin "3" (uuid 0015db70-d846-4438-9d61-a8caabc7fb3d))
-    (pin "4" (uuid 5045560b-f731-41ce-8242-9f1deb6e4622))
+    (pin "1" (uuid df9c52c4-e716-4da3-9872-e1a2394410a0))
+    (pin "2" (uuid 4a77d1ae-7902-4cb4-907f-4618313bde63))
+    (pin "3" (uuid 80e51c70-6f52-497e-bdbf-501b926cb1b5))
+    (pin "4" (uuid 467c183e-5e74-46ed-93bb-ee9870079dd7))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/20814431-03eb-459e-9e71-9431fed06066"
@@ -1033,7 +1033,7 @@
     (property "Datasheet" "" (at 189.23 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5b7feea7-7231-4634-8a29-da729493b5cf))
+    (pin "1" (uuid 1e40e0ab-5497-4ebc-bc5e-7683c14baba9))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/20814431-03eb-459e-9e71-9431fed06066"
@@ -1058,7 +1058,7 @@
     (property "Datasheet" "" (at 167.64 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4bc51509-209a-44cb-9746-c95bd7cad6c4))
+    (pin "1" (uuid 41551b40-1ecb-42cf-80eb-1813fba6b496))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/20814431-03eb-459e-9e71-9431fed06066"
@@ -1092,9 +1092,9 @@
     (property "Sim.Pins" "1=C 2=B 3=E" (at 92.71 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6a3a44ec-a222-42fa-a7c5-8cb750782f07))
-    (pin "2" (uuid 3d3434cb-a1a3-44ce-9152-7ea77bb8e855))
-    (pin "3" (uuid 81df5bf0-a35a-4d1b-9262-badd24f1b5a7))
+    (pin "1" (uuid 3dd50366-8799-44ea-80be-b92c6f12d1cf))
+    (pin "2" (uuid 91f5ec96-b30c-4937-82a9-b4ae474a4bcf))
+    (pin "3" (uuid b150d2e5-3bd1-4a0b-95be-f061065516d6))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/20814431-03eb-459e-9e71-9431fed06066"
@@ -1119,7 +1119,7 @@
     (property "Datasheet" "" (at 198.12 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid eba0bc78-e116-4463-b0dd-a5f7712259f1))
+    (pin "1" (uuid ce88fb37-4904-4279-8c5e-3a86e99135a9))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/20814431-03eb-459e-9e71-9431fed06066"
@@ -1144,7 +1144,7 @@
     (property "Datasheet" "" (at 232.41 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 670df4a6-35d1-469b-a691-bcf04382760e))
+    (pin "1" (uuid 66844b2b-a8bd-476b-a594-0bf727975048))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/20814431-03eb-459e-9e71-9431fed06066"
@@ -1172,8 +1172,8 @@
     (property "JLCPCB" "https://jlcpcb.com/partdetail/26487-0402WGF1002TCE/C25744" (at 83.82 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 14b6adfa-8afb-4ab4-90ec-87711ea7cf63))
-    (pin "2" (uuid 06163b18-8998-4c51-9648-c71a9194a1d5))
+    (pin "1" (uuid 77995615-1609-48a8-97c7-aa37e445c8fe))
+    (pin "2" (uuid 01525dbd-894e-41b5-bffc-7fd83d32e3bc))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/20814431-03eb-459e-9e71-9431fed06066"
@@ -1201,8 +1201,8 @@
     (property "JLCPCB" "https://jlcpcb.com/partdetail/26487-0402WGF1002TCE/C25744" (at 201.93 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid de1adf41-3d80-42ef-af3a-8557a376b711))
-    (pin "2" (uuid ffea65d7-7340-4c73-8978-00a7851c2187))
+    (pin "1" (uuid 72a96668-3cf7-4afb-9e64-9952a86f8d49))
+    (pin "2" (uuid 1c86dae5-0c52-400f-897f-4b417d3b6868))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/20814431-03eb-459e-9e71-9431fed06066"
@@ -1233,22 +1233,22 @@
     (property "MANUFACTURER_PART_NUMBER" "ltc4312ims#pbf" (at 167.64 91.44 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
-    (pin "1" (uuid 21606ca5-fb39-4d1b-883d-848908b9ba28))
-    (pin "10" (uuid 668e20b2-3566-44b4-ba9e-02b60ebdc39d))
-    (pin "11" (uuid 3ed0470a-124f-4a06-a769-f837361bd7db))
-    (pin "12" (uuid 8c88507f-89e7-4f26-833b-b21557fabd0b))
-    (pin "13" (uuid 77716216-b366-4b00-ac7a-4c11638cb889))
-    (pin "14" (uuid cacecb9a-5521-4b5a-9ac6-e00dc05b76f4))
-    (pin "15" (uuid 8476f422-3335-4f7b-9d29-c9d15176133e))
-    (pin "16" (uuid 9d55904f-8fd0-4794-a0ad-5137ce1ee651))
-    (pin "2" (uuid 070b3848-8361-4f25-b00e-a9c95c8b5eaa))
-    (pin "3" (uuid 2734ed7f-a0db-40c0-831f-e86dedf8c84c))
-    (pin "4" (uuid 493efab8-cbe3-4cd7-b8da-8389b93d4322))
-    (pin "5" (uuid 00396883-721d-4350-b0e9-24cde5e4d151))
-    (pin "6" (uuid d10839e4-a903-4914-b39d-2e7cbd54cb51))
-    (pin "7" (uuid 9e7ebe38-fc37-4f2e-8723-55fbe55289da))
-    (pin "8" (uuid b9d12fa1-6270-48d1-ad99-3a568d513e79))
-    (pin "9" (uuid 0caa9479-b8bb-41a7-a4c4-3daf93063592))
+    (pin "1" (uuid 9eccd1c6-d382-4777-80b3-c1aa47dc6827))
+    (pin "10" (uuid b645464d-6883-480b-806f-25cc50a56a1c))
+    (pin "11" (uuid ab932213-b5c4-4845-8d98-4c0614f8bf13))
+    (pin "12" (uuid 7881adc6-fab9-4122-ab60-fe59dc537d2b))
+    (pin "13" (uuid 45d30ca0-ec4a-4e1d-b8c0-efa45b1ceef3))
+    (pin "14" (uuid 2e0204e6-5810-4796-8778-e4a69530db16))
+    (pin "15" (uuid 09312ca1-d0c6-46bb-9639-6015344563ec))
+    (pin "16" (uuid 23ee7ab2-ec81-4a71-b25a-d6b4fa23e568))
+    (pin "2" (uuid 5cf93bc7-b533-4150-872c-eb911724af59))
+    (pin "3" (uuid bd5ce4f6-2bdc-4d36-91c1-83bc69c7ad9f))
+    (pin "4" (uuid 0a47e926-4298-4dd4-a1f0-dcb545af08c8))
+    (pin "5" (uuid 043cd2cd-0d4d-47e9-be84-4c10a6c9a7fd))
+    (pin "6" (uuid 0bf7323e-8084-40bc-adae-da4b4bfe8376))
+    (pin "7" (uuid 98524d40-b5e0-484c-b079-8d2ec4d82a4d))
+    (pin "8" (uuid ce27f92c-8e1c-48f7-a94a-8e32d34670b2))
+    (pin "9" (uuid 745c44b9-a748-47e8-817b-e124343afc67))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/20814431-03eb-459e-9e71-9431fed06066"
@@ -1273,7 +1273,7 @@
     (property "Datasheet" "" (at 232.41 111.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e3e11692-91cb-47ba-b73e-1f2668040eb9))
+    (pin "1" (uuid 2af297e3-5ada-47ac-8002-bc14e5d3e7ec))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/20814431-03eb-459e-9e71-9431fed06066"
@@ -1298,7 +1298,7 @@
     (property "Datasheet" "" (at 232.41 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ded3921a-b5df-49c5-a96a-bc6f803b3fba))
+    (pin "1" (uuid 89555ca4-0d67-427e-876d-d3affcaedfc9))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/20814431-03eb-459e-9e71-9431fed06066"
@@ -1323,10 +1323,10 @@
     (property "Datasheet" "~" (at 238.76 115.57 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f82cac2d-857d-4547-af43-4fe43f87bfa5))
-    (pin "2" (uuid e48fecc9-1703-426c-8699-67328db7b990))
-    (pin "3" (uuid 831a7fac-4781-44d4-9b41-143ebc4e5bf9))
-    (pin "4" (uuid 71b05bda-07ec-4966-a48c-3013e0632db8))
+    (pin "1" (uuid 0d485a30-e6ea-469c-937b-e309bac5d07d))
+    (pin "2" (uuid f0d535b2-ab2c-49d0-9db1-c7f010580bab))
+    (pin "3" (uuid a66893ec-41a8-4104-9036-ecbec306cb8e))
+    (pin "4" (uuid a1eb070d-a06d-4aad-bbe2-36313247f8e6))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/20814431-03eb-459e-9e71-9431fed06066"
@@ -1354,8 +1354,8 @@
     (property "JLCPCB" "https://jlcpcb.com/partdetail/26487-0402WGF1002TCE/C25744" (at 139.7 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5b6529e1-3220-43b5-b4dc-cbfd64485d1d))
-    (pin "2" (uuid f5a0fc7a-f377-4881-95f0-fd30a4c9661a))
+    (pin "1" (uuid f54d6379-f3e9-4388-b065-670fff0d8cc8))
+    (pin "2" (uuid 68983fcf-8157-41e8-aaa7-25071c59b9d2))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/20814431-03eb-459e-9e71-9431fed06066"
@@ -1380,7 +1380,7 @@
     (property "Datasheet" "" (at 203.2 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 441591c0-4cb4-4fdd-b25a-c9906f64210d))
+    (pin "1" (uuid d365ed42-685f-4614-8b84-4ef0fdb40c88))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/20814431-03eb-459e-9e71-9431fed06066"
@@ -1408,8 +1408,8 @@
     (property "JLCPCB" "https://jlcpcb.com/partdetail/2062-CL21B103KBANNNC/C1710" (at 203.2 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b5ffe2ef-f435-4c73-87a3-bd2aec94085d))
-    (pin "2" (uuid bf8dda61-a8ce-4dbf-896c-c87422a33a79))
+    (pin "1" (uuid 2c3b3734-9114-4e27-a8aa-56e1e1f6318e))
+    (pin "2" (uuid f4630e6d-b254-4711-8518-3a534f929dac))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/20814431-03eb-459e-9e71-9431fed06066"
@@ -1434,7 +1434,7 @@
     (property "Datasheet" "" (at 232.41 121.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 87bb5571-51d5-4122-9e6c-18cd25ee7da0))
+    (pin "1" (uuid 3274815b-d9f7-4539-b49d-053c862898c3))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/20814431-03eb-459e-9e71-9431fed06066"
@@ -1462,8 +1462,8 @@
     (property "JLCPCB" "https://jlcpcb.com/partdetail/26487-0402WGF1002TCE/C25744" (at 147.32 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4cab39d3-1dae-45de-9588-4f29896c3a52))
-    (pin "2" (uuid c91ac12b-c939-4f46-85c4-45e558720715))
+    (pin "1" (uuid 935dfa88-e2b2-44f1-9c7c-85723b10e50f))
+    (pin "2" (uuid eabdd2c0-0673-43c6-86fb-fae6bf18ac32))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/20814431-03eb-459e-9e71-9431fed06066"
@@ -1491,8 +1491,8 @@
     (property "JLCPCB" "https://jlcpcb.com/partdetail/26487-0402WGF1002TCE/C25744" (at 189.23 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8dbe73b2-f7a8-4a6f-aacc-8155b22aaaf4))
-    (pin "2" (uuid 40e0dbf6-0c80-4261-a494-db2daba9be40))
+    (pin "1" (uuid 5b39d333-3f8c-4c0f-b26a-0e41beada9a5))
+    (pin "2" (uuid 03414e1c-85e3-4404-bc32-fff2940c36d9))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/20814431-03eb-459e-9e71-9431fed06066"
@@ -1517,7 +1517,7 @@
     (property "Datasheet" "" (at 132.08 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 24d171be-9b7f-46fd-8df3-a2916f151ed8))
+    (pin "1" (uuid 3ccf6626-6a18-4c87-babb-2ef47c8089f1))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/20814431-03eb-459e-9e71-9431fed06066"
@@ -1545,8 +1545,8 @@
     (property "JLCPCB" "https://jlcpcb.com/partdetail/26487-0402WGF1002TCE/C25744" (at 196.85 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9d8a2489-76a3-46a7-861c-83867f60e41f))
-    (pin "2" (uuid 97700296-df2e-4687-9ab5-985473d47a08))
+    (pin "1" (uuid 622de354-3264-439c-8520-b59b0e2bd58b))
+    (pin "2" (uuid 4b976f11-2a6f-4c46-9200-e4f47961bca5))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/20814431-03eb-459e-9e71-9431fed06066"
@@ -1574,8 +1574,8 @@
     (property "JLCPCB" "https://jlcpcb.com/partdetail/26487-0402WGF1002TCE/C25744" (at 95.25 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0f000f20-747a-446a-95a3-e172a89972c7))
-    (pin "2" (uuid b6d8b734-4b67-478a-804d-5de254922b08))
+    (pin "1" (uuid ceedc22e-adf5-4c2f-a9b4-00bd537bfc31))
+    (pin "2" (uuid ef252532-67ff-4e42-8058-1a805ec46711))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/20814431-03eb-459e-9e71-9431fed06066"
@@ -1600,7 +1600,7 @@
     (property "Datasheet" "" (at 146.05 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d0a47157-9893-4152-bac0-7f445180b761))
+    (pin "1" (uuid 10757fee-c0a6-451f-9184-243475e80db8))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/20814431-03eb-459e-9e71-9431fed06066"
@@ -1628,8 +1628,8 @@
     (property "JLCPCB" "https://jlcpcb.com/partdetail/26487-0402WGF1002TCE/C25744" (at 194.31 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ddbec0d1-698a-4a12-8b79-2448333c8f3a))
-    (pin "2" (uuid 597ec19f-cce9-47d2-a5f4-88308de83856))
+    (pin "1" (uuid 20a1e6db-7ed8-4812-98a0-cb429df049ae))
+    (pin "2" (uuid 70b88227-da3d-4b54-b26b-aa778389d7b6))
     (instances
       (project "ExospineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/20814431-03eb-459e-9e71-9431fed06066"
