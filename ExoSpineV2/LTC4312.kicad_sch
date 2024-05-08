@@ -639,7 +639,6 @@
 
   (no_connect (at 148.59 106.68) (uuid a25a3814-7c87-45c2-9ed1-1ba909bdb89b))
   (no_connect (at 148.59 111.76) (uuid b0ca6bbb-4add-495e-a036-a3368f056bd8))
-  (no_connect (at 95.25 99.06) (uuid de21c4f5-6b97-412d-b876-ef0d3e15e8e7))
 
   (wire (pts (xy 172.72 72.39) (xy 172.72 71.12))
     (stroke (width 0) (type default))
@@ -1098,7 +1097,7 @@
   (symbol (lib_id "Transistor_FET:2N7002") (at 92.71 92.71 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2c0cdc09-4d19-4012-849b-5478450d2de5)
-    (property "Reference" "Q4" (at 99.06 91.44 0)
+    (property "Reference" "Q6" (at 99.06 91.44 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "2N7002" (at 99.06 93.98 0)
@@ -1115,9 +1114,6 @@
     (pin "3" (uuid bbe76326-e792-4c8e-9e17-7166a258b7cc))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-          (reference "Q4") (unit 1)
-        )
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/20814431-03eb-459e-9e71-9431fed06066"
           (reference "Q6") (unit 1)
         )
@@ -1632,7 +1628,7 @@
   (symbol (lib_id "Device:R_Small_US") (at 95.25 83.82 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e42303a7-f392-4832-bdb7-3df0df07215c)
-    (property "Reference" "R16" (at 97.79 82.55 0)
+    (property "Reference" "R9" (at 97.79 82.55 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 97.79 85.09 0)
@@ -1651,9 +1647,6 @@
     (pin "2" (uuid 13722595-b3f3-499a-abbd-fc2eff803058))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9042656c-fbb6-4ad3-be09-ad4e06445cda"
-          (reference "R16") (unit 1)
-        )
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/20814431-03eb-459e-9e71-9431fed06066"
           (reference "R9") (unit 1)
         )
@@ -1689,7 +1682,7 @@
   (symbol (lib_id "Device:R_Small_US") (at 83.82 92.71 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f1fb1a66-45af-47d6-b31a-7dd43effc958)
-    (property "Reference" "R16" (at 83.82 86.36 90)
+    (property "Reference" "R15" (at 83.82 86.36 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10k" (at 83.82 88.9 90)
@@ -1708,9 +1701,6 @@
     (pin "2" (uuid cfb16af3-2dce-4d67-b83f-4a820a4df9de))
     (instances
       (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9042656c-fbb6-4ad3-be09-ad4e06445cda"
-          (reference "R16") (unit 1)
-        )
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/20814431-03eb-459e-9e71-9431fed06066"
           (reference "R15") (unit 1)
         )
