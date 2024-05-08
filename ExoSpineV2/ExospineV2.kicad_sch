@@ -6675,23 +6675,6 @@
     )
   )
 
-  (sheet (at 22.86 100.33) (size 35.56 8.89) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 255 229 191 1.0000))
-    (uuid 9042656c-fbb6-4ad3-be09-ad4e06445cda)
-    (property "Sheetname" "12v-5v buck converter" (at 22.86 99.6184 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "12v-5vBuckConverter.kicad_sch" (at 22.86 109.8046 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (instances
-      (project "ExospineV2"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55" (page "2"))
-      )
-    )
-  )
-
   (sheet_instances
     (path "/" (page "1"))
   )
