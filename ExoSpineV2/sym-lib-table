@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "1ExoSpineLibrary")(type "KiCad")(uri "${KIPRJMOD}/1ExoSpineLibrary.kicad_sym")(options "")(descr ""))
   (lib (name "SN74HC00D")(type "KiCad")(uri "${KIPRJMOD}/Parts Libraries/SN74HC00D/KiCADv6/2024-04-05_16-20-38.kicad_sym")(options "")(descr ""))
+  (lib (name "ExoSpineV2")(type "KiCad")(uri "${KIPRJMOD}/ExoSpineV2.kicad_sym")(options "")(descr ""))
 )
