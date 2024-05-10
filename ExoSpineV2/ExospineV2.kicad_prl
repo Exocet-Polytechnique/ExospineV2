@@ -62,7 +62,7 @@
       37,
       38
     ],
-    "visible_layers": "003ffff_80000001",
+    "visible_layers": "ffffeff_ffffffff",
     "zone_display_mode": 1
   },
   "git": {
@@ -72,7 +72,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "ExospineV2.kicad_prl",
+    "filename": "ExoSpineV2.kicad_prl",
     "version": 3
   },
   "project": {

@@ -269,98 +269,6 @@
         )
       )
     )
-    (symbol "1ExoSpineLibrary:LTC4312IMS_PBF" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
-      (property "Reference" "U" (at -1.27 0 0)
-        (effects (font (size 1.27 1.27)) (justify left bottom))
-      )
-      (property "Value" "LTC4312IMS_PBF" (at -7.62 -2.54 0)
-        (effects (font (size 1.27 1.27)) (justify left bottom))
-      )
-      (property "Footprint" "LTC4312IMS_PBF:MSOP-16_MS" (at 1.27 6.35 0)
-        (effects (font (size 1.27 1.27)) (justify bottom) hide)
-      )
-      (property "Datasheet" "" (at -39.37 34.29 0)
-        (effects (font (size 1.27 1.27)) hide)
-      )
-      (property "VENDOR" "Linear Technology" (at 0 8.89 0)
-        (effects (font (size 1.27 1.27)) (justify bottom) hide)
-      )
-      (property "MANUFACTURER_PART_NUMBER" "ltc4312ims#pbf" (at 0 3.81 0)
-        (effects (font (size 1.27 1.27)) (justify bottom) hide)
-      )
-      (symbol "LTC4312IMS_PBF_0_0"
-        (rectangle (start -13.97 17.78) (end 13.97 -20.32)
-          (stroke (width 0.1524) (type default))
-          (fill (type background))
-        )
-      )
-      (symbol "LTC4312IMS_PBF_1_0"
-        (pin input line (at -19.05 -13.97 0) (length 5.08)
-          (name "DISCEN" (effects (font (size 1.016 1.016))))
-          (number "1" (effects (font (size 1.016 1.016))))
-        )
-        (pin bidirectional line (at -19.05 7.62 0) (length 5.08)
-          (name "ENABLE1" (effects (font (size 1.016 1.016))))
-          (number "10" (effects (font (size 1.016 1.016))))
-        )
-        (pin output line (at -19.05 -16.51 0) (length 5.08)
-          (name "*FAULT" (effects (font (size 1.016 1.016))))
-          (number "11" (effects (font (size 1.016 1.016))))
-        )
-        (pin power_in line (at 5.08 22.86 270) (length 5.08)
-          (name "VCC2" (effects (font (size 1.016 1.016))))
-          (number "12" (effects (font (size 1.016 1.016))))
-        )
-        (pin no_connect line (at 19.05 -6.35 180) (length 5.08)
-          (name "NC_2" (effects (font (size 1.016 1.016))))
-          (number "13" (effects (font (size 1.016 1.016))))
-        )
-        (pin no_connect line (at 19.05 -3.81 180) (length 5.08)
-          (name "NC" (effects (font (size 1.016 1.016))))
-          (number "14" (effects (font (size 1.016 1.016))))
-        )
-        (pin power_in line (at 0 -25.4 90) (length 5.08)
-          (name "GND" (effects (font (size 1.016 1.016))))
-          (number "15" (effects (font (size 1.016 1.016))))
-        )
-        (pin passive line (at -19.05 -11.43 0) (length 5.08)
-          (name "*ACC" (effects (font (size 1.016 1.016))))
-          (number "16" (effects (font (size 1.016 1.016))))
-        )
-        (pin power_in line (at -5.08 22.86 270) (length 5.08)
-          (name "VCC" (effects (font (size 1.016 1.016))))
-          (number "2" (effects (font (size 1.016 1.016))))
-        )
-        (pin bidirectional line (at 19.05 5.08 180) (length 5.08)
-          (name "SCLOUT1" (effects (font (size 1.016 1.016))))
-          (number "3" (effects (font (size 1.016 1.016))))
-        )
-        (pin bidirectional line (at 19.05 7.62 180) (length 5.08)
-          (name "SDAOUT1" (effects (font (size 1.016 1.016))))
-          (number "4" (effects (font (size 1.016 1.016))))
-        )
-        (pin bidirectional line (at -19.05 12.7 0) (length 5.08)
-          (name "SDAIN" (effects (font (size 1.016 1.016))))
-          (number "5" (effects (font (size 1.016 1.016))))
-        )
-        (pin bidirectional line (at -19.05 10.16 0) (length 5.08)
-          (name "SCLIN" (effects (font (size 1.016 1.016))))
-          (number "6" (effects (font (size 1.016 1.016))))
-        )
-        (pin bidirectional line (at 19.05 -16.51 180) (length 5.08)
-          (name "SCLOUT2" (effects (font (size 1.016 1.016))))
-          (number "7" (effects (font (size 1.016 1.016))))
-        )
-        (pin bidirectional line (at 19.05 -13.97 180) (length 5.08)
-          (name "SDAOUT2" (effects (font (size 1.016 1.016))))
-          (number "8" (effects (font (size 1.016 1.016))))
-        )
-        (pin bidirectional line (at -19.05 5.08 0) (length 5.08)
-          (name "ENABLE2" (effects (font (size 1.016 1.016))))
-          (number "9" (effects (font (size 1.016 1.016))))
-        )
-      )
-    )
     (symbol "2N7002_1" (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "Q" (at 5.08 1.905 0)
         (effects (font (size 1.27 1.27)) (justify left))
@@ -1851,6 +1759,92 @@
         )
       )
     )
+    (symbol "ExoSpineV2:LTC4312IMS_PBF" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+      (property "Reference" "U" (at -1.27 0 0)
+        (effects (font (size 1.27 1.27)) (justify left bottom))
+      )
+      (property "Value" "LTC4312IMS_PBF" (at -7.62 -2.54 0)
+        (effects (font (size 1.27 1.27)) (justify left bottom))
+      )
+      (property "Footprint" "LTC4312IMS_PBF:MSOP-16_MS" (at 1.27 6.35 0)
+        (effects (font (size 1.27 1.27)) (justify bottom) hide)
+      )
+      (property "Datasheet" "" (at -39.37 34.29 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (symbol "LTC4312IMS_PBF_0_0"
+        (rectangle (start -13.97 17.78) (end 13.97 -20.32)
+          (stroke (width 0.1524) (type default))
+          (fill (type background))
+        )
+      )
+      (symbol "LTC4312IMS_PBF_1_0"
+        (pin input line (at -19.05 -13.97 0) (length 5.08)
+          (name "DISCEN" (effects (font (size 1.016 1.016))))
+          (number "1" (effects (font (size 1.016 1.016))))
+        )
+        (pin bidirectional line (at -19.05 7.62 0) (length 5.08)
+          (name "ENABLE1" (effects (font (size 1.016 1.016))))
+          (number "10" (effects (font (size 1.016 1.016))))
+        )
+        (pin output line (at -19.05 -16.51 0) (length 5.08)
+          (name "*FAULT" (effects (font (size 1.016 1.016))))
+          (number "11" (effects (font (size 1.016 1.016))))
+        )
+        (pin power_in line (at 5.08 22.86 270) (length 5.08)
+          (name "VCC2" (effects (font (size 1.016 1.016))))
+          (number "12" (effects (font (size 1.016 1.016))))
+        )
+        (pin no_connect line (at 19.05 -6.35 180) (length 5.08)
+          (name "NC_2" (effects (font (size 1.016 1.016))))
+          (number "13" (effects (font (size 1.016 1.016))))
+        )
+        (pin no_connect line (at 19.05 -3.81 180) (length 5.08)
+          (name "NC" (effects (font (size 1.016 1.016))))
+          (number "14" (effects (font (size 1.016 1.016))))
+        )
+        (pin power_in line (at 0 -25.4 90) (length 5.08)
+          (name "GND" (effects (font (size 1.016 1.016))))
+          (number "15" (effects (font (size 1.016 1.016))))
+        )
+        (pin passive line (at -19.05 -11.43 0) (length 5.08)
+          (name "*ACC" (effects (font (size 1.016 1.016))))
+          (number "16" (effects (font (size 1.016 1.016))))
+        )
+        (pin power_in line (at -5.08 22.86 270) (length 5.08)
+          (name "VCC" (effects (font (size 1.016 1.016))))
+          (number "2" (effects (font (size 1.016 1.016))))
+        )
+        (pin bidirectional line (at 19.05 5.08 180) (length 5.08)
+          (name "SCLOUT1" (effects (font (size 1.016 1.016))))
+          (number "3" (effects (font (size 1.016 1.016))))
+        )
+        (pin bidirectional line (at 19.05 7.62 180) (length 5.08)
+          (name "SDAOUT1" (effects (font (size 1.016 1.016))))
+          (number "4" (effects (font (size 1.016 1.016))))
+        )
+        (pin bidirectional line (at -19.05 12.7 0) (length 5.08)
+          (name "SDAIN" (effects (font (size 1.016 1.016))))
+          (number "5" (effects (font (size 1.016 1.016))))
+        )
+        (pin bidirectional line (at -19.05 10.16 0) (length 5.08)
+          (name "SCLIN" (effects (font (size 1.016 1.016))))
+          (number "6" (effects (font (size 1.016 1.016))))
+        )
+        (pin bidirectional line (at 19.05 -16.51 180) (length 5.08)
+          (name "SCLOUT2" (effects (font (size 1.016 1.016))))
+          (number "7" (effects (font (size 1.016 1.016))))
+        )
+        (pin bidirectional line (at 19.05 -13.97 180) (length 5.08)
+          (name "SDAOUT2" (effects (font (size 1.016 1.016))))
+          (number "8" (effects (font (size 1.016 1.016))))
+        )
+        (pin bidirectional line (at -19.05 5.08 0) (length 5.08)
+          (name "ENABLE2" (effects (font (size 1.016 1.016))))
+          (number "9" (effects (font (size 1.016 1.016))))
+        )
+      )
+    )
     (symbol "GND_1" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (at 0 -6.35 0)
         (effects (font (size 1.27 1.27)) hide)
@@ -2557,6 +2551,9 @@
     )
   )
 
+  (junction (at 48.26 105.41) (diameter 0) (color 0 0 0 0)
+    (uuid 05950a84-c893-4f93-aa2d-609408996c8d)
+  )
   (junction (at 92.71 27.94) (diameter 1.016) (color 0 0 0 0)
     (uuid 0eaa98f0-9565-4637-ace3-42a5231b07f7)
   )
@@ -2783,6 +2780,10 @@
   (wire (pts (xy 92.71 63.5) (xy 92.71 68.58))
     (stroke (width 0) (type solid))
     (uuid 164f1958-8ee6-4c3d-9df0-03613712fa6f)
+  )
+  (wire (pts (xy 335.28 29.21) (xy 335.28 36.83))
+    (stroke (width 0) (type default))
+    (uuid 16562292-b98e-4a8b-8d63-02204a948e35)
   )
   (wire (pts (xy 403.86 66.04) (xy 403.86 68.58))
     (stroke (width 0) (type default))
@@ -3224,10 +3225,6 @@
     (stroke (width 0) (type default))
     (uuid 769e23f9-a48c-426e-a825-5adf0e100be3)
   )
-  (wire (pts (xy 335.28 31.75) (xy 336.55 31.75))
-    (stroke (width 0) (type default))
-    (uuid 770260ac-d9d5-41b6-8c74-76ddb6bb00e0)
-  )
   (wire (pts (xy 283.21 85.09) (xy 283.21 83.82))
     (stroke (width 0) (type default))
     (uuid 77a9bdef-237e-4433-a25d-d8e21559eded)
@@ -3243,10 +3240,6 @@
   (wire (pts (xy 92.71 43.18) (xy 92.71 50.8))
     (stroke (width 0) (type solid))
     (uuid 7aed86fe-31d5-4139-a0b1-020ce61800b6)
-  )
-  (wire (pts (xy 270.51 38.1) (xy 285.75 38.1))
-    (stroke (width 0) (type default))
-    (uuid 7afdbd9d-f673-448f-bea6-253691430cd8)
   )
   (wire (pts (xy 90.17 40.64) (xy 116.84 40.64))
     (stroke (width 0) (type solid))
@@ -3340,6 +3333,10 @@
     (stroke (width 0) (type solid))
     (uuid 8b129051-97ca-49cd-adf8-4efb5043fabb)
   )
+  (wire (pts (xy 269.24 35.56) (xy 285.75 35.56))
+    (stroke (width 0) (type default))
+    (uuid 8c1183c3-e35d-4d41-8d67-ab49ba52bec5)
+  )
   (wire (pts (xy 90.17 38.1) (xy 116.84 38.1))
     (stroke (width 0) (type solid))
     (uuid 8ccbbafc-2cdc-415a-ac78-6ccd25489208)
@@ -3364,10 +3361,6 @@
     (stroke (width 0) (type default))
     (uuid 8f50d72b-5fbc-4135-aba4-1276bb7cabaf)
   )
-  (wire (pts (xy 335.28 30.48) (xy 335.28 31.75))
-    (stroke (width 0) (type default))
-    (uuid 90a56cf6-61e9-4732-99b5-899c527ebca2)
-  )
   (wire (pts (xy 346.71 195.58) (xy 330.2 195.58))
     (stroke (width 0) (type default))
     (uuid 90d6eba3-2576-432a-a574-1127d6d4da96)
@@ -3391,6 +3384,10 @@
   (wire (pts (xy 48.26 53.34) (xy 77.47 53.34))
     (stroke (width 0) (type solid))
     (uuid 98a1aa7c-68bd-4966-834d-f673bb2b8d39)
+  )
+  (wire (pts (xy 334.01 34.29) (xy 334.01 38.1))
+    (stroke (width 0) (type default))
+    (uuid 98c6a4b0-38b2-4246-b497-0fab773beca1)
   )
   (wire (pts (xy 137.16 245.11) (xy 137.16 250.19))
     (stroke (width 0) (type default))
@@ -3444,6 +3441,10 @@
     (stroke (width 0) (type solid))
     (uuid a571c038-3cc2-4848-b404-365f2f7338be)
   )
+  (wire (pts (xy 334.01 34.29) (xy 336.55 34.29))
+    (stroke (width 0) (type default))
+    (uuid a69583d9-a27d-4037-9d7b-93cbfb2a95eb)
+  )
   (wire (pts (xy 445.77 29.21) (xy 445.77 38.1))
     (stroke (width 0) (type default))
     (uuid a72f4e93-5053-469e-afbb-bff09ffed103)
@@ -3479,10 +3480,6 @@
   (wire (pts (xy 48.26 71.12) (xy 77.47 71.12))
     (stroke (width 0) (type solid))
     (uuid b07bae11-81ae-4941-a5ed-27fd323486e6)
-  )
-  (wire (pts (xy 335.28 36.83) (xy 336.55 36.83))
-    (stroke (width 0) (type default))
-    (uuid b10f153b-690b-4223-b374-ce0191a8e043)
   )
   (wire (pts (xy 24.13 184.15) (xy 69.85 184.15))
     (stroke (width 0) (type default))
@@ -3548,6 +3545,10 @@
     (stroke (width 0) (type default))
     (uuid bfc9ce28-ec19-4702-befb-3358226b102d)
   )
+  (wire (pts (xy 335.28 36.83) (xy 336.55 36.83))
+    (stroke (width 0) (type default))
+    (uuid c11f9fb5-cd52-41f7-bb34-fb36a2162979)
+  )
   (wire (pts (xy 92.71 33.02) (xy 90.17 33.02))
     (stroke (width 0) (type solid))
     (uuid c15b519d-5e2e-489c-91b6-d8ff3e8343cb)
@@ -3592,9 +3593,13 @@
     (stroke (width 0) (type default))
     (uuid c4cb43a5-acdf-48ae-b37e-bd8ecb0fc20c)
   )
-  (wire (pts (xy 335.28 36.83) (xy 335.28 38.1))
+  (wire (pts (xy 48.26 105.41) (xy 72.39 105.41))
     (stroke (width 0) (type default))
-    (uuid cb53fe45-dd19-4759-a615-871e1cdac64d)
+    (uuid c6f92179-3e39-40f5-a6e4-3f043d8bdd16)
+  )
+  (wire (pts (xy 269.24 38.1) (xy 285.75 38.1))
+    (stroke (width 0) (type default))
+    (uuid c83c0510-fe21-4a33-b815-b011fb422dcd)
   )
   (wire (pts (xy 313.69 187.96) (xy 332.74 187.96))
     (stroke (width 0) (type default))
@@ -3656,7 +3661,7 @@
     (stroke (width 0) (type default))
     (uuid db7fc615-1eca-470a-9ddc-2a6bdd7dd834)
   )
-  (wire (pts (xy 320.04 34.29) (xy 336.55 34.29))
+  (wire (pts (xy 320.04 31.75) (xy 336.55 31.75))
     (stroke (width 0) (type default))
     (uuid ddb4b109-b0d6-415a-923f-c9bfb4099745)
   )
@@ -3795,10 +3800,6 @@
   (wire (pts (xy 222.25 257.81) (xy 222.25 259.08))
     (stroke (width 0) (type default))
     (uuid f7aa8cb4-7f26-4745-82d5-6ef036b1c2f8)
-  )
-  (wire (pts (xy 270.51 35.56) (xy 285.75 35.56))
-    (stroke (width 0) (type default))
-    (uuid f7e005f9-dff9-4a59-90aa-c01599d26936)
   )
   (wire (pts (xy 290.83 116.84) (xy 292.1 116.84))
     (stroke (width 0) (type default))
@@ -4247,6 +4248,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 35a1cc8d-cefe-4fd3-8f7e-ebdbdbd072ee)
   )
+  (label "GPIO3{slash}SCL1" (at 269.24 35.56 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 379bfa6e-18a1-46e1-baf5-91343f46b485)
+  )
   (label "GPIO9{slash}SPI0.MISO" (at 48.26 53.34 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 3911220d-b117-4874-8479-50c0285caa70)
@@ -4274,10 +4279,6 @@
   (label "GPIO8{slash}SPI0.CE0" (at 24.13 184.15 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 4c3eef57-b90f-40aa-b50c-2776eb92658a)
-  )
-  (label "GPIO3{slash}SCL1" (at 270.51 38.1 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 4fe56b88-16f1-429a-a8f7-46822bfe54ff)
   )
   (label "GPIO4{slash}GPCLK0" (at 48.26 35.56 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -4395,9 +4396,9 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid be4b9f73-f8d2-4c28-9237-5d7e964636fa)
   )
-  (label "GPIO2{slash}SDA1" (at 270.51 35.56 0) (fields_autoplaced)
+  (label "GPIO2{slash}SDA1" (at 269.24 38.1 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid cf77ca49-77ba-4095-9c2f-6b63c451e926)
+    (uuid c580ceae-7c71-4ceb-82ff-e50166e9f8c0)
   )
   (label "GPIO22" (at 384.81 76.2 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -4407,7 +4408,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d090d5e6-1d13-442c-b43b-5b4871950e4f)
   )
-  (label "GPIO14{slash}TXD0" (at 320.04 34.29 0) (fields_autoplaced)
+  (label "GPIO14{slash}TXD0" (at 320.04 31.75 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d3a656bb-2123-41dd-874a-092c141b89ab)
   )
@@ -4491,7 +4492,7 @@
     (pin "8" (uuid 8a309e97-b9eb-4c39-a696-f6e4dfaefc7e))
     (pin "9" (uuid bdc62b89-f26e-4529-8702-512a2d45b20e))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "J5") (unit 1)
         )
@@ -4516,7 +4517,7 @@
     )
     (pin "1" (uuid d2bc3182-610e-4d25-9da2-a854fc18fab8))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR010") (unit 1)
         )
@@ -4545,7 +4546,7 @@
     (pin "1" (uuid 345f9f4c-efc7-440b-ae66-4ec1ff19cd8a))
     (pin "2" (uuid 8baf93c0-50ba-45ca-9743-263b80a38d18))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "R16") (unit 1)
         )
@@ -4553,24 +4554,24 @@
     )
   )
 
-  (symbol (lib_name "GND_3") (lib_id "power:GND") (at 335.28 38.1 0) (unit 1)
+  (symbol (lib_name "GND_3") (lib_id "power:GND") (at 334.01 38.1 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0821228c-e79d-4f5a-b18e-b747b67d52b5)
-    (property "Reference" "#PWR08" (at 335.28 44.45 0)
+    (property "Reference" "#PWR08" (at 334.01 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 335.28 43.18 0)
+    (property "Value" "GND" (at 334.01 43.18 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 335.28 38.1 0)
+    (property "Footprint" "" (at 334.01 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 335.28 38.1 0)
+    (property "Datasheet" "" (at 334.01 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid ebd7815b-f386-44eb-8903-2486ccb73f74))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR08") (unit 1)
         )
@@ -4595,7 +4596,7 @@
     )
     (pin "1" (uuid 773266a6-fb25-4266-88ec-2567939d5b7a))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR01") (unit 1)
         )
@@ -4620,7 +4621,7 @@
     )
     (pin "1" (uuid d6d7ab2b-b549-41c8-ac3c-f4c101745499))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR026") (unit 1)
         )
@@ -4645,7 +4646,7 @@
     )
     (pin "1" (uuid 6b84798b-64c4-4c60-9493-687bc62bc4e8))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR027") (unit 1)
         )
@@ -4670,7 +4671,7 @@
     )
     (pin "1" (uuid bf7cd67e-599d-4d83-917a-fe69d2e765c3))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR012") (unit 1)
         )
@@ -4684,10 +4685,10 @@
     (property "Reference" "U1" (at 78.0541 164.465 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "MCP3008" (at 78.0541 167.005 0)
+    (property "Value" "MCP3008-I/SL" (at 78.0541 167.005 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 82.55 176.53 0)
+    (property "Footprint" "MCP-3008 MCP3008-I/SL:SOIC16-N_MC_MCH-L" (at 82.55 176.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2210171100_Microchip-Tech-MCP3008-I-SL_C1520159.pdf" (at 82.55 176.53 0)
@@ -4713,7 +4714,7 @@
     (pin "8" (uuid 8bdf3715-9c39-4531-a5ef-438b50d7c0d6))
     (pin "9" (uuid 6d84094b-a7b3-412c-b72c-61d376684db4))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "U1") (unit 1)
         )
@@ -4742,7 +4743,7 @@
     (pin "1" (uuid 65143edb-2be7-45f9-b0d4-4b8eefb6d4a3))
     (pin "2" (uuid e9aaffc4-4eb6-424a-9872-96f168c3fd09))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "J1") (unit 1)
         )
@@ -4767,7 +4768,7 @@
     )
     (pin "1" (uuid 11383d08-be67-4e51-9140-ea4d616e2572))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR065") (unit 1)
         )
@@ -4792,7 +4793,7 @@
     )
     (pin "1" (uuid b7f0ac0f-f1e9-4506-8461-efd0c74f9a24))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR015") (unit 1)
         )
@@ -4833,7 +4834,7 @@
     (pin "14" (uuid c1daf655-2961-4255-a977-89c9cc0b5851))
     (pin "7" (uuid f09b4b74-7035-4c70-81ea-dd36ccc454ae))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "U2") (unit 5)
         )
@@ -4874,7 +4875,7 @@
     (pin "14" (uuid ce436150-0fc5-4367-92ca-910099273f39))
     (pin "7" (uuid 9be5ee8a-edc9-43d5-86bb-7f394ed6ac31))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "U3") (unit 1)
         )
@@ -4899,7 +4900,7 @@
     )
     (pin "1" (uuid 75126898-0b8f-4135-ba22-df4adcc012d7))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR023") (unit 1)
         )
@@ -4924,7 +4925,7 @@
     )
     (pin "1" (uuid 827b1b32-6eb6-467d-ae85-2413837d1db8))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR036") (unit 1)
         )
@@ -4949,7 +4950,7 @@
     )
     (pin "1" (uuid 965492f8-acc4-4231-8d7f-c6341d0ecd76))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR035") (unit 1)
         )
@@ -4974,7 +4975,7 @@
     )
     (pin "1" (uuid a1ba82a9-873a-48c5-9ab6-574c25c6070d))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR064") (unit 1)
         )
@@ -5003,7 +5004,7 @@
     (pin "1" (uuid 7bd0a73f-87e4-44a6-bf2b-8d512cc62dc6))
     (pin "2" (uuid 8d1d6a5a-4c3b-4c10-ab43-ee3b8e809278))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "D1") (unit 1)
         )
@@ -5032,7 +5033,7 @@
     (pin "1" (uuid a9c3feb9-3d9a-4d1d-8804-2735b948e0d3))
     (pin "2" (uuid 5f99271f-b1c1-4d52-b37d-08a9201e4623))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "C1") (unit 1)
         )
@@ -5062,7 +5063,7 @@
     (pin "2" (uuid a895d8eb-893e-423e-a82e-629ce0b42e73))
     (pin "3" (uuid dad07eca-c2aa-4637-b339-78e5ed18627a))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "J15") (unit 1)
         )
@@ -5087,7 +5088,7 @@
     )
     (pin "1" (uuid 77b31e0a-311a-4c2e-a1de-91e0f6b5cae2))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR030") (unit 1)
         )
@@ -5112,7 +5113,7 @@
     )
     (pin "1" (uuid 8ec0198f-31e8-49ad-a062-19d665b392b9))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR019") (unit 1)
         )
@@ -5141,7 +5142,7 @@
     (pin "1" (uuid 52208da8-f706-4075-b1e1-be29fb75f6e0))
     (pin "2" (uuid ec12f0c4-bc57-4260-8f8a-8ce6ced31d11))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "C3") (unit 1)
         )
@@ -5166,7 +5167,7 @@
     )
     (pin "1" (uuid a6862256-2c0a-4313-858f-20a3fddbd1e7))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR047") (unit 1)
         )
@@ -5191,7 +5192,7 @@
     )
     (pin "1" (uuid 49b16ee0-bbe1-4bdd-9feb-8aa967d41fcf))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR024") (unit 1)
         )
@@ -5216,7 +5217,7 @@
     )
     (pin "1" (uuid 1e6830be-6bec-4a09-bfcb-573f5a946e96))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR057") (unit 1)
         )
@@ -5241,7 +5242,7 @@
     )
     (pin "1" (uuid fa8de5b6-cc79-4399-80b4-1694a89d5638))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR04") (unit 1)
         )
@@ -5270,7 +5271,7 @@
     (pin "1" (uuid b6c1d515-4e91-4883-bd38-5a0e675bbc03))
     (pin "2" (uuid a0e6cd61-015d-4634-ba39-8d25ee0b484d))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "R12") (unit 1)
         )
@@ -5295,7 +5296,7 @@
     )
     (pin "1" (uuid 193d5798-d865-4d89-a3d3-3218452abf24))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR049") (unit 1)
         )
@@ -5320,7 +5321,7 @@
     )
     (pin "1" (uuid 562df2d3-98ea-4763-af82-69dee6b52d5b))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR016") (unit 1)
         )
@@ -5349,7 +5350,7 @@
     (pin "1" (uuid fe6c2d4d-3813-4e3b-a624-e48c10e0ec00))
     (pin "2" (uuid 23ef07f5-62f6-4c22-90ed-2c8e76648bdc))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "C8") (unit 1)
         )
@@ -5374,7 +5375,7 @@
     )
     (pin "1" (uuid cbaa7657-9a70-4dc0-8be9-9f6bed732fcf))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR066") (unit 1)
         )
@@ -5399,7 +5400,7 @@
     )
     (pin "1" (uuid 20372922-5e09-4e5b-8daf-c14aecfba012))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR029") (unit 1)
         )
@@ -5428,7 +5429,7 @@
     (pin "1" (uuid 67a42d5e-5cd4-4b11-a567-5f31fa025934))
     (pin "2" (uuid 6a82271b-217e-438a-bc70-523923967472))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "J6") (unit 1)
         )
@@ -5453,7 +5454,7 @@
     )
     (pin "1" (uuid 4970a3f6-c251-48d1-8af1-e8652fba84ba))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR09") (unit 1)
         )
@@ -5478,7 +5479,7 @@
     )
     (pin "1" (uuid 3ebeda32-07b2-41f8-ae52-057c004feb67))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR03") (unit 1)
         )
@@ -5503,7 +5504,7 @@
     )
     (pin "1" (uuid 8497a346-d893-454c-aa1e-7f8c56cc6031))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR021") (unit 1)
         )
@@ -5528,7 +5529,7 @@
     )
     (pin "1" (uuid ff668c0e-ddea-43c2-8b73-e202ca076fd1))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR054") (unit 1)
         )
@@ -5558,7 +5559,7 @@
     (pin "2" (uuid be08897b-d624-47b3-bba4-af4ee561d124))
     (pin "3" (uuid b5d83f37-7550-4bdd-b4a3-665ea62b84b9))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "J14") (unit 1)
         )
@@ -5587,7 +5588,7 @@
     (pin "1" (uuid 9cb31b3b-39c5-4de0-9525-63ceb4412774))
     (pin "2" (uuid 2b597f85-5719-49c6-941a-8fc299ee42b5))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "C5") (unit 1)
         )
@@ -5617,7 +5618,7 @@
     (pin "2" (uuid fd751640-2bc5-45b8-94f5-2ddc66ccfb9d))
     (pin "3" (uuid d3a1dd24-e5c6-446c-b5f9-8c4a72cb47f1))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "J16") (unit 1)
         )
@@ -5658,7 +5659,7 @@
     (pin "14" (uuid 72f6c044-233c-456b-a27e-d519e9260dc1))
     (pin "7" (uuid 9abce6d3-365e-4c71-a916-dd6066b359e0))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "U3") (unit 2)
         )
@@ -5683,7 +5684,7 @@
     )
     (pin "1" (uuid cb4fbcd5-adf7-420b-86f0-7351656a7554))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR051") (unit 1)
         )
@@ -5724,7 +5725,7 @@
     (pin "14" (uuid 99c54376-2c83-4360-a309-f9767461e39d))
     (pin "7" (uuid a69bf995-ba7c-483f-81c5-8b8d268761bb))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "U2") (unit 3)
         )
@@ -5749,7 +5750,7 @@
     )
     (pin "1" (uuid fa88320b-d4ba-42f4-b7dd-6da6109e3b71))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR011") (unit 1)
         )
@@ -5774,7 +5775,7 @@
     )
     (pin "1" (uuid 5b6458f8-d9f9-4363-9ba1-ab1720ab3e54))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR055") (unit 1)
         )
@@ -5799,7 +5800,7 @@
     )
     (pin "1" (uuid 598a9584-a31e-45ed-a0b6-af539ec46202))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR022") (unit 1)
         )
@@ -5824,7 +5825,7 @@
     )
     (pin "1" (uuid 7ca48e4a-3976-4add-afce-53a3f0fb7df5))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR034") (unit 1)
         )
@@ -5849,7 +5850,7 @@
     )
     (pin "1" (uuid 66e2e51b-d445-4324-a963-b718e33ec6c9))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR048") (unit 1)
         )
@@ -5879,7 +5880,7 @@
     (pin "2" (uuid d38c1e0b-47e1-4e34-ba20-dbbc05116a55))
     (pin "3" (uuid 33ed45da-f348-4d8b-b518-fdacff7b9ff4))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "Q2") (unit 1)
         )
@@ -5908,7 +5909,7 @@
     (pin "1" (uuid ea2df0b2-3026-44b6-977f-fdc72aa4ded9))
     (pin "2" (uuid ca8ab46c-a54b-4008-8838-344bf1b8a491))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "R3") (unit 1)
         )
@@ -5937,7 +5938,7 @@
     (pin "1" (uuid af629a12-d899-4540-945f-f7c8e7b09764))
     (pin "2" (uuid 23e5cd2c-2c5b-4f24-a58c-24c7f4741bf3))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "R8") (unit 1)
         )
@@ -5966,7 +5967,7 @@
     (pin "1" (uuid eee5a417-4941-42e1-920b-bcde87b27618))
     (pin "2" (uuid b42aaaff-27c3-4d07-8192-b43214ce340a))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "R1") (unit 1)
         )
@@ -5991,7 +5992,7 @@
     )
     (pin "1" (uuid 612f904d-6c63-4338-a8af-eb8554256c1f))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR061") (unit 1)
         )
@@ -6021,7 +6022,7 @@
     (pin "2" (uuid 7b4d5c99-1d06-46f2-9b19-21baf10ac6c8))
     (pin "3" (uuid d7f0f012-5d71-4750-9d87-f4078a3ae123))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "J3") (unit 1)
         )
@@ -6046,7 +6047,7 @@
     )
     (pin "1" (uuid 813a2bbd-1787-46f7-862a-bb9c26d8c451))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR040") (unit 1)
         )
@@ -6071,7 +6072,7 @@
     )
     (pin "1" (uuid bb2148ef-f00a-42fa-8581-b21cd241febd))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR018") (unit 1)
         )
@@ -6101,7 +6102,7 @@
     (pin "2" (uuid ece2453c-d594-4c4b-a749-984c4c399dee))
     (pin "3" (uuid 6b8cde10-8e31-4b36-8927-6bcafd08ac0a))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "J4") (unit 1)
         )
@@ -6130,7 +6131,7 @@
     (pin "1" (uuid 185cf627-f7af-49ef-a1b7-e80d91b750b8))
     (pin "2" (uuid 75adc7e6-2dd9-4d7d-bc75-b1c18081efa6))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "R14") (unit 1)
         )
@@ -6159,7 +6160,7 @@
     (pin "1" (uuid 670578bf-eacc-4b8a-9077-4e2db33a86d6))
     (pin "2" (uuid 1bf6270a-1701-4758-bdeb-1e9bbae44fd4))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "R18") (unit 1)
         )
@@ -6188,7 +6189,7 @@
     (pin "2" (uuid 5137a81e-7809-4e55-b2b2-ad2a1f2fa745))
     (pin "1" (uuid fac36a81-9e33-4eb7-93d3-a9a3b7561433))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "J10") (unit 1)
         )
@@ -6213,7 +6214,7 @@
     )
     (pin "1" (uuid 55d997b7-1f40-4f0f-bea7-ad873e65809b))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR063") (unit 1)
         )
@@ -6242,7 +6243,7 @@
     (pin "1" (uuid a1d3540b-1304-4444-be2a-bf4189940e77))
     (pin "2" (uuid 200cb212-7c9c-49e6-b3bb-81c25af79eaa))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "C9") (unit 1)
         )
@@ -6250,7 +6251,7 @@
     )
   )
 
-  (symbol (lib_id "1ExoSpineLibrary:LTC4312IMS_PBF") (at 157.48 260.35 0) (unit 1)
+  (symbol (lib_id "ExoSpineV2:LTC4312IMS_PBF") (at 157.48 260.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 77ed9493-de30-42f1-a7d4-9f858cf17e9a)
     (property "Reference" "U4" (at 156.21 259.08 0)
@@ -6259,7 +6260,7 @@
     (property "Value" "LTC4312IMS_PBF" (at 148.59 261.62 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "LTC4312CMS:MSOP-16_MS_LIT" (at 158.75 254 0)
+    (property "Footprint" "LTC4312IMS_PBF:MSOP-16_MS" (at 158.75 254 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
     (property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Analog-Devices-LTC4312CMS-PBF_C688100.pdf" (at 118.11 226.06 0)
@@ -6285,7 +6286,7 @@
     (pin "8" (uuid e7d4017b-dad4-45c3-a71d-1bf234c085e2))
     (pin "9" (uuid 82eabf67-57f8-45a8-8f7c-e71e3a2b5136))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "U4") (unit 1)
         )
@@ -6310,7 +6311,7 @@
     )
     (pin "1" (uuid 23565e10-2b0b-485f-90af-94bc72b5e11c))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR06") (unit 1)
         )
@@ -6318,24 +6319,24 @@
     )
   )
 
-  (symbol (lib_id "power:+3.3V") (at 335.28 30.48 0) (unit 1)
+  (symbol (lib_id "power:+3.3V") (at 335.28 29.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7fb59f61-65bf-418a-abcd-f839723c54c7)
-    (property "Reference" "#PWR05" (at 335.28 34.29 0)
+    (property "Reference" "#PWR05" (at 335.28 33.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "+3.3V" (at 335.28 25.4 0)
+    (property "Value" "+3.3V" (at 335.28 24.13 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 335.28 30.48 0)
+    (property "Footprint" "" (at 335.28 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 335.28 30.48 0)
+    (property "Datasheet" "" (at 335.28 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid a206f45b-9054-4534-8c26-088c7a9fc368))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR05") (unit 1)
         )
@@ -6364,7 +6365,7 @@
     (pin "1" (uuid 43e8c7fb-c8fa-4d67-bae8-3c7aecf9f62c))
     (pin "2" (uuid 5da3f491-0fe4-47ae-a401-ef3cc23768fa))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "R7") (unit 1)
         )
@@ -6393,7 +6394,7 @@
     (pin "1" (uuid 122bad4b-36e4-42c2-b56c-a197642b116c))
     (pin "2" (uuid 53b1191f-bb0e-4f7a-97ef-65d84c19f9f2))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "R5") (unit 1)
         )
@@ -6422,7 +6423,7 @@
     (pin "1" (uuid 85756f00-1c2a-4daa-89e5-61edff1f2848))
     (pin "2" (uuid f86614ec-6e60-4ef6-970e-398fe9b9298e))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "C2") (unit 1)
         )
@@ -6463,7 +6464,7 @@
     (pin "14" (uuid d15317b2-fd8e-4aba-aa90-379520e2fa75))
     (pin "7" (uuid 1df22f37-d845-47e3-ac06-497555b8ce80))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "U2") (unit 1)
         )
@@ -6492,7 +6493,7 @@
     (pin "1" (uuid 21409285-c69c-4242-bfd5-54baf4c27ae2))
     (pin "2" (uuid d305d9df-e9aa-4cb5-a956-0826fd9c0fe2))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "J9") (unit 1)
         )
@@ -6533,7 +6534,7 @@
     (pin "14" (uuid 149ca5f7-dcbc-429f-b311-d2af6159f7c8))
     (pin "7" (uuid 41bb2154-42ee-40da-9f4a-5391fe383b93))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "U3") (unit 5)
         )
@@ -6562,7 +6563,7 @@
     (pin "1" (uuid 7e22d97b-6104-425b-b352-6c5f6a20d167))
     (pin "2" (uuid be1ab5d8-0530-4af5-9c11-4b6600d3a718))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "C11") (unit 1)
         )
@@ -6591,7 +6592,7 @@
     (pin "1" (uuid abf95d7c-9434-497a-a808-69cb640f3f91))
     (pin "2" (uuid 8c89ca39-9988-48cb-a6c6-6e2478b49c95))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "R15") (unit 1)
         )
@@ -6616,7 +6617,7 @@
     )
     (pin "1" (uuid 6860ed37-e9ce-4886-aecc-1729cffc8ae3))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR043") (unit 1)
         )
@@ -6645,7 +6646,7 @@
     (pin "1" (uuid 49a3eace-ddcf-42ec-a2d1-a96a10e210e2))
     (pin "2" (uuid a7d2c364-b2c8-409f-a5ef-dbacc4f49e68))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "R2") (unit 1)
         )
@@ -6670,7 +6671,7 @@
     )
     (pin "1" (uuid 5fd5c695-3dc8-4614-a70f-03b5066a911c))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR033") (unit 1)
         )
@@ -6695,7 +6696,7 @@
     )
     (pin "1" (uuid 22107a54-bb8d-4ac7-b5d5-60f7b7f24594))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR042") (unit 1)
         )
@@ -6720,7 +6721,7 @@
     )
     (pin "1" (uuid 55375da2-f5ca-4f8a-ba67-3eb87495b08e))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR039") (unit 1)
         )
@@ -6749,7 +6750,7 @@
     (pin "1" (uuid aa462593-b041-4140-91b8-93c34e9d2109))
     (pin "2" (uuid 3aa8eed6-49ed-4182-b31f-fb16afa677f2))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "R10") (unit 1)
         )
@@ -6774,7 +6775,7 @@
     )
     (pin "1" (uuid 08239e25-611a-4217-afce-1deee00df389))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR044") (unit 1)
         )
@@ -6803,7 +6804,7 @@
     (pin "1" (uuid 5eb0c74c-e121-4e56-9d61-b5ab8cceda70))
     (pin "2" (uuid 1205968d-e39a-4196-b5a6-bc2cefdba7fa))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "R19") (unit 1)
         )
@@ -6828,7 +6829,7 @@
     )
     (pin "1" (uuid 9f69b3e7-eea9-4d09-b94d-07fb1bde5194))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR014") (unit 1)
         )
@@ -6853,7 +6854,7 @@
     )
     (pin "1" (uuid 94329326-a8e6-45e8-9a28-ddd7cf7fba3f))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR053") (unit 1)
         )
@@ -6882,7 +6883,7 @@
     (pin "1" (uuid 17f35dc1-e782-4c0b-9aa9-7d423fa21f5f))
     (pin "2" (uuid 2668aba9-9704-41b5-b8eb-8494f98d7f2d))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "J8") (unit 1)
         )
@@ -6912,7 +6913,7 @@
     (pin "1" (uuid 557a7ff3-79fd-4e3a-ba63-331b54957472))
     (pin "3" (uuid 0cf868b2-267d-48f3-97cd-4c49df4ddc42))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "Q4") (unit 1)
         )
@@ -6926,7 +6927,7 @@
     (property "Reference" "J11" (at 299.72 111.76 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "Conn_01x04" (at 299.72 114.3 0)
+    (property "Value" "JST PH 4pin" (at 299.72 114.3 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (at 297.18 111.76 0)
@@ -6943,7 +6944,7 @@
     (pin "1" (uuid dbd77145-f1ea-47fb-98c2-73adc4fd0432))
     (pin "2" (uuid e28453d6-4756-4634-ac4f-e5770c794bf7))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "J11") (unit 1)
         )
@@ -6968,7 +6969,7 @@
     )
     (pin "1" (uuid 7d8ba2b1-4ed5-4798-9cf6-5b1230bb2068))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR058") (unit 1)
         )
@@ -6999,7 +7000,7 @@
     (pin "3" (uuid a0fd801b-bb51-4238-8a7b-9388854f7b07))
     (pin "4" (uuid de3d4204-5703-4fb2-953b-a88bf3001660))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "J18") (unit 1)
         )
@@ -7024,7 +7025,7 @@
     )
     (pin "1" (uuid bfaba96e-f6b6-488c-a5e9-3208208bcc50))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR037") (unit 1)
         )
@@ -7053,7 +7054,7 @@
     (pin "1" (uuid a50ea99c-b59e-4ff8-b414-6216e16a15b1))
     (pin "2" (uuid 88c2ccac-fe5a-4774-9571-af9faf72b2ec))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "R4") (unit 1)
         )
@@ -7083,7 +7084,7 @@
     (pin "2" (uuid 8d3cf099-10ef-4e89-aff1-37196d6136df))
     (pin "3" (uuid ff6ef656-d488-46bd-8206-2c054b245e03))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "Q1") (unit 1)
         )
@@ -7108,7 +7109,7 @@
     )
     (pin "1" (uuid d065b604-8a8b-4eae-9eea-89c0fd722f28))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR038") (unit 1)
         )
@@ -7137,7 +7138,7 @@
     (pin "1" (uuid d06a51b4-6ded-4f7f-bcff-a44fb486d3da))
     (pin "2" (uuid a4690d07-9f6c-431c-8476-15889ed88d83))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "R17") (unit 1)
         )
@@ -7162,7 +7163,7 @@
     )
     (pin "1" (uuid ebdacd7d-1e60-4e57-ae3d-11c5cfa08c62))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR050") (unit 1)
         )
@@ -7187,7 +7188,7 @@
     )
     (pin "1" (uuid 064a28e4-df6e-4112-948c-97cbbfb5f5de))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR07") (unit 1)
         )
@@ -7228,7 +7229,7 @@
     (pin "14" (uuid c1b1abd5-f989-455d-bba3-b72a7f8dd5e0))
     (pin "7" (uuid 1847449d-e5a3-4305-93ea-1aa05d838d46))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "U3") (unit 4)
         )
@@ -7253,7 +7254,7 @@
     )
     (pin "1" (uuid 9fff219f-f6bb-4fd4-9108-8f04b557afde))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR045") (unit 1)
         )
@@ -7278,7 +7279,7 @@
     )
     (pin "1" (uuid 514e4878-ff9d-424a-9dd6-03d5f2b9fccf))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR031") (unit 1)
         )
@@ -7303,7 +7304,7 @@
     )
     (pin "1" (uuid 3101eb35-fdcb-40bc-b7cf-8c2f8e46f6ae))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR017") (unit 1)
         )
@@ -7328,7 +7329,7 @@
     )
     (pin "1" (uuid 856f9494-8a4d-4e6d-ab6c-7fe448cf74cc))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR020") (unit 1)
         )
@@ -7353,7 +7354,7 @@
     )
     (pin "1" (uuid 9643f80a-23e9-4d4c-9a13-27c2a556dab1))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR041") (unit 1)
         )
@@ -7378,7 +7379,7 @@
     )
     (pin "1" (uuid 78c70716-bf1d-4f4c-bad2-693b1a535b50))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR013") (unit 1)
         )
@@ -7403,7 +7404,7 @@
     )
     (pin "1" (uuid 69d14ce2-fce9-4aa1-acc1-f0a5e69106c2))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR060") (unit 1)
         )
@@ -7428,7 +7429,7 @@
     )
     (pin "1" (uuid 6efcaf27-3138-4411-a9ae-5b8bf891e187))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR046") (unit 1)
         )
@@ -7453,7 +7454,7 @@
     )
     (pin "1" (uuid 257157be-7895-4e37-b6f0-319c49e81acf))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR062") (unit 1)
         )
@@ -7478,7 +7479,7 @@
     )
     (pin "1" (uuid 482f3f7b-0302-4af4-a6ca-509cc2243e80))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR067") (unit 1)
         )
@@ -7519,7 +7520,7 @@
     (pin "14" (uuid d4737059-3b19-4d54-b0ae-10a6b044356f))
     (pin "7" (uuid e65fe541-9351-49bd-8d84-e6c456c65d18))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "U2") (unit 2)
         )
@@ -7544,7 +7545,7 @@
     )
     (pin "1" (uuid 6a912bcb-d87d-4abb-8cc5-d8aaba0400ef))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR056") (unit 1)
         )
@@ -7573,7 +7574,7 @@
     (pin "1" (uuid 60f5ba3f-285f-4ce6-b294-00bb899831cb))
     (pin "2" (uuid 9b4a9363-6713-4d31-9910-30c4a4375289))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "C12") (unit 1)
         )
@@ -7602,7 +7603,7 @@
     (pin "1" (uuid 32a6a000-ff0c-42cf-a4b7-e311ce2b2dfa))
     (pin "2" (uuid 96bab0d7-94ee-443d-ba4f-58d8673d9e9d))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "R11") (unit 1)
         )
@@ -7631,7 +7632,7 @@
     (pin "1" (uuid 9cc6bf85-fd12-47ae-8997-55dd41820f1a))
     (pin "2" (uuid b7df1e50-394e-4601-8902-a0665254baed))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "R21") (unit 1)
         )
@@ -7656,7 +7657,7 @@
     )
     (pin "1" (uuid 0ac4924e-ee5e-42ba-867b-b8ed58882031))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR032") (unit 1)
         )
@@ -7686,7 +7687,7 @@
     (pin "2" (uuid 67a17685-0411-4a1b-8f8a-2a3d3b2f5a73))
     (pin "3" (uuid 0086b43b-7f31-4866-99dc-f05515b4e83b))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "J13") (unit 1)
         )
@@ -7715,7 +7716,7 @@
     (pin "1" (uuid c255bea2-3630-46e4-acb2-90fa0901f554))
     (pin "2" (uuid 73cd122d-a202-47b2-b9c3-3c0b7fb963d7))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "C7") (unit 1)
         )
@@ -7740,7 +7741,7 @@
     )
     (pin "1" (uuid bd954d5f-24c0-4414-9a35-af1af8f4db04))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR052") (unit 1)
         )
@@ -7765,7 +7766,7 @@
     )
     (pin "1" (uuid f913e987-ea2c-4eaf-a0dd-176f8425daba))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR02") (unit 1)
         )
@@ -7796,7 +7797,7 @@
     (pin "3" (uuid f3c92c9c-6abd-43b2-a250-9c2faac9a229))
     (pin "4" (uuid 859b76e0-1ffa-48de-be24-68ca73ff2c55))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "J17") (unit 1)
         )
@@ -7825,7 +7826,7 @@
     (pin "1" (uuid 77c709ea-aba4-4885-b0b1-b373325fb977))
     (pin "2" (uuid aab272c5-0b6a-4fc5-b965-61d2cfe3c69e))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "J7") (unit 1)
         )
@@ -7854,7 +7855,7 @@
     (pin "1" (uuid 769404bd-1907-43f2-8a9b-fcb5507a16a7))
     (pin "2" (uuid f626832f-909f-4c56-b378-8d1756d87958))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "C6") (unit 1)
         )
@@ -7883,7 +7884,7 @@
     (pin "1" (uuid fa1ed06c-04d6-4c81-b7c0-95a3545fef0c))
     (pin "2" (uuid 335d3e7e-0c9f-4c18-9d8a-4cd242230a5f))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "C10") (unit 1)
         )
@@ -7908,7 +7909,7 @@
     )
     (pin "1" (uuid e3405475-d82c-452e-b7d9-e5a24b5bc242))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR028") (unit 1)
         )
@@ -7937,7 +7938,7 @@
     (pin "1" (uuid 2cec69ba-9df3-4d9e-8c16-4d089b5d18a1))
     (pin "2" (uuid 2097a9d0-0cf8-4323-8316-d86290be8c40))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "R20") (unit 1)
         )
@@ -7966,7 +7967,7 @@
     (pin "1" (uuid 2c1a40c4-c91e-4de5-bff7-771de56ce392))
     (pin "2" (uuid 9ae17f62-3cea-4808-a75e-d997111cf9f2))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "C4") (unit 1)
         )
@@ -7996,7 +7997,7 @@
     (pin "2" (uuid 37a26cee-de9b-4a2a-9623-f75cd9d1e426))
     (pin "3" (uuid b25ac397-113b-4309-971f-bdc4cf723300))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "J12") (unit 1)
         )
@@ -8025,7 +8026,7 @@
     (pin "1" (uuid 07b23f54-df86-4854-8c39-eaa0ce8b5eeb))
     (pin "2" (uuid a94a681d-a1aa-44e7-80c6-029dec27f48f))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "R13") (unit 1)
         )
@@ -8054,7 +8055,7 @@
     (pin "1" (uuid 88c9a0cc-e52b-4e34-ab05-4c8053e01cd1))
     (pin "2" (uuid 3b2d2bbf-421e-4da6-a59b-6765aef62e7f))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "R6") (unit 1)
         )
@@ -8079,7 +8080,7 @@
     )
     (pin "1" (uuid 9bb88f73-b3e5-4cc9-a51a-6b1fd56af59f))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR025") (unit 1)
         )
@@ -8120,7 +8121,7 @@
     (pin "14" (uuid 746ba2a7-1609-4dd5-a524-27bb80298027))
     (pin "7" (uuid 1d09ba79-8fd4-46d8-b72f-e4b30f9baff9))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "U2") (unit 4)
         )
@@ -8134,10 +8135,10 @@
     (property "Reference" "J2" (at 293.37 33.02 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "JST PH 4pin" (at 293.37 35.56 0)
+    (property "Value" "2.54mm 4 pin header" (at 293.37 35.56 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical" (at 290.83 33.02 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" (at 290.83 33.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 290.83 33.02 0)
@@ -8151,7 +8152,7 @@
     (pin "3" (uuid 90ae9793-42c2-463c-b362-0bebf9d3246c))
     (pin "4" (uuid 29d548e9-1294-4f6b-9f63-6bd52713a4e6))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "J2") (unit 1)
         )
@@ -8192,7 +8193,7 @@
     (pin "14" (uuid 193dbc14-4b48-44e3-a079-e90bb83e5584))
     (pin "7" (uuid 70db8c72-f184-489a-ae58-c8373ab89972))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "U3") (unit 3)
         )
@@ -8217,7 +8218,7 @@
     )
     (pin "1" (uuid cc28c7d2-64c9-426d-a179-e1b1315e1e77))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR068") (unit 1)
         )
@@ -8247,7 +8248,7 @@
     (pin "2" (uuid a1c561a3-3e38-4614-b855-0525ea9d9ca8))
     (pin "3" (uuid d97dbff6-d48b-4459-b567-15b531a4637d))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "Q3") (unit 1)
         )
@@ -8272,7 +8273,7 @@
     )
     (pin "1" (uuid 56b60400-49cd-405f-85f5-f853e88fd540))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR059") (unit 1)
         )
@@ -8301,7 +8302,7 @@
     (pin "1" (uuid 3d0539bc-5821-4629-a5b1-43fbd09fb711))
     (pin "2" (uuid 70ae19dd-495e-4f29-8c8a-29f7a3713ea4))
     (instances
-      (project "ExospineV2"
+      (project "ExoSpineV2"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "R9") (unit 1)
         )
