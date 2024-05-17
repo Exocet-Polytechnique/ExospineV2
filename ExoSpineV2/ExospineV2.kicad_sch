@@ -4950,12 +4950,6 @@
 		(uuid "1023deb4-be2a-47dd-a5ec-6e0648f6a2b7")
 	)
 	(junction
-		(at 293.37 153.67)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "14dd862b-02d9-4c50-a0af-ea0a1b883b66")
-	)
-	(junction
 		(at 111.76 154.94)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5152,12 +5146,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f8a93bd3-c349-4e5d-8225-1bd4266c4672")
-	)
-	(junction
-		(at 351.79 148.59)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fc9eef29-45fd-455c-869f-27215730141c")
 	)
 	(junction
 		(at 72.39 27.94)
@@ -5761,16 +5749,6 @@
 	)
 	(wire
 		(pts
-			(xy 293.37 153.67) (xy 300.99 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4ce05f63-43fd-47c6-8c39-b2bbf1dd6718")
-	)
-	(wire
-		(pts
 			(xy 433.07 233.68) (xy 411.48 233.68)
 		)
 		(stroke
@@ -5828,16 +5806,6 @@
 			(type solid)
 		)
 		(uuid "55d9c53c-6409-4360-8797-b4f7b28c4137")
-	)
-	(wire
-		(pts
-			(xy 274.32 153.67) (xy 293.37 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5653d6d5-8422-4db3-b69c-9aeb2ecd74cd")
 	)
 	(wire
 		(pts
@@ -6571,16 +6539,6 @@
 	)
 	(wire
 		(pts
-			(xy 332.74 148.59) (xy 351.79 148.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b476e23a-86cd-4b8e-861a-7faa80153caf")
-	)
-	(wire
-		(pts
 			(xy 411.48 227.33) (xy 411.48 228.6)
 		)
 		(stroke
@@ -6658,16 +6616,6 @@
 			(type default)
 		)
 		(uuid "bdf9d481-4673-4c50-a60e-df537b0e84ee")
-	)
-	(wire
-		(pts
-			(xy 351.79 148.59) (xy 359.41 148.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bfac71f3-4de1-4dc4-9b5c-110a1f8d5ba7")
 	)
 	(wire
 		(pts
@@ -7129,6 +7077,20 @@
 		)
 		(uuid "fb49f3be-a9c4-4974-9dd0-8c6f9a6c1670")
 	)
+	(arc
+		(start 373.97 182.88)
+		(mid 373.4526 181.61)
+		(end 373.97 180.34)
+		(stroke
+			(width 0)
+			(type default)
+			(color 132 132 132 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 0069bdbf-ae8c-442a-bd93-8f2988c3dd62)
+	)
 	(rectangle
 		(start 266.7 59.69)
 		(end 321.31 90.17)
@@ -7249,9 +7211,9 @@
 		(uuid 3fae21d4-cf6b-4ea1-943c-9d3b4e29be22)
 	)
 	(arc
-		(start 373.97 182.88)
-		(mid 373.4526 181.61)
-		(end 373.97 180.34)
+		(start 373.97 185.42)
+		(mid 373.4583 184.15)
+		(end 373.97 182.88)
 		(stroke
 			(width 0)
 			(type default)
@@ -7260,7 +7222,7 @@
 		(fill
 			(type none)
 		)
-		(uuid 52d57167-31be-4071-acf7-6300a0703318)
+		(uuid 48c031a1-e593-4310-8115-b92a02dba247)
 	)
 	(rectangle
 		(start 414.02 173.99)
@@ -7427,20 +7389,6 @@
 		(uuid 9ea420f2-1492-438f-a69b-bfbd230b509d)
 	)
 	(arc
-		(start 373.97 185.42)
-		(mid 373.4583 184.15)
-		(end 373.97 182.88)
-		(stroke
-			(width 0)
-			(type default)
-			(color 132 132 132 1)
-		)
-		(fill
-			(type none)
-		)
-		(uuid 9fc6d0fd-35d5-4a4f-b76e-dd978ee55919)
-	)
-	(arc
 		(start 46.99 35.56)
 		(mid 46.2294 34.29)
 		(end 46.99 33.02)
@@ -7580,18 +7528,6 @@
 		(uuid d5df93a5-16e0-496e-a7b6-1df880da5282)
 	)
 	(rectangle
-		(start 327.66 135.89)
-		(end 384.81 165.1)
-		(stroke
-			(width 0)
-			(type dash)
-		)
-		(fill
-			(type none)
-		)
-		(uuid d7cfb152-f59d-4f48-a86e-2c2f7613b654)
-	)
-	(rectangle
 		(start 321.31 59.69)
 		(end 375.92 90.17)
 		(stroke
@@ -7629,18 +7565,6 @@
 			(type none)
 		)
 		(uuid e527ae1d-2b64-4c85-87d1-ba8f91c8f31c)
-	)
-	(rectangle
-		(start 270.51 135.89)
-		(end 327.66 165.1)
-		(stroke
-			(width 0)
-			(type dash)
-		)
-		(fill
-			(type none)
-		)
-		(uuid eaa666f0-a05b-448f-a695-0c34e8334133)
 	)
 	(rectangle
 		(start 212.09 135.89)
@@ -7766,18 +7690,6 @@
 		)
 		(uuid "01035e36-77f4-4ad6-bb03-dd9801e20047")
 	)
-	(text "Actuator 2"
-		(exclude_from_sim no)
-		(at 373.38 185.42 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 132 132 132 1)
-			)
-			(justify right bottom)
-		)
-		(uuid "0139a032-cb34-4c97-ae75-0b30611f137d")
-	)
 	(text "Contactor 2"
 		(exclude_from_sim no)
 		(at 306.07 185.42 0)
@@ -7895,18 +7807,6 @@
 		)
 		(uuid "2df86f71-a7c3-43f1-9524-824e5216f1e7")
 	)
-	(text "Actuator 1"
-		(exclude_from_sim no)
-		(at 373.38 182.88 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 132 132 132 1)
-			)
-			(justify right bottom)
-		)
-		(uuid "2e8ccdaa-5437-476e-bede-429f2da66e9c")
-	)
 	(text "Battery Feedback"
 		(exclude_from_sim no)
 		(at 303.53 20.32 0)
@@ -7951,6 +7851,18 @@
 			(justify left bottom)
 		)
 		(uuid "3968f193-ec15-44db-91f6-fcadef5837ea")
+	)
+	(text "Contactor 4"
+		(exclude_from_sim no)
+		(at 373.38 185.42 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 132 132 132 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "3cd7a95c-9605-4e1c-b1f6-b135c8c7aa17")
 	)
 	(text "Actuators\nFeedbacks"
 		(exclude_from_sim no)
@@ -8033,17 +7945,6 @@
 		)
 		(uuid "7fb000c8-f9f7-4237-aef6-3571878293fd")
 	)
-	(text "Throttle PDN"
-		(exclude_from_sim no)
-		(at 327.66 135.89 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "856cf0fe-5420-4234-938c-29ef3907e2b7")
-	)
 	(text "Actuator Feedback 2"
 		(exclude_from_sim no)
 		(at 356.87 218.44 0)
@@ -8076,17 +7977,6 @@
 			(justify left bottom)
 		)
 		(uuid "8ea11557-7873-41cd-9071-3d376dc35b0f")
-	)
-	(text "Throttle PUP"
-		(exclude_from_sim no)
-		(at 270.51 135.89 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "9018fcb1-e6d2-4b80-badc-5212eb915c17")
 	)
 	(text "Contactors\nControls"
 		(exclude_from_sim no)
@@ -8216,6 +8106,18 @@
 		)
 		(uuid "e281176f-0818-4d49-9e8e-27a4c2bde980")
 	)
+	(text "Contactor 3"
+		(exclude_from_sim no)
+		(at 373.38 182.88 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 132 132 132 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "ec0e0d9c-77f5-457d-a3ca-027d61afdc4a")
+	)
 	(text "Fuel Cell Contactor"
 		(exclude_from_sim no)
 		(at 236.22 185.42 0)
@@ -8283,17 +8185,6 @@
 			(justify left bottom)
 		)
 		(uuid "0bec16b3-1718-4967-abb5-89274b1e4c31")
-	)
-	(label "MCP3008.CH2"
-		(at 274.32 153.67 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "1909b7c1-aa9d-473a-bd20-0278938b64f1")
 	)
 	(label "GPIO7{slash}SPI0.CE1"
 		(at 214.63 231.14 0)
@@ -8966,17 +8857,6 @@
 		)
 		(uuid "f8847605-4424-4885-8e0b-f6caa1012aee")
 	)
-	(label "MCP3008.CH3"
-		(at 332.74 148.59 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "f919bdbe-5521-4279-8e58-f2c1e5ca575a")
-	)
 	(label "GPIO11{slash}SPI0.SCLK"
 		(at 48.26 55.88 0)
 		(fields_autoplaced yes)
@@ -9440,72 +9320,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+5V")
-		(at 293.37 146.05 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "04d4a27b-4294-4df5-aa38-954950a1bc29")
-		(property "Reference" "#PWR046"
-			(at 293.37 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 293.37 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 293.37 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 293.37 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 293.37 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "38485cdb-2c06-4865-af58-1ab62c89716e")
-		)
-		(instances
-			(project "ExoSpineV2"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "#PWR046")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector_Generic:Conn_01x03")
 		(at 396.24 205.74 0)
 		(unit 1)
@@ -9515,8 +9329,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "05f8d9eb-1634-4d71-96c1-e88469d22e9d")
-		(property "Reference" "J56"
-			(at 398.78 204.47 0)
+		(property "Reference" "J76"
+			(at 398.78 204.4699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9525,7 +9339,7 @@
 			)
 		)
 		(property "Value" "JST PH 3pin"
-			(at 398.78 207.01 0)
+			(at 398.78 207.0099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9581,7 +9395,7 @@
 		(instances
 			(project "ExoSpineV2"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "J56")
+					(reference "J76")
 					(unit 1)
 				)
 			)
@@ -9859,8 +9673,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "106a2537-e993-4d68-b4e0-083a6753d728")
-		(property "Reference" "J54"
-			(at 331.47 204.47 0)
+		(property "Reference" "J74"
+			(at 331.47 204.4699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9869,7 +9683,7 @@
 			)
 		)
 		(property "Value" "JST PH 3pin"
-			(at 331.47 207.01 0)
+			(at 331.47 207.0099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9925,7 +9739,7 @@
 		(instances
 			(project "ExoSpineV2"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "J54")
+					(reference "J74")
 					(unit 1)
 				)
 			)
@@ -10560,7 +10374,7 @@
 			)
 		)
 		(property "Value" "74HC00D,653"
-			(at 292.1 242.57 0)
+			(at 292.1 246.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10650,84 +10464,6 @@
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "U2")
 					(unit 4)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 351.79 152.4 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "23a2ed09-417a-486a-b468-4b1b0ab977a4")
-		(property "Reference" "R44"
-			(at 346.71 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10k"
-			(at 346.71 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 350.012 152.4 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF1002TCE_C25744.pdf"
-			(at 351.79 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 351.79 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Part Number" "C25744"
-			(at 351.79 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0748bc42-7e15-4633-9ec3-e6208f6e42ff")
-		)
-		(pin "2"
-			(uuid "196e31af-3d4d-4fd7-852d-7f91d0a26791")
-		)
-		(instances
-			(project "ExoSpineV2"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "R44")
-					(unit 1)
 				)
 			)
 		)
@@ -10965,19 +10701,17 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "2a9eef3c-dfc7-402f-a892-7aa92380162b")
-		(property "Reference" "J62"
-			(at 271.78 228.5999 0)
+		(property "Reference" "J81"
+			(at 270.51 227.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "JST PH 3pin"
-			(at 271.78 231.1399 0)
+			(at 273.05 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11033,7 +10767,7 @@
 		(instances
 			(project "ExoSpineV2"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "J62")
+					(reference "J81")
 					(unit 1)
 				)
 			)
@@ -11115,7 +10849,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2e252fef-b075-45f3-a366-2d0bfaafdd92")
-		(property "Reference" "C3"
+		(property "Reference" "C41"
 			(at 99.695 173.99 0)
 			(effects
 				(font
@@ -11178,7 +10912,7 @@
 		(instances
 			(project "ExoSpineV2"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "C3")
+					(reference "C41")
 					(unit 1)
 				)
 			)
@@ -11311,72 +11045,6 @@
 			(project "ExoSpineV2"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR022")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 300.99 151.13 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "328dccf6-ff1e-4bf9-8197-73b3f6074210")
-		(property "Reference" "#PWR049"
-			(at 300.99 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 300.99 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 300.99 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 300.99 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 300.99 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "861dab85-1074-49bd-8ed1-1cc40f72c303")
-		)
-		(instances
-			(project "ExoSpineV2"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -11668,8 +11336,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "365ac431-fe37-4350-bc9b-e684326a0b0c")
-		(property "Reference" "R12"
-			(at 66.04 154.94 90)
+		(property "Reference" "R42"
+			(at 66.04 153.67 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11677,7 +11345,7 @@
 			)
 		)
 		(property "Value" "2.2k"
-			(at 66.04 157.48 90)
+			(at 66.04 156.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11729,7 +11397,7 @@
 		(instances
 			(project "ExoSpineV2"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "R12")
+					(reference "R42")
 					(unit 1)
 				)
 			)
@@ -11943,7 +11611,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3be0b487-a42c-4176-8c66-ced3b4c3b153")
-		(property "Reference" "C8"
+		(property "Reference" "C46"
 			(at 137.795 173.99 0)
 			(effects
 				(font
@@ -12006,73 +11674,7 @@
 		(instances
 			(project "ExoSpineV2"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "C8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 359.41 146.05 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3c18753a-97f9-4d24-a5f9-5a8adca52d3a")
-		(property "Reference" "#PWR042"
-			(at 359.41 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 359.41 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 359.41 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 359.41 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 359.41 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8e542c56-f2a9-4531-82f7-0865ad0af751")
-		)
-		(instances
-			(project "ExoSpineV2"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "#PWR042")
+					(reference "C46")
 					(unit 1)
 				)
 			)
@@ -12294,7 +11896,7 @@
 			)
 		)
 		(property "Value" "74HC00D,653"
-			(at 292.1 232.41 0)
+			(at 292.1 236.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12464,7 +12066,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "437869be-98c4-4d66-9cf1-f1ab760f047b")
-		(property "Reference" "C5"
+		(property "Reference" "C43"
 			(at 114.935 173.99 0)
 			(effects
 				(font
@@ -12527,7 +12129,7 @@
 		(instances
 			(project "ExoSpineV2"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "C5")
+					(reference "C43")
 					(unit 1)
 				)
 			)
@@ -12543,8 +12145,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "43811a3d-e232-4718-8e8f-6af4da574108")
-		(property "Reference" "J41"
-			(at 256.54 153.67 0)
+		(property "Reference" "J51"
+			(at 256.54 153.6699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12553,7 +12155,7 @@
 			)
 		)
 		(property "Value" "JST PH 2pin"
-			(at 256.54 156.21 0)
+			(at 256.54 156.2099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12606,7 +12208,7 @@
 		(instances
 			(project "ExoSpineV2"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "J41")
+					(reference "J51")
 					(unit 1)
 				)
 			)
@@ -12751,19 +12353,17 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "491922cf-5a52-4c15-847f-614c46cd0afb")
-		(property "Reference" "J63"
-			(at 373.38 229.8699 0)
+		(property "Reference" "J82"
+			(at 372.11 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "JST PH 3pin"
-			(at 373.38 232.4099 0)
+			(at 374.65 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12819,7 +12419,7 @@
 		(instances
 			(project "ExoSpineV2"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "J63")
+					(reference "J82")
 					(unit 1)
 				)
 			)
@@ -12968,72 +12568,6 @@
 			(project "ExoSpineV2"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "J3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 300.99 156.21 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5244f866-bde8-42c0-a9b4-3837f2cd5d64")
-		(property "Reference" "#PWR050"
-			(at 300.99 162.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 300.99 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 300.99 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 300.99 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 300.99 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c978b4d9-23e7-4754-bad9-68b48cbd82d0")
-		)
-		(instances
-			(project "ExoSpineV2"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "#PWR050")
 					(unit 1)
 				)
 			)
@@ -13332,72 +12866,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 351.79 156.21 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5dfae025-724e-45e5-9c75-f034601ed81f")
-		(property "Reference" "#PWR036"
-			(at 351.79 162.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 351.79 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 351.79 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 351.79 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 351.79 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "bf036d13-eaa6-4c54-b27d-51a879c15c34")
-		)
-		(instances
-			(project "ExoSpineV2"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "#PWR036")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "74xx:74HC00")
 		(at 322.58 234.95 0)
 		(unit 2)
@@ -13415,7 +12883,7 @@
 			)
 		)
 		(property "Value" "74HC00D,653"
-			(at 322.58 234.95 0)
+			(at 322.58 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14512,7 +13980,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "771efd67-9104-4957-9039-33c0fe01cd85")
-		(property "Reference" "C9"
+		(property "Reference" "C47"
 			(at 145.415 173.99 0)
 			(effects
 				(font
@@ -14575,7 +14043,7 @@
 		(instances
 			(project "ExoSpineV2"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "C9")
+					(reference "C47")
 					(unit 1)
 				)
 			)
@@ -14707,88 +14175,6 @@
 			(project "ExoSpineV2"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR059")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x03")
-		(at 364.49 148.59 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7e00062e-1e20-4dd4-be2f-ec469c7a5124")
-		(property "Reference" "J43"
-			(at 367.03 147.3199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "JST PH 3pin"
-			(at 367.03 149.8599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_JST:JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical"
-			(at 364.49 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 364.49 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 364.49 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Part Number" "C131339"
-			(at 364.49 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a0bab829-128f-4885-a8b6-163851376ca1")
-		)
-		(pin "2"
-			(uuid "eb44eaf0-0f79-43df-a724-22a082677832")
-		)
-		(pin "3"
-			(uuid "bc054a07-d676-494a-bae6-31beae2d53d3")
-		)
-		(instances
-			(project "ExoSpineV2"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "J43")
 					(unit 1)
 				)
 			)
@@ -15278,7 +14664,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "897fb114-0c0f-4861-be8e-65f2efeb940e")
-		(property "Reference" "J57"
+		(property "Reference" "J77"
 			(at 466.09 182.8799 0)
 			(effects
 				(font
@@ -15347,7 +14733,7 @@
 		(instances
 			(project "ExoSpineV2"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "J57")
+					(reference "J77")
 					(unit 1)
 				)
 			)
@@ -15620,7 +15006,7 @@
 		(dnp no)
 		(uuid "901c7758-2920-4819-ad99-569ab5422f6e")
 		(property "Reference" "U2"
-			(at 305.435 247.015 90)
+			(at 304.8 251.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15629,7 +15015,7 @@
 			)
 		)
 		(property "Value" "74HC00D,653"
-			(at 303.53 248.92 90)
+			(at 300.99 259.08 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15799,7 +15185,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "95486c8f-c4a0-41bd-a4fc-ffba52fee95b")
-		(property "Reference" "R41"
+		(property "Reference" "R51"
 			(at 231.14 147.32 0)
 			(effects
 				(font
@@ -15862,7 +15248,7 @@
 		(instances
 			(project "ExoSpineV2"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "R41")
+					(reference "R51")
 					(unit 1)
 				)
 			)
@@ -16022,8 +15408,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a42f791b-5df3-4897-a897-0f6f6e10d712")
-		(property "Reference" "J51"
-			(at 264.16 182.88 0)
+		(property "Reference" "J71"
+			(at 264.16 182.8799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16032,7 +15418,7 @@
 			)
 		)
 		(property "Value" "JST PH 4pin"
-			(at 264.16 185.42 0)
+			(at 264.16 185.4199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16091,151 +15477,7 @@
 		(instances
 			(project "ExoSpineV2"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "J51")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 293.37 149.86 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a50da16e-29cc-4a7b-ae7e-6728c6c52361")
-		(property "Reference" "R43"
-			(at 288.29 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10k"
-			(at 288.29 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 291.592 149.86 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF1002TCE_C25744.pdf"
-			(at 293.37 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 293.37 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Part Number" "C25744"
-			(at 293.37 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "03c34727-a246-4404-b111-98ac3758c206")
-		)
-		(pin "2"
-			(uuid "0eb06f38-fa44-4bcb-b79b-92dd211bc51b")
-		)
-		(instances
-			(project "ExoSpineV2"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "R43")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 359.41 151.13 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a5864dea-274a-4cd7-bb6c-1b9f2f74b47e")
-		(property "Reference" "#PWR043"
-			(at 359.41 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 359.41 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 359.41 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 359.41 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 359.41 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2763d763-9a86-41ce-a18a-2d5a7fcad14b")
-		)
-		(instances
-			(project "ExoSpineV2"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "#PWR043")
+					(reference "J71")
 					(unit 1)
 				)
 			)
@@ -16302,88 +15544,6 @@
 			(project "ExoSpineV2"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR035")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x03")
-		(at 306.07 153.67 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a69f2d50-5bfc-458b-9764-4914e459cd68")
-		(property "Reference" "J42"
-			(at 308.61 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "JST PH 3pin"
-			(at 308.61 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_JST:JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical"
-			(at 306.07 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 306.07 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 306.07 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Part Number" "C131339"
-			(at 306.07 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "82699ad9-7bb2-4a33-940f-3a4caeb1c60f")
-		)
-		(pin "2"
-			(uuid "9cb5dc3e-5d67-4387-a6aa-ca870e73ff81")
-		)
-		(pin "3"
-			(uuid "a5c9e65a-d67e-44fb-b0f2-e15c2fd2dbe2")
-		)
-		(instances
-			(project "ExoSpineV2"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "J42")
 					(unit 1)
 				)
 			)
@@ -17257,7 +16417,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d4714637-4c56-4e0c-88c7-70a5c4ecb3da")
-		(property "Reference" "R42"
+		(property "Reference" "R52"
 			(at 241.3 147.32 0)
 			(effects
 				(font
@@ -17320,7 +16480,7 @@
 		(instances
 			(project "ExoSpineV2"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "R42")
+					(reference "R52")
 					(unit 1)
 				)
 			)
@@ -17410,7 +16570,7 @@
 			)
 		)
 		(property "Value" "74HC00D,653"
-			(at 307.34 240.03 0)
+			(at 307.34 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17580,7 +16740,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "dd0174e9-2cdb-4561-b134-3ea5add8e920")
-		(property "Reference" "C7"
+		(property "Reference" "C45"
 			(at 130.175 173.99 0)
 			(effects
 				(font
@@ -17643,7 +16803,7 @@
 		(instances
 			(project "ExoSpineV2"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "C7")
+					(reference "C45")
 					(unit 1)
 				)
 			)
@@ -17725,7 +16885,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e38e702a-1ee1-493a-ac16-26aa42fcfa08")
-		(property "Reference" "C6"
+		(property "Reference" "C44"
 			(at 122.555 173.99 0)
 			(effects
 				(font
@@ -17788,7 +16948,7 @@
 		(instances
 			(project "ExoSpineV2"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "C6")
+					(reference "C44")
 					(unit 1)
 				)
 			)
@@ -17886,8 +17046,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e647cb2a-5bc2-42e7-b15b-7a193aa8749c")
-		(property "Reference" "J53"
-			(at 331.47 182.88 0)
+		(property "Reference" "J73"
+			(at 331.47 182.8799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17896,7 +17056,7 @@
 			)
 		)
 		(property "Value" "JST PH 4pin"
-			(at 331.47 185.42 0)
+			(at 331.47 185.4199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17955,7 +17115,7 @@
 		(instances
 			(project "ExoSpineV2"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "J53")
+					(reference "J73")
 					(unit 1)
 				)
 			)
@@ -18037,7 +17197,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e8d2d947-33cc-45b4-9a27-a77fdd0b5840")
-		(property "Reference" "C10"
+		(property "Reference" "C48"
 			(at 153.035 173.99 0)
 			(effects
 				(font
@@ -18100,7 +17260,7 @@
 		(instances
 			(project "ExoSpineV2"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "C10")
+					(reference "C48")
 					(unit 1)
 				)
 			)
@@ -18181,7 +17341,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ee464964-3f0a-4ea2-9857-1198394fb39f")
-		(property "Reference" "C4"
+		(property "Reference" "C42"
 			(at 107.315 173.99 0)
 			(effects
 				(font
@@ -18244,7 +17404,7 @@
 		(instances
 			(project "ExoSpineV2"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "C4")
+					(reference "C42")
 					(unit 1)
 				)
 			)
@@ -18260,7 +17420,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eeb8ff4c-5e4b-41ee-b77c-adda56f2307c")
-		(property "Reference" "J58"
+		(property "Reference" "J78"
 			(at 466.09 204.4699 0)
 			(effects
 				(font
@@ -18326,7 +17486,7 @@
 		(instances
 			(project "ExoSpineV2"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "J58")
+					(reference "J78")
 					(unit 1)
 				)
 			)
@@ -18407,8 +17567,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f1014c1c-ba23-405e-8f52-2d8610f07812")
-		(property "Reference" "J52"
-			(at 264.16 204.47 0)
+		(property "Reference" "J72"
+			(at 264.16 204.4699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18417,7 +17577,7 @@
 			)
 		)
 		(property "Value" "JST PH 3pin"
-			(at 264.16 207.01 0)
+			(at 264.16 207.0099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18473,7 +17633,7 @@
 		(instances
 			(project "ExoSpineV2"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "J52")
+					(reference "J72")
 					(unit 1)
 				)
 			)
@@ -18569,8 +17729,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f2db61c2-c3d6-40b8-af89-d04276caac8b")
-		(property "Reference" "R13"
-			(at 59.69 170.815 0)
+		(property "Reference" "R41"
+			(at 59.69 170.1799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18579,7 +17739,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 59.69 173.355 0)
+			(at 59.69 172.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18632,7 +17792,7 @@
 		(instances
 			(project "ExoSpineV2"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "R13")
+					(reference "R41")
 					(unit 1)
 				)
 			)
@@ -19109,8 +18269,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f9de9162-e580-4fd8-a063-10aba7addc52")
-		(property "Reference" "J55"
-			(at 398.78 182.88 0)
+		(property "Reference" "J75"
+			(at 398.78 182.8799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19119,7 +18279,7 @@
 			)
 		)
 		(property "Value" "JST PH 4pin"
-			(at 398.78 185.42 0)
+			(at 398.78 185.4199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19178,7 +18338,7 @@
 		(instances
 			(project "ExoSpineV2"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "J55")
+					(reference "J75")
 					(unit 1)
 				)
 			)
