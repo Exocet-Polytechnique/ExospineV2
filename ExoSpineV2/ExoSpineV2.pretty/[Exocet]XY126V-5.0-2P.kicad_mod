@@ -1,0 +1,169 @@
+(footprint "[Exocet]XY126V-5.0-2P"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "8e70dac2-a1e3-4d6a-bb2a-4064b2ed0c12")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "[Exocet]XY126V-5.0-2P"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "276f5079-6de4-419e-bc93-49b85a161085")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "[Exocet]XY126V-5.0-2P"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "976cf1c7-d0fb-4e9f-8c0a-d1c8923fe1ac")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "25126896-cc34-41f8-a728-29c46cf32d5d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "15818dfc-7967-41d2-a829-314942bb0f90")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -5.00126 -3.8989)
+		(end 5.00126 -3.8989)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "7ca82a0a-e9a3-4ebc-93cc-665eaff148b3")
+	)
+	(fp_line
+		(start -5.00126 -1.78816)
+		(end 5.00126 -1.78816)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "4a207ce4-75f1-4d64-8695-69f7e76b77d9")
+	)
+	(fp_line
+		(start -5.00126 3.52044)
+		(end 5.00126 3.52044)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "70011481-56ca-43e9-b4b8-d5d34dabf325")
+	)
+	(fp_line
+		(start -5.00126 5.10032)
+		(end -5.00126 -3.8989)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "59882b6e-c11e-471a-bfd0-00bbf2e058fc")
+	)
+	(fp_line
+		(start -5.00126 5.10032)
+		(end 5.00126 5.10032)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "8cc706b8-7027-4694-bcd3-41118c9a99e1")
+	)
+	(fp_line
+		(start 5.00126 -3.8989)
+		(end 5.00126 5.10032)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "bedfca85-f7df-4ead-83f1-596618b9a101")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "3cd259c0-ed86-4a74-b9b0-be52fc4fc62f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -2.49936 0)
+		(size 2.286 2.286)
+		(drill 1.50114)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ca49442d-73c9-4a9e-a83f-103c892613e3")
+	)
+	(pad "2" thru_hole circle
+		(at 2.49936 0)
+		(size 2.286 2.286)
+		(drill 1.50114)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1b964fc5-5dea-4e7b-8b53-d1ccc22a605e")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal.wrl"
+		(offset
+			(xyz -2.5 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
