@@ -8604,7 +8604,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" "C131339"
 			(at 346.71 205.74 0)
 			(effects
 				(font
@@ -8948,7 +8948,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" "C131339"
 			(at 295.91 205.74 0)
 			(effects
 				(font
@@ -9955,6 +9955,15 @@
 		)
 		(property "Description" ""
 			(at 78.74 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part Number" "C2977589"
+			(at 99.06 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11626,7 +11635,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ExoSpineV2:[Mouser]01530008(Littelfuse)"
+		(property "Footprint" "ExoSpineV2:[Mouser~]01530008(Littelfuse)"
 			(at 58.42 105.918 90)
 			(effects
 				(font
@@ -13253,7 +13262,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ExoSpineV2:[Exocet]XY126V-5.0-2P"
+		(property "Footprint" "ExoSpineV2:[Exocet]MX126-5.0-02P-GN01-Cu-S-A"
 			(at 49.53 104.14 0)
 			(effects
 				(font
@@ -16732,7 +16741,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" "C131339"
 			(at 397.51 205.74 0)
 			(effects
 				(font
@@ -16879,7 +16888,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" "C131339"
 			(at 243.84 205.74 0)
 			(effects
 				(font

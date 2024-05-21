@@ -1,4 +1,4 @@
-(footprint "[Mouser]01530008(Littelfuse)"
+(footprint "[Mouser~]01530008(Littelfuse)"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -6,17 +6,17 @@
 	(descr "01530008")
 	(tags "Fuse")
 	(property "Reference" "F**"
-		(at -0.4908 -0.1082 0)
+		(at 0 -10.16 0)
 		(layer "F.SilkS")
 		(uuid "f7d13ba8-da4b-4f56-95c5-091a6e0554f8")
 		(effects
 			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
+				(size 1 1)
+				(thickness 0.15)
 			)
 		)
 	)
-	(property "Value" "[Mouser]01530008(Littelfuse)"
+	(property "Value" "[Mouser~]01530008(Littelfuse)"
 		(at -0.4908 -0.1082 0)
 		(layer "F.SilkS")
 		(hide yes)
@@ -28,7 +28,7 @@
 			)
 		)
 	)
-	(property "Footprint" "[Mouser]01530008(Littelfuse)"
+	(property "Footprint" "[Mouser~]01530008(Littelfuse)"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -69,7 +69,7 @@
 		(start -3.81 -8.636)
 		(end -3.81 8.636)
 		(stroke
-			(width 0.2)
+			(width 0.12)
 			(type solid)
 		)
 		(layer "F.SilkS")
@@ -79,17 +79,37 @@
 		(start -3.81 8.636)
 		(end 3.81 8.636)
 		(stroke
-			(width 0.2)
+			(width 0.12)
 			(type solid)
 		)
 		(layer "F.SilkS")
 		(uuid "e9281645-c8c7-4987-99d9-f0b2cd1d92f6")
 	)
 	(fp_line
+		(start -3.048 -8.636)
+		(end -3.048 8.636)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "648295e1-5070-4b74-b471-22c3e014e997")
+	)
+	(fp_line
+		(start 3.048 8.636)
+		(end 3.048 -8.636)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "daa5a4c1-831e-4f44-ab19-f62cb0d23e19")
+	)
+	(fp_line
 		(start 3.81 -8.636)
 		(end -3.81 -8.636)
 		(stroke
-			(width 0.2)
+			(width 0.12)
 			(type solid)
 		)
 		(layer "F.SilkS")
@@ -99,11 +119,22 @@
 		(start 3.81 8.636)
 		(end 3.81 -8.636)
 		(stroke
-			(width 0.2)
+			(width 0.12)
 			(type solid)
 		)
 		(layer "F.SilkS")
 		(uuid "10723c59-f220-445f-a113-ec3bca4fc3c9")
+	)
+	(fp_rect
+		(start -4.01 -8.836)
+		(end 4.01 8.836)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "90a4fe91-0c94-4ab8-90e8-a5b979495bc6")
 	)
 	(fp_line
 		(start -3.81 -8.636)
