@@ -7348,6 +7348,26 @@
 		)
 		(uuid f85e9a07-672b-42dc-a524-a60fc7917496)
 	)
+	(text_box "I2C addresses:\n"
+		(exclude_from_sim no)
+		(at 340.36 44.45 0)
+		(size 10.16 6.35)
+		(stroke
+			(width -0.0001)
+			(type default)
+		)
+		(fill
+			(type color)
+			(color 255 229 191 1)
+		)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify right top)
+		)
+		(uuid "a1d97106-299b-443f-a81b-af37ae4a88d2")
+	)
 	(text_box "I2C addresses:\nADXL = 0x53\nHMC = 0x0C\nITG = 0x68\nBMP = 0x77\n"
 		(exclude_from_sim no)
 		(at 293.37 44.45 0)
@@ -7849,15 +7869,15 @@
 		(uuid "4c53b08e-61fe-4f9c-a8c8-c157e183fab0")
 	)
 	(label "Battery.NALCC"
-		(at 48.26 35.56 0)
+		(at 147.32 40.64 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
-		(uuid "5069ddbc-357e-4355-aaa5-a8f551963b7a")
+		(uuid "4f76e9fd-a424-48d3-96a1-f9841632407f")
 	)
 	(label "ADC.MOSI"
 		(at 24.13 162.56 0)
@@ -7913,6 +7933,17 @@
 			(justify right bottom)
 		)
 		(uuid "6b5389ae-010e-4929-8e16-b928718ba791")
+	)
+	(label "TemperatureSensors"
+		(at 48.26 35.56 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6b5a8d41-ffca-4733-acce-7e55a7fe3319")
 	)
 	(label "MCP3008.CH1"
 		(at 177.8 154.94 180)
@@ -7991,17 +8022,6 @@
 		)
 		(uuid "8af59282-edd5-4a5c-b07c-bffe55ea1958")
 	)
-	(label "Battery.NALCC"
-		(at 307.34 36.83 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "8e34ad79-fe96-4c5f-b626-180cde1cbd1d")
-	)
 	(label "SDA"
 		(at 48.26 30.48 0)
 		(fields_autoplaced yes)
@@ -8079,6 +8099,17 @@
 		)
 		(uuid "a5c30aa7-4518-41d3-9bff-d4754e147484")
 	)
+	(label "Battery.NALCC"
+		(at 307.34 36.83 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "aa367522-fc87-4775-a352-2b362f628e04")
+	)
 	(label "Contactor2"
 		(at 217.17 185.42 0)
 		(fields_autoplaced yes)
@@ -8100,17 +8131,6 @@
 			(justify left bottom)
 		)
 		(uuid "b2ab078a-8774-4d1b-9381-5fcf23cc6a42")
-	)
-	(label "SDA"
-		(at 307.34 31.75 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "b8dc3b9a-1dc5-4984-afc9-b392e4be8125")
 	)
 	(label "Actuator1.Feedback"
 		(at 353.06 234.95 180)
@@ -8211,6 +8231,17 @@
 		)
 		(uuid "db250987-27c8-4c2d-ab0c-24145115bce4")
 	)
+	(label "SCL"
+		(at 307.34 34.29 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "dc6e0384-a6e4-452e-b412-ed98e3eaece3")
+	)
 	(label "Contactor4"
 		(at 147.32 66.04 180)
 		(fields_autoplaced yes)
@@ -8233,8 +8264,8 @@
 		)
 		(uuid "e48cde48-689e-4c03-9db0-25a1efb50724")
 	)
-	(label "SCL"
-		(at 307.34 34.29 0)
+	(label "SDA"
+		(at 307.34 31.75 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8242,7 +8273,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "f3406ce7-883d-47b6-b559-5bbb5cc97517")
+		(uuid "f6c6b12b-3a41-48b2-a188-47a13b6af6ca")
 	)
 	(label "Contactor1.DMS"
 		(at 217.17 182.88 0)
@@ -8265,17 +8296,6 @@
 			(justify left bottom)
 		)
 		(uuid "f9b80c2b-5447-4c6b-b35d-cb6b75fa7978")
-	)
-	(label "TemperatureSensors"
-		(at 147.32 40.64 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "fdf7a84e-5f0c-496e-bad3-1e3cefc2c94c")
 	)
 	(label "Contactor6"
 		(at 147.32 71.12 180)
