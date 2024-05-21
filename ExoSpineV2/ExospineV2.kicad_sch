@@ -7348,10 +7348,10 @@
 		)
 		(uuid f85e9a07-672b-42dc-a524-a60fc7917496)
 	)
-	(text_box "I2C addresses:\n"
+	(text_box "I2C address:\nBattery Sense = 0x64"
 		(exclude_from_sim no)
-		(at 340.36 44.45 0)
-		(size 10.16 6.35)
+		(at 335.28 46.99 0)
+		(size 15.24 3.81)
 		(stroke
 			(width -0.0001)
 			(type default)
@@ -9302,7 +9302,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" "C131337"
 			(at 247.65 69.85 0)
 			(effects
 				(font
@@ -10761,7 +10761,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "36ffed94-7d8a-48fe-9e2b-28c838bd275b")
 		(property "Reference" "J4"
 			(at 102.616 100.838 0)
@@ -11540,7 +11540,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" "C131337"
 			(at 254 153.67 0)
 			(effects
 				(font
@@ -11826,6 +11826,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part Number" "C157993"
+			(at 331.47 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "29a27780-cfb5-447e-a750-3f2f4921c419")
 		)
@@ -12021,7 +12030,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "50fb82e8-4d2a-4f20-b220-325ef653d193")
 		(property "Reference" "J3"
 			(at 102.616 97.028 0)
@@ -13117,7 +13126,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "6d10a243-97f5-4709-899a-a239e7635283")
 		(property "Reference" "J6"
 			(at 102.616 108.458 0)
@@ -13230,7 +13239,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" "C131337"
 			(at 240.03 228.6 0)
 			(effects
 				(font
@@ -13927,7 +13936,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" "C131337"
 			(at 356.87 69.85 0)
 			(effects
 				(font
@@ -14025,7 +14034,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "86a85805-4c8c-4bf5-90c0-55c1746bbf97")
 		(property "Reference" "J5"
 			(at 102.616 104.648 0)
@@ -14203,7 +14212,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" "C131334"
 			(at 397.51 182.88 0)
 			(effects
 				(font
@@ -14947,7 +14956,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" "C131334"
 			(at 243.84 182.88 0)
 			(effects
 				(font
@@ -16453,7 +16462,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" "C131334"
 			(at 295.91 182.88 0)
 			(effects
 				(font
@@ -16990,7 +16999,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" "C131337"
 			(at 302.26 69.85 0)
 			(effects
 				(font
@@ -17440,7 +17449,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" "C5116483"
 			(at 281.94 31.75 0)
 			(effects
 				(font
@@ -17525,7 +17534,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" "C131334"
 			(at 346.71 182.88 0)
 			(effects
 				(font

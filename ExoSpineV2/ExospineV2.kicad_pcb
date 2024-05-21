@@ -13034,7 +13034,8 @@
 		(descr "01530008")
 		(tags "Fuse")
 		(property "Reference" "F1"
-			(at 0 -8.83 90)
+			(at 0 8.84 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "a1745053-a5a8-4481-b7b9-924855fe2b45")
 			(effects
@@ -20690,7 +20691,7 @@
 			(justify right top)
 		)
 	)
-	(gr_text "DMS & FC\nContactors"
+	(gr_text "Contactors\nDMS & FC"
 		(at 162.941 41.91 270)
 		(layer "F.SilkS")
 		(uuid "abfc60c0-b040-40a5-9cf4-607bf329f009")
