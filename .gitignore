@@ -37,3 +37,4 @@ fp-info-cache
 *.tsv
 
 # Added by user
+plots/

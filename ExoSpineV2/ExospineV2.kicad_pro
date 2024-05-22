@@ -462,7 +462,7 @@
     ]
   },
   "meta": {
-    "filename": "ExoSpineV2.kicad_pro",
+    "filename": "ExospineV2.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -527,7 +527,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "./",
+      "plot": "plots/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
