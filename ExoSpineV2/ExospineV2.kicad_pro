@@ -217,12 +217,12 @@
           "drill": 0.0
         },
         {
-          "diameter": 0.9,
-          "drill": 0.6
+          "diameter": 0.7,
+          "drill": 0.4
         },
         {
-          "diameter": 1.0,
-          "drill": 0.7
+          "diameter": 1.1,
+          "drill": 0.8
         }
       ],
       "zones_allow_external_fillets": false,
@@ -480,8 +480,8 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
-        "via_diameter": 0.9,
-        "via_drill": 0.6,
+        "via_diameter": 0.7,
+        "via_drill": 0.4,
         "wire_width": 6
       },
       {
@@ -497,8 +497,8 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.4,
-        "via_diameter": 1.0,
-        "via_drill": 0.7,
+        "via_diameter": 1.1,
+        "via_drill": 0.8,
         "wire_width": 6
       }
     ],
